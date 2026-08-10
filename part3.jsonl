@@ -1,0 +1,958 @@
+{"input": "read", "target": "I like to read books."}
+{"input": "read", "target": "Can you read this story?"}
+{"input": "read", "target": "Read a letter with me."}
+{"input": "rectangle", "target": "A door is a rectangle."}
+{"input": "rectangle", "target": "Draw a rectangle on the paper."}
+{"input": "rectangle", "target": "A rectangle has four sides."}
+{"input": "remember", "target": "Remember to bring your bag."}
+{"input": "remember", "target": "I remember my friend's name."}
+{"input": "remember", "target": "Can you remember this song?"}
+{"input": "remote_control", "target": "Use the remote control for the TV."}
+{"input": "remote_control", "target": "The remote control is on the sofa."}
+{"input": "remote_control", "target": "Can you find the remote control?"}
+{"input": "remote", "target": "I use the remote for the TV."}
+{"input": "remote", "target": "The remote is on the table."}
+{"input": "remote", "target": "Can you find the remote?"}
+{"input": "residence", "target": "This is my residence."}
+{"input": "residence", "target": "We live in a big residence."}
+{"input": "residence", "target": "The residence has a door."}
+{"input": "restaurant", "target": "We eat at the restaurant."}
+{"input": "restaurant", "target": "The restaurant has pizza."}
+{"input": "restaurant", "target": "Let's go to the restaurant."}
+{"input": "rest", "target": "I need to rest."}
+{"input": "rest", "target": "Let's rest on the bed."}
+{"input": "rest", "target": "Rest makes me feel better."}
+{"input": "return", "target": "Please return my toy."}
+{"input": "return", "target": "I return home after school."}
+{"input": "return", "target": "Return the book to the shelf."}
+{"input": "rhombus", "target": "A rhombus has four sides."}
+{"input": "rhombus", "target": "Draw a rhombus."}
+{"input": "rhombus", "target": "The shape is a rhombus."}
+{"input": "ride_a_bike", "target": "I can ride a bike."}
+{"input": "ride_a_bike", "target": "Let's ride a bike outside."}
+{"input": "ride_a_bike", "target": "She rides a bike fast."}
+{"input": "ring", "target": "This is a ring."}
+{"input": "ring", "target": "Mom wears a ring."}
+{"input": "ring", "target": "The ring is shiny."}
+{"input": "rinse", "target": "Rinse your hands."}
+{"input": "rinse", "target": "I rinse my mouth."}
+{"input": "rinse", "target": "Rinse the cup, please."}
+{"input": "river", "target": "The river is long."}
+{"input": "river", "target": "Fish swim in the river."}
+{"input": "river", "target": "We walk by the river."}
+{"input": "rocket", "target": "The rocket goes up."}
+{"input": "rocket", "target": "I see a rocket."}
+{"input": "rocket", "target": "The rocket is fast."}
+{"input": "root", "target": "The tree has roots."}
+{"input": "root", "target": "Roots are under the ground."}
+{"input": "root", "target": "I see a root."}
+{"input": "rose", "target": "This is a rose."}
+{"input": "rose", "target": "The rose is red."}
+{"input": "rose", "target": "I smell the rose."}
+{"input": "route", "target": "This is the route."}
+{"input": "route", "target": "We follow the route."}
+{"input": "route", "target": "The route is long."}
+{"input": "rub", "target": "Rub your hands."}
+{"input": "rub", "target": "I rub my eyes."}
+{"input": "rub", "target": "Rub the soap on your skin."}
+{"input": "rucksack", "target": "I have a rucksack."}
+{"input": "rucksack", "target": "The rucksack is blue."}
+{"input": "rucksack", "target": "Put books in the rucksack."}
+{"input": "run", "target": "I run fast."}
+{"input": "run", "target": "Let's run outside."}
+{"input": "run", "target": "She can run."}
+{"input": "russian_salad", "target": "This is Russian salad."}
+{"input": "russian_salad", "target": "I eat Russian salad."}
+{"input": "russian_salad", "target": "Russian salad is tasty."}
+{"input": "sad", "target": "I feel sad."}
+{"input": "sad", "target": "She looks sad."}
+{"input": "sad", "target": "The dog is sad."}
+{"input": "saint_george", "target": "Today is Saint George's day."}
+{"input": "saint_george", "target": "We read about Saint George."}
+{"input": "saint_george", "target": "Saint George is brave."}
+{"input": "saint_john_s_day", "target": "It is Saint John's Day."}
+{"input": "saint_john_s_day", "target": "We celebrate Saint John's Day."}
+{"input": "saint_john_s_day", "target": "Saint John's Day is fun."}
+{"input": "salad", "target": "This is a salad."}
+{"input": "salad", "target": "I like to eat salad."}
+{"input": "salad", "target": "The salad is green."}
+{"input": "salty", "target": "The chips are salty."}
+{"input": "salty", "target": "This soup is salty."}
+{"input": "salty", "target": "I taste something salty."}
+{"input": "salt", "target": "Please pass the salt."}
+{"input": "salt", "target": "Salt is white."}
+{"input": "salt", "target": "I put salt on my food."}
+{"input": "sandwich", "target": "I eat a sandwich."}
+{"input": "sandwich", "target": "The sandwich has cheese."}
+{"input": "sandwich", "target": "She likes her sandwich."}
+{"input": "saturday", "target": "Today is Saturday."}
+{"input": "saturday", "target": "I play on Saturday."}
+{"input": "saturday", "target": "Saturday is my favorite day."}
+{"input": "sausages", "target": "I like sausages."}
+{"input": "sausages", "target": "Sausages are for breakfast."}
+{"input": "sausages", "target": "The sausages are hot."}
+{"input": "sausage", "target": "This is a sausage."}
+{"input": "sausage", "target": "I eat a sausage."}
+{"input": "sausage", "target": "The sausage is tasty."}
+{"input": "say", "target": "Say hello to your friend."}
+{"input": "say", "target": "Can you say my name?"}
+{"input": "say", "target": "I say thank you."}
+{"input": "scared", "target": "I feel scared."}
+{"input": "scared", "target": "The cat is scared."}
+{"input": "scared", "target": "She is scared of the dark."}
+{"input": "scarf", "target": "I wear a scarf."}
+{"input": "scarf", "target": "The scarf is warm."}
+{"input": "scarf", "target": "My scarf is red."}
+{"input": "schoolteacher", "target": "My schoolteacher is nice."}
+{"input": "schoolteacher", "target": "The schoolteacher helps me."}
+{"input": "schoolteacher", "target": "I listen to my schoolteacher."}
+{"input": "schoolyard", "target": "We play in the schoolyard."}
+{"input": "schoolyard", "target": "The schoolyard is big."}
+{"input": "schoolyard", "target": "I run in the schoolyard."}
+{"input": "school", "target": "I go to school."}
+{"input": "school", "target": "School starts at eight."}
+{"input": "school", "target": "My school is close."}
+{"input": "science", "target": "I like science class."}
+{"input": "science", "target": "We learn science at school."}
+{"input": "science", "target": "Science is fun."}
+{"input": "scissors", "target": "I use scissors to cut."}
+{"input": "scissors", "target": "Be careful with scissors."}
+{"input": "scissors", "target": "The scissors are sharp."}
+{"input": "seal", "target": "The seal swims in the sea."}
+{"input": "seal", "target": "I saw a seal at the zoo."}
+{"input": "seal", "target": "The seal claps its flippers."}
+{"input": "search", "target": "Let's search for my toy."}
+{"input": "search", "target": "I search for my shoes."}
+{"input": "search", "target": "Can you search with me?"}
+{"input": "sea", "target": "The sea is blue."}
+{"input": "sea", "target": "We swim in the sea."}
+{"input": "sea", "target": "Fish live in the sea."}
+{"input": "see", "target": "I see a bird."}
+{"input": "see", "target": "Can you see me?"}
+{"input": "see", "target": "We see the sun."}
+{"input": "sell", "target": "I want to sell my toy."}
+{"input": "sell", "target": "They sell apples at the shop."}
+{"input": "sell", "target": "She will sell lemonade."}
+{"input": "september", "target": "September is a month."}
+{"input": "september", "target": "School starts in September."}
+{"input": "september", "target": "My birthday is in September."}
+{"input": "sew", "target": "Grandma can sew a dress."}
+{"input": "sew", "target": "I want to sew a button."}
+{"input": "sew", "target": "She likes to sew clothes."}
+{"input": "shampoo", "target": "I wash my hair with shampoo."}
+{"input": "shampoo", "target": "The shampoo smells nice."}
+{"input": "shampoo", "target": "Please use shampoo in the bath."}
+{"input": "shapes", "target": "I see many shapes."}
+{"input": "shapes", "target": "Circle is a shape."}
+{"input": "shapes", "target": "Can you draw shapes?"}
+{"input": "share", "target": "I share my toys."}
+{"input": "share", "target": "Please share your snack."}
+{"input": "share", "target": "We share with friends."}
+{"input": "sheep", "target": "The sheep is white."}
+{"input": "sheep", "target": "I see sheep in the field."}
+{"input": "sheep", "target": "Sheep say baa."}
+{"input": "shell", "target": "I found a shell on the beach."}
+{"input": "shell", "target": "The shell is pretty."}
+{"input": "shell", "target": "Put the shell in your pocket."}
+{"input": "shirt", "target": "My shirt is blue."}
+{"input": "shirt", "target": "I wear a shirt to school."}
+{"input": "shirt", "target": "The shirt is clean."}
+{"input": "shoes", "target": "Put on your shoes."}
+{"input": "shoes", "target": "My shoes are new."}
+{"input": "shoes", "target": "These shoes are big."}
+{"input": "shop", "target": "We go to the shop."}
+{"input": "shop", "target": "The shop sells candy."}
+{"input": "shop", "target": "I see a shop on the street."}
+{"input": "short", "target": "The pencil is short."}
+{"input": "short", "target": "He wears short pants."}
+{"input": "short", "target": "My hair is short."}
+{"input": "shout", "target": "Please do not shout."}
+{"input": "shout", "target": "He can shout very loud."}
+{"input": "shout", "target": "I shout for help."}
+{"input": "showers", "target": "I take showers every day."}
+{"input": "showers", "target": "Showers make me clean."}
+{"input": "showers", "target": "We have showers at home."}
+{"input": "show", "target": "I watch a show on TV."}
+{"input": "show", "target": "The show is funny."}
+{"input": "show", "target": "Let's go to the puppet show."}
+{"input": "silver", "target": "The spoon is silver."}
+{"input": "silver", "target": "I see a silver coin."}
+{"input": "silver", "target": "She wears a silver ring."}
+{"input": "sing", "target": "I like to sing."}
+{"input": "sing", "target": "Let's sing a song."}
+{"input": "sing", "target": "She can sing well."}
+{"input": "sister", "target": "I have a sister."}
+{"input": "sister", "target": "My sister is little."}
+{"input": "sister", "target": "Sister plays with me."}
+{"input": "sit", "target": "Please sit down."}
+{"input": "sit", "target": "I sit on the chair."}
+{"input": "sit", "target": "Let's sit together."}
+{"input": "skin", "target": "My skin is soft."}
+{"input": "skin", "target": "Skin covers my body."}
+{"input": "skin", "target": "She has light skin."}
+{"input": "skirt", "target": "She wears a skirt."}
+{"input": "skirt", "target": "The skirt is red."}
+{"input": "skirt", "target": "I like my new skirt."}
+{"input": "ski", "target": "I want to ski."}
+{"input": "ski", "target": "He can ski fast."}
+{"input": "ski", "target": "Ski down the hill."}
+{"input": "slalom", "target": "Slalom is a ski race."}
+{"input": "slalom", "target": "She races in slalom."}
+{"input": "slalom", "target": "Slalom is fun to watch."}
+{"input": "sledge", "target": "We ride a sledge."}
+{"input": "sledge", "target": "The sledge slides on snow."}
+{"input": "sledge", "target": "I like the red sledge."}
+{"input": "sleeping_bag", "target": "I sleep in a sleeping bag."}
+{"input": "sleeping_bag", "target": "The sleeping bag is warm."}
+{"input": "sleeping_bag", "target": "Take your sleeping bag camping."}
+{"input": "sleep", "target": "I need to sleep."}
+{"input": "sleep", "target": "Sleep early at night."}
+{"input": "sleep", "target": "Sleep helps me grow."}
+{"input": "slim", "target": "The cat is slim."}
+{"input": "slim", "target": "He has a slim book."}
+{"input": "slim", "target": "The tree is slim."}
+{"input": "slow", "target": "The turtle is slow."}
+{"input": "slow", "target": "Walk slow and safe."}
+{"input": "slow", "target": "Slow down, please."}
+{"input": "small", "target": "I have a small toy."}
+{"input": "small", "target": "The dog is small."}
+{"input": "small", "target": "Small things are cute."}
+{"input": "smell", "target": "I smell the flower."}
+{"input": "smell", "target": "The food smells good."}
+{"input": "smell", "target": "Can you smell this?"}
+{"input": "smooth", "target": "The rock is smooth."}
+{"input": "smooth", "target": "Smooth skin feels nice."}
+{"input": "smooth", "target": "I like smooth paper."}
+{"input": "snail", "target": "The snail moves slowly."}
+{"input": "snail", "target": "I see a snail outside."}
+{"input": "snail", "target": "The snail has a shell."}
+{"input": "snakes_and_ladders", "target": "We play snakes and ladders."}
+{"input": "snakes_and_ladders", "target": "Snakes and ladders is fun."}
+{"input": "snakes_and_ladders", "target": "I won at snakes and ladders."}
+{"input": "snake", "target": "The snake is long."}
+{"input": "snake", "target": "Snakes live in the grass."}
+{"input": "snake", "target": "I saw a snake today."}
+{"input": "snow", "target": "Snow is cold."}
+{"input": "snow", "target": "We play in the snow."}
+{"input": "snow", "target": "Snow covers the ground."}
+{"input": "soap", "target": "Use soap to wash hands."}
+{"input": "soap", "target": "Soap makes bubbles."}
+{"input": "soap", "target": "The soap smells nice."}
+{"input": "soccer", "target": "I like to play soccer."}
+{"input": "soccer", "target": "Soccer is a fun game."}
+{"input": "soccer", "target": "We kick the soccer ball."}
+{"input": "socks", "target": "I wear socks every day."}
+{"input": "socks", "target": "My socks are clean."}
+{"input": "socks", "target": "Put on your socks."}
+{"input": "sofa", "target": "I sit on the sofa."}
+{"input": "sofa", "target": "The sofa is soft."}
+{"input": "sofa", "target": "The sofa is big."}
+{"input": "soft", "target": "The pillow is soft."}
+{"input": "soft", "target": "Soft toys are nice."}
+{"input": "soft", "target": "I like soft blankets."}
+{"input": "sorry", "target": "I say sorry to my friend."}
+{"input": "sorry", "target": "Sorry if I made you sad."}
+{"input": "sorry", "target": "She says sorry to her mom."}
+{"input": "soup", "target": "The soup is hot."}
+{"input": "soup", "target": "I eat soup with a spoon."}
+{"input": "soup", "target": "Mom made chicken soup."}
+{"input": "speak", "target": "I can speak loudly."}
+{"input": "speak", "target": "She speaks to her teacher."}
+{"input": "speak", "target": "Please speak slowly."}
+{"input": "speech_therapy", "target": "I go to speech therapy."}
+{"input": "speech_therapy", "target": "Speech therapy helps me talk."}
+{"input": "speech_therapy", "target": "My friend goes to speech therapy."}
+{"input": "spider", "target": "The spider spins a web."}
+{"input": "spider", "target": "I see a spider on the wall."}
+{"input": "spider", "target": "Spiders have eight legs."}
+{"input": "spiral_shaped_pastry", "target": "This is a spiral shaped pastry."}
+{"input": "spiral_shaped_pastry", "target": "I like spiral shaped pastry."}
+{"input": "spiral_shaped_pastry", "target": "The pastry looks like a spiral."}
+{"input": "sponge", "target": "The sponge is soft and yellow."}
+{"input": "sponge", "target": "I use a sponge to clean."}
+{"input": "sponge", "target": "The sponge soaks up water."}
+{"input": "spoon", "target": "I eat with a spoon."}
+{"input": "spoon", "target": "The spoon is shiny."}
+{"input": "spoon", "target": "Give me a spoon, please."}
+{"input": "sport", "target": "Soccer is a sport."}
+{"input": "sport", "target": "I like to play sport."}
+{"input": "sport", "target": "We do sport at school."}
+{"input": "spring", "target": "Spring is a season."}
+{"input": "spring", "target": "Flowers bloom in spring."}
+{"input": "spring", "target": "Spring is warm and nice."}
+{"input": "squared", "target": "The paper is squared."}
+{"input": "squared", "target": "I draw on squared paper."}
+{"input": "squared", "target": "Squared shapes are neat."}
+{"input": "square", "target": "A square has four sides."}
+{"input": "square", "target": "Draw a big square."}
+{"input": "square", "target": "The box is a square."}
+{"input": "squirrel", "target": "The squirrel climbs the tree."}
+{"input": "squirrel", "target": "I see a squirrel in the park."}
+{"input": "squirrel", "target": "Squirrels eat nuts."}
+{"input": "stairs", "target": "Go up the stairs."}
+{"input": "stairs", "target": "The stairs are long."}
+{"input": "stairs", "target": "I walk down the stairs."}
+{"input": "stamps", "target": "I collect stamps."}
+{"input": "stamps", "target": "Put a stamp on the letter."}
+{"input": "stamps", "target": "The stamp is colorful."}
+{"input": "stand", "target": "Please stand up."}
+{"input": "stand", "target": "I stand on the floor."}
+{"input": "stand", "target": "Stand next to me."}
+{"input": "steal_the_bacon", "target": "We play steal the bacon."}
+{"input": "steal_the_bacon", "target": "Steal the bacon is a game."}
+{"input": "steal_the_bacon", "target": "I run fast in steal the bacon."}
+{"input": "stick", "target": "I found a stick."}
+{"input": "stick", "target": "The dog likes the stick."}
+{"input": "stick", "target": "Draw with a stick in the sand."}
+{"input": "stop", "target": "Please stop running."}
+{"input": "stop", "target": "Stop and look both ways."}
+{"input": "stop", "target": "I stop at the red light."}
+{"input": "straighten", "target": "Straighten your back."}
+{"input": "straighten", "target": "I straighten my shirt."}
+{"input": "straighten", "target": "Please straighten the line."}
+{"input": "strawberry", "target": "I like strawberry jam."}
+{"input": "strawberry", "target": "The strawberry is red."}
+{"input": "strawberry", "target": "She eats a strawberry."}
+{"input": "street", "target": "I live on this street."}
+{"input": "street", "target": "The street is busy."}
+{"input": "street", "target": "Cross the street carefully."}
+{"input": "stretcher", "target": "The doctor uses a stretcher."}
+{"input": "stretcher", "target": "He lies on the stretcher."}
+{"input": "stretcher", "target": "The stretcher has wheels."}
+{"input": "stripy", "target": "My shirt is stripy."}
+{"input": "stripy", "target": "The cat has stripy fur."}
+{"input": "stripy", "target": "I see a stripy sock."}
+{"input": "stroll", "target": "We take a stroll in the park."}
+{"input": "stroll", "target": "Let's stroll after lunch."}
+{"input": "stroll", "target": "I stroll with my mom."}
+{"input": "strong", "target": "Dad is strong."}
+{"input": "strong", "target": "I want to be strong."}
+{"input": "strong", "target": "The wind is strong today."}
+{"input": "study", "target": "I study every day."}
+{"input": "study", "target": "She studies at her desk."}
+{"input": "study", "target": "Let's study together."}
+{"input": "success", "target": "You did it! That is success."}
+{"input": "success", "target": "Success makes me happy."}
+{"input": "success", "target": "Success means you win."}
+{"input": "sugar", "target": "Sugar is sweet."}
+{"input": "sugar", "target": "I put sugar in my tea."}
+{"input": "sugar", "target": "Don't eat too much sugar."}
+{"input": "summer", "target": "Summer is hot."}
+{"input": "summer", "target": "We swim in summer."}
+{"input": "summer", "target": "Summer is my favorite season."}
+{"input": "sunday", "target": "Sunday is a holiday."}
+{"input": "sunday", "target": "I rest on Sunday."}
+{"input": "sunday", "target": "Sunday comes after Saturday."}
+{"input": "sun", "target": "The sun is bright."}
+{"input": "sun", "target": "I see the sun in the sky."}
+{"input": "sun", "target": "The sun gives us light."}
+{"input": "support", "target": "I give support to my friend."}
+{"input": "support", "target": "Support helps everyone."}
+{"input": "support", "target": "We all need support."}
+{"input": "surgical_gloves", "target": "Wear surgical gloves to stay clean."}
+{"input": "surgical_gloves", "target": "Surgical gloves are in the box."}
+{"input": "surgical_gloves", "target": "Put on surgical gloves before helping."}
+{"input": "surprised", "target": "I feel surprised."}
+{"input": "surprised", "target": "The noise made me surprised."}
+{"input": "surprised", "target": "Surprised faces look funny."}
+{"input": "sweet", "target": "Candy is sweet."}
+{"input": "sweet", "target": "I like sweet apples."}
+{"input": "sweet", "target": "The cake tastes sweet."}
+{"input": "swimming_pool", "target": "I swim in the swimming pool."}
+{"input": "swimming_pool", "target": "The swimming pool is blue."}
+{"input": "swimming_pool", "target": "Let's go to the swimming pool."}
+{"input": "swimsuit", "target": "I wear a swimsuit to swim."}
+{"input": "swimsuit", "target": "The swimsuit is new."}
+{"input": "swimsuit", "target": "Put on your swimsuit."}
+{"input": "swim", "target": "I swim in the water."}
+{"input": "swim", "target": "Swimming is fun."}
+{"input": "swim", "target": "Let's swim together."}
+{"input": "swing", "target": "I like the swing."}
+{"input": "swing", "target": "The swing goes back and forth."}
+{"input": "swing", "target": "Let's play on the swing."}
+{"input": "switch", "target": "Turn on the light switch."}
+{"input": "switch", "target": "The switch is on the wall."}
+{"input": "switch", "target": "Flip the switch to start."}
+{"input": "synagogue", "target": "We visit the synagogue."}
+{"input": "synagogue", "target": "The synagogue is quiet."}
+{"input": "synagogue", "target": "People pray in the synagogue."}
+{"input": "tablet", "target": "I play games on a tablet."}
+{"input": "tablet", "target": "The tablet is on the table."}
+{"input": "tablet", "target": "A tablet can show pictures."}
+{"input": "table", "target": "The table is round."}
+{"input": "table", "target": "We eat at the table."}
+{"input": "table", "target": "Put your book on the table."}
+{"input": "take", "target": "Take your bag."}
+{"input": "take", "target": "I take a cookie."}
+{"input": "take", "target": "Take a seat, please."}
+{"input": "tale", "target": "I like to hear a tale."}
+{"input": "tale", "target": "This tale is funny."}
+{"input": "tale", "target": "Tell me a tale."}
+{"input": "tall", "target": "The tree is tall."}
+{"input": "tall", "target": "I see a tall building."}
+{"input": "tall", "target": "The giraffe is tall."}
+{"input": "tambourine", "target": "The tambourine makes music."}
+{"input": "tambourine", "target": "Shake the tambourine."}
+{"input": "tambourine", "target": "I play the tambourine."}
+{"input": "teatime", "target": "It is teatime now."}
+{"input": "teatime", "target": "We have snacks at teatime."}
+{"input": "teatime", "target": "Teatime is in the afternoon."}
+{"input": "teeth", "target": "Brush your teeth."}
+{"input": "teeth", "target": "Teeth help us eat."}
+{"input": "teeth", "target": "My teeth are white."}
+{"input": "telephone", "target": "The telephone is ringing."}
+{"input": "telephone", "target": "I talk on the telephone."}
+{"input": "telephone", "target": "Pick up the telephone."}
+{"input": "television", "target": "The television is on."}
+{"input": "television", "target": "I watch cartoons on television."}
+{"input": "television", "target": "Turn off the television."}
+{"input": "thanks", "target": "Thanks for your help."}
+{"input": "thanks", "target": "I say thanks to everyone."}
+{"input": "thanks", "target": "Thanks makes people happy."}
+{"input": "theatre", "target": "We go to the theatre."}
+{"input": "theatre", "target": "The theatre is big."}
+{"input": "theatre", "target": "I watch a play at the theatre."}
+{"input": "thermometer", "target": "The thermometer checks temperature."}
+{"input": "thermometer", "target": "I use a thermometer when I am sick."}
+{"input": "thermometer", "target": "The thermometer is in the box."}
+{"input": "think", "target": "I think about my day."}
+{"input": "think", "target": "Think before you speak."}
+{"input": "think", "target": "It is good to think."}
+{"input": "throw", "target": "Throw the ball to me."}
+{"input": "throw", "target": "I throw paper in the bin."}
+{"input": "throw", "target": "Throw your hands up."}
+{"input": "thunder", "target": "Thunder is loud."}
+{"input": "thunder", "target": "I hear thunder at night."}
+{"input": "thunder", "target": "Thunder comes with rain."}
+{"input": "thursday", "target": "Thursday is before Friday."}
+{"input": "thursday", "target": "We have art on Thursday."}
+{"input": "thursday", "target": "Thursday is a school day."}
+{"input": "ticket", "target": "I have a ticket."}
+{"input": "ticket", "target": "The ticket is for the bus."}
+{"input": "ticket", "target": "Show your ticket, please."}
+{"input": "ticktacktoe", "target": "I play ticktacktoe with a friend."}
+{"input": "ticktacktoe", "target": "Ticktacktoe uses X and O."}
+{"input": "ticktacktoe", "target": "Let's draw a ticktacktoe game."}
+{"input": "tie", "target": "The tie is blue."}
+{"input": "tie", "target": "I wear a tie at school."}
+{"input": "tie", "target": "Tie your tie neatly."}
+{"input": "tiger", "target": "The tiger has stripes."}
+{"input": "tiger", "target": "I see a tiger at the zoo."}
+{"input": "tiger", "target": "Tigers are big cats."}
+{"input": "tights", "target": "The tights are soft."}
+{"input": "tights", "target": "Wear tights in winter."}
+{"input": "tights", "target": "My tights are pink."}
+{"input": "tired", "target": "I feel tired after running."}
+{"input": "tired", "target": "Let's rest if you are tired."}
+{"input": "tired", "target": "Tired eyes need sleep."}
+{"input": "toast", "target": "I eat toast for breakfast."}
+{"input": "toast", "target": "The toast is warm and crisp."}
+{"input": "toast", "target": "Put jam on your toast."}
+{"input": "today", "target": "Today is a sunny day."}
+{"input": "today", "target": "I go to school today."}
+{"input": "today", "target": "Today we play outside."}
+{"input": "toiletries", "target": "Toiletries are in my bag."}
+{"input": "toiletries", "target": "I use toiletries every day."}
+{"input": "toiletries", "target": "Soap and toothpaste are toiletries."}
+{"input": "toilet", "target": "The toilet is clean."}
+{"input": "toilet", "target": "Wash hands after using the toilet."}
+{"input": "toilet", "target": "The toilet paper is next to the toilet."}
+{"input": "tomato", "target": "The tomato is red."}
+{"input": "tomato", "target": "I eat tomato in salad."}
+{"input": "tomato", "target": "Tomatoes grow in the garden."}
+{"input": "tomorrow", "target": "Tomorrow is a new day."}
+{"input": "tomorrow", "target": "We go to the park tomorrow."}
+{"input": "tomorrow", "target": "Tomorrow comes after today."}
+{"input": "tongue", "target": "Stick out your tongue."}
+{"input": "tongue", "target": "The tongue helps me taste."}
+{"input": "tongue", "target": "My tongue is pink."}
+{"input": "toothbrush", "target": "I use a toothbrush every morning."}
+{"input": "toothbrush", "target": "The toothbrush is blue."}
+{"input": "toothbrush", "target": "Put toothpaste on the toothbrush."}
+{"input": "toothpaste", "target": "Toothpaste cleans my teeth."}
+{"input": "toothpaste", "target": "Squeeze the toothpaste tube."}
+{"input": "toothpaste", "target": "The toothpaste is minty."}
+{"input": "tortoise", "target": "The tortoise moves slowly."}
+{"input": "tortoise", "target": "A tortoise has a hard shell."}
+{"input": "tortoise", "target": "I see a tortoise in the garden."}
+{"input": "touch", "target": "Touch your nose."}
+{"input": "touch", "target": "I can touch my toes."}
+{"input": "touch", "target": "Touch the soft pillow."}
+{"input": "towel", "target": "Dry your hands with a towel."}
+{"input": "towel", "target": "The towel is soft."}
+{"input": "towel", "target": "Hang the towel to dry."}
+{"input": "toys", "target": "I have many toys."}
+{"input": "toys", "target": "Toys are in the box."}
+{"input": "toys", "target": "Let's play with toys."}
+{"input": "toy_kitchen", "target": "I play with my toy kitchen."}
+{"input": "toy_kitchen", "target": "The toy kitchen has small pots."}
+{"input": "toy_kitchen", "target": "Let's cook in the toy kitchen."}
+{"input": "tracksuit", "target": "The tracksuit is comfy."}
+{"input": "tracksuit", "target": "Wear a tracksuit for sports."}
+{"input": "tracksuit", "target": "My tracksuit is green."}
+{"input": "tractor", "target": "The tractor is big and loud."}
+{"input": "tractor", "target": "I see a tractor on the farm."}
+{"input": "tractor", "target": "The tractor pulls the trailer."}
+{"input": "train_station", "target": "The train station is busy."}
+{"input": "train_station", "target": "Wait at the train station."}
+{"input": "train_station", "target": "Trains stop at the train station."}
+{"input": "transport", "target": "Buses are a kind of transport."}
+{"input": "transport", "target": "We use transport to travel."}
+{"input": "transport", "target": "Transport helps us go far."}
+{"input": "travel", "target": "I like to travel."}
+{"input": "travel", "target": "Travel can be by car or train."}
+{"input": "travel", "target": "We travel to new places."}
+{"input": "tree", "target": "The tree is tall and green."}
+{"input": "tree", "target": "Birds sit in the tree."}
+{"input": "tree", "target": "I see apples on the tree."}
+{"input": "trip", "target": "We go on a trip."}
+{"input": "trip", "target": "The trip was fun."}
+{"input": "trip", "target": "Pack snacks for the trip."}
+{"input": "tronca", "target": "The tronca is on the ground."}
+{"input": "tronca", "target": "I see a tronca in the park."}
+{"input": "tronca", "target": "Let's climb on the tronca."}
+{"input": "trousers", "target": "I wear trousers to school."}
+{"input": "trousers", "target": "The trousers are blue."}
+{"input": "trousers", "target": "Trousers keep my legs warm."}
+{"input": "trumpet", "target": "The trumpet is loud."}
+{"input": "trumpet", "target": "I play the trumpet."}
+{"input": "trumpet", "target": "The trumpet is shiny and gold."}
+{"input": "trunk", "target": "The trunk is big and strong."}
+{"input": "trunk", "target": "Elephants have a long trunk."}
+{"input": "trunk", "target": "Put toys in the trunk."}
+{"input": "tuesday", "target": "Tuesday is after Monday."}
+{"input": "tuesday", "target": "We have gym on Tuesday."}
+{"input": "tuesday", "target": "Tuesday is a school day."}
+{"input": "t_shirt", "target": "I wear a t-shirt."}
+{"input": "t_shirt", "target": "The t-shirt is soft."}
+{"input": "t_shirt", "target": "My t-shirt has a picture."}
+{"input": "ugly", "target": "The monster looks ugly."}
+{"input": "ugly", "target": "Some bugs are ugly."}
+{"input": "ugly", "target": "Ugly things can be funny."}
+{"input": "umbrella", "target": "Use an umbrella in the rain."}
+{"input": "umbrella", "target": "The umbrella is blue."}
+{"input": "umbrella", "target": "Hold the umbrella over your head."}
+{"input": "uncomfortable", "target": "This chair is uncomfortable."}
+{"input": "uncomfortable", "target": "I feel uncomfortable in tight shoes."}
+{"input": "uncomfortable", "target": "Uncomfortable clothes are not nice."}
+{"input": "underpants", "target": "I wear underpants every day."}
+{"input": "underpants", "target": "Underpants go under my clothes."}
+{"input": "underpants", "target": "My underpants are clean."}
+{"input": "under", "target": "The cat is under the table."}
+{"input": "under", "target": "Look under your bed."}
+{"input": "under", "target": "The ball rolled under the chair."}
+{"input": "undress", "target": "Time to undress for a bath."}
+{"input": "undress", "target": "Undress before putting on pajamas."}
+{"input": "undress", "target": "I can undress by myself."}
+{"input": "uneven", "target": "The ground is uneven."}
+{"input": "uneven", "target": "Be careful on uneven steps."}
+{"input": "uneven", "target": "Uneven roads are bumpy."}
+{"input": "up", "target": "Look up at the sky."}
+{"input": "up", "target": "The balloon goes up."}
+{"input": "up", "target": "Climb up the ladder."}
+{"input": "use", "target": "Use a pencil to write."}
+{"input": "use", "target": "I use a spoon to eat."}
+{"input": "use", "target": "Use your words to ask."}
+{"input": "vagina", "target": "The vagina is a body part."}
+{"input": "vagina", "target": "Doctors help care for the vagina."}
+{"input": "vagina", "target": "Everyone has private body parts."}
+{"input": "vampire", "target": "A vampire sleeps in a coffin."}
+{"input": "vampire", "target": "Vampires have sharp teeth."}
+{"input": "vampire", "target": "Some stories have vampires."}
+{"input": "van", "target": "The van is big and white."}
+{"input": "van", "target": "We ride in a van to school."}
+{"input": "van", "target": "The van has many seats."}
+{"input": "vegetable", "target": "Carrot is a vegetable."}
+{"input": "vegetable", "target": "Vegetables are good for you."}
+{"input": "vegetable", "target": "I eat a green vegetable."}
+{"input": "verbs", "target": "Run is a verb."}
+{"input": "verbs", "target": "Verbs are action words."}
+{"input": "verbs", "target": "We learn verbs in class."}
+{"input": "video_camera", "target": "The video camera records movies."}
+{"input": "video_camera", "target": "I see a video camera."}
+{"input": "video_camera", "target": "Let's use a video camera."}
+{"input": "village", "target": "The village is small."}
+{"input": "village", "target": "People live in the village."}
+{"input": "village", "target": "We visit the village."}
+{"input": "vinegar", "target": "Vinegar tastes sour."}
+{"input": "vinegar", "target": "We use vinegar in salad."}
+{"input": "vinegar", "target": "The bottle has vinegar."}
+{"input": "visit", "target": "I visit my friend."}
+{"input": "visit", "target": "Let's visit the zoo."}
+{"input": "visit", "target": "We visit grandma's house."}
+{"input": "vitamin", "target": "Vitamins help us grow."}
+{"input": "vitamin", "target": "I take a vitamin every day."}
+{"input": "vitamin", "target": "Fruits have vitamins."}
+{"input": "waistcoat", "target": "The waistcoat is black."}
+{"input": "waistcoat", "target": "Wear a waistcoat for a party."}
+{"input": "waistcoat", "target": "The waistcoat has buttons."}
+{"input": "wait", "target": "Please wait your turn."}
+{"input": "wait", "target": "Wait at the bus stop."}
+{"input": "wait", "target": "I wait for my snack."}
+{"input": "wake_up", "target": "I wake up early."}
+{"input": "wake_up", "target": "Wake up when the sun rises."}
+{"input": "wake_up", "target": "It's time to wake up."}
+{"input": "walker", "target": "The walker helps with walking."}
+{"input": "walker", "target": "Use a walker if you need help."}
+{"input": "walker", "target": "The walker has four wheels."}
+{"input": "walk", "target": "Let's go for a walk."}
+{"input": "walk", "target": "I walk to the park."}
+{"input": "walk", "target": "Walk slowly on wet floors."}
+{"input": "wall_lizard", "target": "The wall lizard is small."}
+{"input": "wall_lizard", "target": "I see a wall lizard on the wall."}
+{"input": "wall_lizard", "target": "Wall lizards move quickly."}
+{"input": "want", "target": "I want a cookie."}
+{"input": "want", "target": "Do you want to play?"}
+{"input": "want", "target": "We want to go outside."}
+{"input": "wardrobe", "target": "Clothes are in the wardrobe."}
+{"input": "wardrobe", "target": "The wardrobe is brown."}
+{"input": "wardrobe", "target": "Open the wardrobe to find shoes."}
+{"input": "wash", "target": "Wash your hands before eating."}
+{"input": "wash", "target": "I wash my face every day."}
+{"input": "wash", "target": "Wash the apples before eating."}
+{"input": "watch", "target": "I wear a watch on my wrist."}
+{"input": "watch", "target": "The watch shows the time."}
+{"input": "watch", "target": "Look at the watch to see the hour."}
+{"input": "waterproof", "target": "My coat is waterproof."}
+{"input": "waterproof", "target": "Waterproof boots keep feet dry."}
+{"input": "waterproof", "target": "Use a waterproof bag in the rain."}
+{"input": "water", "target": "Drink water every day."}
+{"input": "water", "target": "Water is clear."}
+{"input": "water", "target": "Plants need water to grow."}
+{"input": "weak", "target": "I feel weak when I am sick."}
+{"input": "weak", "target": "The bridge is weak and old."}
+{"input": "weak", "target": "Weak things can break easily."}
+{"input": "wednesday", "target": "Wednesday is in the middle of the week."}
+{"input": "wednesday", "target": "We have music on Wednesday."}
+{"input": "wednesday", "target": "Wednesday comes after Tuesday."}
+{"input": "weekend", "target": "The weekend is Saturday and Sunday."}
+{"input": "weekend", "target": "I play on the weekend."}
+{"input": "weekend", "target": "No school on the weekend."}
+{"input": "week", "target": "A week has seven days."}
+{"input": "week", "target": "We go to school every week."}
+{"input": "week", "target": "The week starts on Monday."}
+{"input": "well", "target": "I feel well today."}
+{"input": "well", "target": "Drink water to stay well."}
+{"input": "well", "target": "I hope you are well."}
+{"input": "wet", "target": "My shoes are wet."}
+{"input": "wet", "target": "Don't sit on the wet bench."}
+{"input": "wet", "target": "The grass is wet in the morning."}
+{"input": "whale", "target": "The whale is very big."}
+{"input": "whale", "target": "Whales live in the sea."}
+{"input": "whale", "target": "I saw a whale on TV."}
+{"input": "what", "target": "What is your name?"}
+{"input": "what", "target": "What do you see?"}
+{"input": "what", "target": "What is for lunch?"}
+{"input": "wheelchair", "target": "The wheelchair helps people move."}
+{"input": "wheelchair", "target": "I see a wheelchair at school."}
+{"input": "wheelchair", "target": "The wheelchair has big wheels."}
+{"input": "wheel", "target": "The car has four wheels."}
+{"input": "wheel", "target": "Turn the wheel to drive."}
+{"input": "wheel", "target": "The wheel spins fast."}
+{"input": "when", "target": "When do we eat?"}
+{"input": "when", "target": "When is your birthday?"}
+{"input": "when", "target": "When can we play?"}
+{"input": "where", "target": "Where is my bag?"}
+{"input": "where", "target": "Where do you live?"}
+{"input": "where", "target": "Where are we going?"}
+{"input": "white", "target": "The snow is white."}
+{"input": "white", "target": "I have a white shirt."}
+{"input": "white", "target": "Milk is white."}
+{"input": "whose", "target": "Whose book is this?"}
+{"input": "whose", "target": "Whose shoes are on the floor?"}
+{"input": "whose", "target": "Whose turn is it?"}
+{"input": "who", "target": "Who is at the door?"}
+{"input": "who", "target": "Who wants to play?"}
+{"input": "who", "target": "Who made this drawing?"}
+{"input": "why", "target": "Why is the sky blue?"}
+{"input": "why", "target": "Why are you sad?"}
+{"input": "why", "target": "Why do we eat lunch?"}
+{"input": "window", "target": "Look out the window."}
+{"input": "window", "target": "The window is open."}
+{"input": "window", "target": "Close the window, please."}
+{"input": "winter", "target": "Winter is cold."}
+{"input": "winter", "target": "I wear a coat in winter."}
+{"input": "winter", "target": "Snow falls in winter."}
+{"input": "win", "target": "I want to win the game."}
+{"input": "win", "target": "Win a prize for your team."}
+{"input": "win", "target": "It feels good to win."}
+{"input": "with", "target": "I play with my friend."}
+{"input": "with", "target": "Eat soup with a spoon."}
+{"input": "with", "target": "Draw with a pencil."}
+{"input": "wolf", "target": "The wolf howls at night."}
+{"input": "wolf", "target": "A wolf lives in the forest."}
+{"input": "wolf", "target": "I read a story about a wolf."}
+{"input": "woman", "target": "A woman is reading a book."}
+{"input": "woman", "target": "The woman is kind."}
+{"input": "woman", "target": "I see a woman at the park."}
+{"input": "wood", "target": "The table is made of wood."}
+{"input": "wood", "target": "Wood comes from trees."}
+{"input": "wood", "target": "We build with wood."}
+{"input": "work", "target": "I do my work at school."}
+{"input": "work", "target": "Work hard and do your best."}
+{"input": "work", "target": "Work can be fun."}
+{"input": "worm", "target": "The worm is in the soil."}
+{"input": "worm", "target": "Worms are small and wiggly."}
+{"input": "worm", "target": "I found a worm in the garden."}
+{"input": "write", "target": "I write my name."}
+{"input": "write", "target": "Write with a pencil."}
+{"input": "write", "target": "Can you write a letter?"}
+{"input": "year", "target": "A year has twelve months."}
+{"input": "year", "target": "This year is fun."}
+{"input": "year", "target": "We start school every year."}
+{"input": "yellow", "target": "The sun is yellow."}
+{"input": "yellow", "target": "I have a yellow ball."}
+{"input": "yellow", "target": "Bananas are yellow."}
+{"input": "yesterday", "target": "Yesterday was fun."}
+{"input": "yesterday", "target": "I saw a movie yesterday."}
+{"input": "yesterday", "target": "Yesterday comes before today."}
+{"input": "yes", "target": "Yes, I want some juice."}
+{"input": "yes", "target": "Yes, let's play outside."}
+{"input": "yes", "target": "Say yes if you agree."}
+{"input": "yogurt", "target": "I eat yogurt for breakfast."}
+{"input": "yogurt", "target": "Yogurt is cold and tasty."}
+{"input": "yogurt", "target": "Strawberry yogurt is my favorite."}
+{"input": "young", "target": "The puppy is young."}
+{"input": "young", "target": "Young children play together."}
+{"input": "young", "target": "A young tree is small."}
+{"input": "your", "target": "Your shoes are here."}
+{"input": "your", "target": "Brush your teeth."}
+{"input": "your", "target": "Is this your bag?"}
+{"input": "you", "target": "You are my friend."}
+{"input": "you", "target": "Can you help me?"}
+{"input": "you", "target": "You can do it!"}
+{"input": "zebra", "target": "The zebra has stripes."}
+{"input": "zebra", "target": "I saw a zebra at the zoo."}
+{"input": "zebra", "target": "Zebras run fast."}
+{"input": "read book", "target": "I like to read a book."}
+{"input": "read book", "target": "Read a book with me."}
+{"input": "yellow flower", "target": "The flower is yellow."}
+{"input": "yellow flower", "target": "I see a yellow flower."}
+{"input": "ride a bike fast", "target": "Ride a bike fast in the park."}
+{"input": "ride a bike fast", "target": "Can you ride a bike fast?"}
+{"input": "eat sandwich", "target": "I eat a sandwich for lunch."}
+{"input": "eat sandwich", "target": "Eat the sandwich now."}
+{"input": "sleeping bag camp", "target": "I sleep in a sleeping bag at camp."}
+{"input": "sleeping bag camp", "target": "Take your sleeping bag to camp."}
+{"input": "draw rectangle", "target": "Draw a rectangle on the paper."}
+{"input": "draw rectangle", "target": "Can you draw a rectangle?"}
+{"input": "run fast", "target": "I can run fast."}
+{"input": "run fast", "target": "Run fast in the playground."}
+{"input": "blue shoes", "target": "The shoes are blue."}
+{"input": "blue shoes", "target": "I wear blue shoes."}
+{"input": "play soccer", "target": "I play soccer with friends."}
+{"input": "play soccer", "target": "Soccer is a fun game."}
+{"input": "swim pool", "target": "Swim in the pool."}
+{"input": "swim pool", "target": "The pool is for swimming."}
+{"input": "eat salad", "target": "I eat salad at lunch."}
+{"input": "eat salad", "target": "The salad is tasty."}
+{"input": "school teacher", "target": "The teacher is at school."}
+{"input": "school teacher", "target": "I listen to my school teacher."}
+{"input": "ride sledge snow", "target": "Ride the sledge on the snow."}
+{"input": "ride sledge snow", "target": "The sledge slides on snow."}
+{"input": "sit chair", "target": "Sit on the chair."}
+{"input": "sit chair", "target": "The chair is for sitting."}
+{"input": "drink water", "target": "Drink water every day."}
+{"input": "drink water", "target": "Water is good for you."}
+{"input": "wash hands soap", "target": "Wash your hands with soap."}
+{"input": "wash hands soap", "target": "Use soap to wash hands."}
+{"input": "school bag", "target": "Take your bag to school."}
+{"input": "school bag", "target": "The bag is for school."}
+{"input": "read newspaper", "target": "Read the newspaper every morning."}
+{"input": "read newspaper", "target": "The newspaper has news."}
+{"input": "play with toys", "target": "Play with toys in the room."}
+{"input": "play with toys", "target": "I have many toys to play with."}
+{"input": "sweet strawberry", "target": "The strawberry is sweet."}
+{"input": "sweet strawberry", "target": "I eat a sweet strawberry."}
+{"input": "draw square", "target": "Draw a square on the paper."}
+{"input": "draw square", "target": "The square has four sides."}
+{"input": "eat soup", "target": "Eat soup with a spoon."}
+{"input": "eat soup", "target": "The soup is hot."}
+{"input": "play with friends", "target": "Play with friends at school."}
+{"input": "play with friends", "target": "Friends make playtime fun."}
+{"input": "wear shoes", "target": "Wear your shoes before going out."}
+{"input": "wear shoes", "target": "Put on your shoes."}
+{"input": "ride tractor", "target": "Ride the tractor on the farm."}
+{"input": "ride tractor", "target": "The tractor is big and loud."}
+{"input": "sit sofa", "target": "Sit on the sofa."}
+{"input": "sit sofa", "target": "The sofa is soft."}
+{"input": "climb stairs", "target": "Climb the stairs slowly."}
+{"input": "climb stairs", "target": "The stairs are long."}
+{"input": "wear scarf", "target": "Wear a scarf in winter."}
+{"input": "wear scarf", "target": "The scarf keeps you warm."}
+{"input": "drink milk", "target": "Drink milk every morning."}
+{"input": "drink milk", "target": "Milk is good for you."}
+{"input": "see whale", "target": "I see a whale in the sea."}
+{"input": "see whale", "target": "The whale is very big."}
+{"input": "eat tomato salad", "target": "Eat tomato salad at lunch."}
+{"input": "eat tomato salad", "target": "Tomato salad is tasty."}
+{"input": "play soccer game", "target": "Play a soccer game with friends."}
+{"input": "play soccer game", "target": "The soccer game is fun."}
+{"input": "jump rope", "target": "Jump rope in the playground."}
+{"input": "jump rope", "target": "Jumping rope is fun."}
+{"input": "wear t shirt", "target": "Wear a t shirt today."}
+{"input": "wear t shirt", "target": "The t shirt is soft."}
+{"input": "eat sweet strawberry", "target": "Eat a sweet strawberry."}
+{"input": "eat sweet strawberry", "target": "The strawberry is very sweet."}
+{"input": "wash with water", "target": "Wash your hands with water."}
+{"input": "wash with water", "target": "Use water to wash your face."}
+{"input": "ride sledge snow", "target": "Ride the sledge on the snow."}
+{"input": "ride sledge snow", "target": "Snow is good for sledging."}
+{"input": "see spider web", "target": "I see a spider web."}
+{"input": "see spider web", "target": "The spider made a web."}
+{"input": "wear socks shoes", "target": "Wear socks with your shoes."}
+{"input": "wear socks shoes", "target": "Put on socks before shoes."}
+{"input": "sit schoolyard", "target": "Sit in the schoolyard."}
+{"input": "sit schoolyard", "target": "The schoolyard is big."}
+{"input": "use scissors", "target": "Use scissors to cut paper."}
+{"input": "use scissors", "target": "Be careful with scissors."}
+{"input": "draw rhombus", "target": "Draw a rhombus in your book."}
+{"input": "draw rhombus", "target": "A rhombus has four sides."}
+{"input": "eat sausage sandwich", "target": "Eat a sausage sandwich for lunch."}
+{"input": "eat sausage sandwich", "target": "The sausage sandwich is tasty."}
+{"input": "see red rose", "target": "I see a red rose."}
+{"input": "see red rose", "target": "The rose is red and pretty."}
+{"input": "wear swimsuit swim", "target": "Wear your swimsuit to swim."}
+{"input": "wear swimsuit swim", "target": "Put on a swimsuit before swimming."}
+{"input": "wash face soap", "target": "Wash your face with soap."}
+{"input": "wash face soap", "target": "Soap helps clean your face."}
+{"input": "see silver ring", "target": "I see a silver ring."}
+{"input": "see silver ring", "target": "The ring is shiny and silver."}
+{"input": "play with toys", "target": "Play with toys at home."}
+{"input": "play with toys", "target": "Toys are fun to play with."}
+{"input": "eat salty chips", "target": "Eat salty chips for a snack."}
+{"input": "eat salty chips", "target": "The chips are very salty."}
+{"input": "use shampoo hair", "target": "Use shampoo to wash your hair."}
+{"input": "use shampoo hair", "target": "Shampoo makes hair clean."}
+{"input": "wear hat winter", "target": "Wear a hat in winter."}
+{"input": "wear hat winter", "target": "Winter is cold, wear a hat."}
+{"input": "see blue sea", "target": "I see the blue sea."}
+{"input": "see blue sea", "target": "The sea is blue and big."}
+{"input": "eat sweet cake", "target": "Eat a sweet cake for dessert."}
+{"input": "eat sweet cake", "target": "The cake is sweet and yummy."}
+{"input": "run street", "target": "Run on the street carefully."}
+{"input": "run street", "target": "Do not run fast on the street."}
+{"input": "see green tree", "target": "I see a green tree."}
+{"input": "see green tree", "target": "The tree is tall and green."}
+{"input": "sit table", "target": "Sit at the table."}
+{"input": "sit table", "target": "The table is round."}
+{"input": "play with dog", "target": "Play with the dog in the yard."}
+{"input": "play with dog", "target": "The dog likes to play."}
+{"input": "eat soup spoon", "target": "Eat soup with a spoon."}
+{"input": "eat soup spoon", "target": "Use a spoon to eat soup."}
+{"input": "see white sheep", "target": "I see a white sheep."}
+{"input": "see white sheep", "target": "The sheep is white and fluffy."}
+{"input": "ride train station", "target": "Ride the train from the station."}
+{"input": "ride train station", "target": "The train station is busy."}
+{"input": "eat salad fork", "target": "Eat salad with a fork."}
+{"input": "eat salad fork", "target": "Use a fork to eat the salad."}
+{"input": "yellow sun", "target": "The sun is yellow."}
+{"input": "yellow sun", "target": "I see the yellow sun in the sky."}
+{"input": "blue sea", "target": "The sea is blue."}
+{"input": "blue sea", "target": "We swim in the blue sea."}
+{"input": "red tomato", "target": "The tomato is red."}
+{"input": "red tomato", "target": "I eat a red tomato."}
+{"input": "green salad", "target": "The salad is green."}
+{"input": "green salad", "target": "Eat green salad for lunch."}
+{"input": "white sheep", "target": "The sheep is white."}
+{"input": "white sheep", "target": "I see a white sheep."}
+{"input": "brown wood", "target": "The wood is brown."}
+{"input": "brown wood", "target": "We build with brown wood."}
+{"input": "eat sandwich", "target": "I eat a sandwich."}
+{"input": "eat sandwich", "target": "Eat a sandwich for lunch."}
+{"input": "drink water", "target": "Drink water every day."}
+{"input": "drink water", "target": "Water is good for you."}
+{"input": "wash hands", "target": "Wash your hands before eating."}
+{"input": "wash hands", "target": "Wash your hands with soap."}
+{"input": "wear shoes", "target": "Wear your shoes outside."}
+{"input": "wear shoes", "target": "Put on your shoes."}
+{"input": "play soccer", "target": "I play soccer with friends."}
+{"input": "play soccer", "target": "Soccer is a fun game."}
+{"input": "ride bike", "target": "I can ride a bike."}
+{"input": "ride bike", "target": "Let's ride a bike together."}
+{"input": "sit chair", "target": "Sit on the chair."}
+{"input": "sit chair", "target": "The chair is for sitting."}
+{"input": "draw rectangle", "target": "Draw a rectangle on the paper."}
+{"input": "draw rectangle", "target": "Can you draw a rectangle?"}
+{"input": "draw square", "target": "Draw a square on the board."}
+{"input": "draw square", "target": "The square has four sides."}
+{"input": "eat soup", "target": "Eat soup with a spoon."}
+{"input": "eat soup", "target": "The soup is hot."}
+{"input": "read book", "target": "I like to read a book."}
+{"input": "read book", "target": "Read a book with me."}
+{"input": "see whale", "target": "I see a whale in the sea."}
+{"input": "see whale", "target": "The whale is very big."}
+{"input": "run fast", "target": "I can run fast."}
+{"input": "run fast", "target": "Run fast in the playground."}
+{"input": "sleep bed", "target": "Sleep in your bed."}
+{"input": "sleep bed", "target": "The bed is soft for sleeping."}
+{"input": "ride sledge", "target": "Ride the sledge in the snow."}
+{"input": "ride sledge", "target": "The sledge goes fast on snow."}
+{"input": "climb stairs", "target": "Climb the stairs slowly."}
+{"input": "climb stairs", "target": "Go up the stairs."}
+{"input": "sit sofa", "target": "Sit on the sofa."}
+{"input": "sit sofa", "target": "The sofa is soft."}
+{"input": "see spider", "target": "I see a spider on the wall."}
+{"input": "see spider", "target": "The spider spins a web."}
+{"input": "eat cake", "target": "Eat cake for dessert."}
+{"input": "eat cake", "target": "The cake is sweet."}
+{"input": "eat salad", "target": "Eat salad at lunch."}
+{"input": "eat salad", "target": "The salad is tasty."}
+{"input": "play with toys", "target": "Play with toys in the room."}
+{"input": "play with toys", "target": "I have many toys to play with."}
+{"input": "drink milk", "target": "Drink milk every morning."}
+{"input": "drink milk", "target": "Milk is good for you."}
+{"input": "eat sweet strawberry", "target": "Eat a sweet strawberry."}
+{"input": "eat sweet strawberry", "target": "The strawberry is very sweet."}
+{"input": "wear socks", "target": "Wear socks with your shoes."}
+{"input": "wear socks", "target": "Put on your socks."}
+{"input": "wear scarf", "target": "Wear a scarf in winter."}
+{"input": "wear scarf", "target": "The scarf keeps you warm."}
+{"input": "wear t shirt", "target": "Wear a t shirt today."}
+{"input": "wear t shirt", "target": "The t shirt is soft."}
+{"input": "see blue sky", "target": "I see the blue sky."}
+{"input": "see blue sky", "target": "The sky is blue."}
+{"input": "see green tree", "target": "I see a green tree."}
+{"input": "see green tree", "target": "The tree is tall and green."}
+{"input": "see red rose", "target": "I see a red rose."}
+{"input": "see red rose", "target": "The rose is red and pretty."}
+{"input": "eat sandwich cheese", "target": "Eat a sandwich with cheese."}
+{"input": "eat sandwich cheese", "target": "The sandwich has cheese inside."}
+{"input": "wash face soap", "target": "Wash your face with soap."}
+{"input": "wash face soap", "target": "Soap helps clean your face."}
+{"input": "eat sausage sandwich", "target": "Eat a sausage sandwich for lunch."}
+{"input": "eat sausage sandwich", "target": "The sausage sandwich is tasty."}
+{"input": "see silver ring", "target": "I see a silver ring."}
+{"input": "see silver ring", "target": "The ring is shiny and silver."}
+{"input": "see white sheep", "target": "I see a white sheep."}
+{"input": "see white sheep", "target": "The sheep is white and fluffy."}
+{"input": "ride train station", "target": "Ride the train from the station."}
+{"input": "ride train station", "target": "The train station is busy."}
+{"input": "eat salad fork", "target": "Eat salad with a fork."}
+{"input": "eat salad fork", "target": "Use a fork to eat the salad."}
+{"input": "play soccer game", "target": "Play a soccer game with friends."}
+{"input": "play soccer game", "target": "The soccer game is fun."}
+{"input": "run street", "target": "Run on the street carefully."}
+{"input": "run street", "target": "Do not run fast on the street."}
+{"input": "see yellow flower", "target": "I see a yellow flower."}
+{"input": "see yellow flower", "target": "The flower is yellow."}
+{"input": "see blue shoes", "target": "I see blue shoes."}
+{"input": "see blue shoes", "target": "The shoes are blue."}
+{"input": "eat salty chips", "target": "Eat salty chips for a snack."}
+{"input": "eat salty chips", "target": "The chips are very salty."}
+{"input": "use shampoo hair", "target": "Use shampoo to wash your hair."}
+{"input": "use shampoo hair", "target": "Shampoo makes hair clean."}
+{"input": "sit table", "target": "Sit at the table."}
+{"input": "sit table", "target": "The table is round."}
+{"input": "see river", "target": "I see the river."}
+{"input": "see river", "target": "The river is long."}
+{"input": "see snail", "target": "I see a snail outside."}
+{"input": "see snail", "target": "The snail moves slowly."}
+{"input": "see spider web", "target": "I see a spider web."}
+{"input": "see spider web", "target": "The spider made a web."}
+{"input": "eat soup spoon", "target": "Eat soup with a spoon."}
+{"input": "eat soup spoon", "target": "Use a spoon to eat soup."}
+{"input": "wash with water", "target": "Wash your hands with water."}
+{"input": "wash with water", "target": "Use water to wash your face."}
+{"input": "play with dog", "target": "Play with the dog in the yard."}
+{"input": "play with dog", "target": "The dog likes to play."}

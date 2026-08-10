@@ -1,0 +1,2750 @@
+[
+  {
+    "keyword": "read",
+    "sentences": [
+      "I like to read books.",
+      "Can you read this story?",
+      "Read a letter with me."
+    ]
+  },
+  {
+    "keyword": "rectangle",
+    "sentences": [
+      "A door is a rectangle.",
+      "Draw a rectangle on the paper.",
+      "A rectangle has four sides."
+    ]
+  },
+  {
+    "keyword": "remember",
+    "sentences": [
+      "Remember to bring your bag.",
+      "I remember my friend's name.",
+      "Can you remember this song?"
+    ]
+  },
+  {
+    "keyword": "remote_control",
+    "sentences": [
+      "Use the remote control for the TV.",
+      "The remote control is on the sofa.",
+      "Can you find the remote control?"
+    ]
+  },
+  {
+    "keyword": "remote",
+    "sentences": [
+      "I use the remote for the TV.",
+      "The remote is on the table.",
+      "Can you find the remote?"
+    ]
+  },
+  {
+    "keyword": "residence",
+    "sentences": [
+      "This is my residence.",
+      "We live in a big residence.",
+      "The residence has a door."
+    ]
+  },
+  {
+    "keyword": "restaurant",
+    "sentences": [
+      "We eat at the restaurant.",
+      "The restaurant has pizza.",
+      "Let’s go to the restaurant."
+    ]
+  },
+  {
+    "keyword": "rest",
+    "sentences": [
+      "I need to rest.",
+      "Let’s rest on the bed.",
+      "Rest makes me feel better."
+    ]
+  },
+  {
+    "keyword": "return",
+    "sentences": [
+      "Please return my toy.",
+      "I return home after school.",
+      "Return the book to the shelf."
+    ]
+  },
+  {
+    "keyword": "rhombus",
+    "sentences": [
+      "A rhombus has four sides.",
+      "Draw a rhombus.",
+      "The shape is a rhombus."
+    ]
+  },
+  {
+    "keyword": "ride_a_bike",
+    "sentences": [
+      "I can ride a bike.",
+      "Let’s ride a bike outside.",
+      "She rides a bike fast."
+    ]
+  },
+  {
+    "keyword": "ring",
+    "sentences": [
+      "This is a ring.",
+      "Mom wears a ring.",
+      "The ring is shiny."
+    ]
+  },
+  {
+    "keyword": "rinse",
+    "sentences": [
+      "Rinse your hands.",
+      "I rinse my mouth.",
+      "Rinse the cup, please."
+    ]
+  },
+  {
+    "keyword": "river",
+    "sentences": [
+      "The river is long.",
+      "Fish swim in the river.",
+      "We walk by the river."
+    ]
+  },
+  {
+    "keyword": "rocket",
+    "sentences": [
+      "The rocket goes up.",
+      "I see a rocket.",
+      "The rocket is fast."
+    ]
+  },
+  {
+    "keyword": "root",
+    "sentences": [
+      "The tree has roots.",
+      "Roots are under the ground.",
+      "I see a root."
+    ]
+  },
+  {
+    "keyword": "rose",
+    "sentences": [
+      "This is a rose.",
+      "The rose is red.",
+      "I smell the rose."
+    ]
+  },
+  {
+    "keyword": "route",
+    "sentences": [
+      "This is the route.",
+      "We follow the route.",
+      "The route is long."
+    ]
+  },
+  {
+    "keyword": "rub",
+    "sentences": [
+      "Rub your hands.",
+      "I rub my eyes.",
+      "Rub the soap on your skin."
+    ]
+  },
+  {
+    "keyword": "rucksack",
+    "sentences": [
+      "I have a rucksack.",
+      "The rucksack is blue.",
+      "Put books in the rucksack."
+    ]
+  },
+  {
+    "keyword": "run",
+    "sentences": [
+      "I run fast.",
+      "Let’s run outside.",
+      "She can run."
+    ]
+  },
+  {
+    "keyword": "russian_salad",
+    "sentences": [
+      "This is Russian salad.",
+      "I eat Russian salad.",
+      "Russian salad is tasty."
+    ]
+  },
+  {
+    "keyword": "sad",
+    "sentences": [
+      "I feel sad.",
+      "She looks sad.",
+      "The dog is sad."
+    ]
+  },
+  {
+    "keyword": "saint_george",
+    "sentences": [
+      "Today is Saint George’s day.",
+      "We read about Saint George.",
+      "Saint George is brave."
+    ]
+  },
+  {
+    "keyword": "saint_john_s_day",
+    "sentences": [
+      "It is Saint John's Day.",
+      "We celebrate Saint John's Day.",
+      "Saint John's Day is fun."
+    ]
+  },
+  {
+    "keyword": "salad",
+    "sentences": [
+      "This is a salad.",
+      "I like to eat salad.",
+      "The salad is green."
+    ]
+  },
+  {
+    "keyword": "salty",
+    "sentences": [
+      "The chips are salty.",
+      "This soup is salty.",
+      "I taste something salty."
+    ]
+  },
+  {
+    "keyword": "salt",
+    "sentences": [
+      "Please pass the salt.",
+      "Salt is white.",
+      "I put salt on my food."
+    ]
+  },
+  {
+    "keyword": "sandwich",
+    "sentences": [
+      "I eat a sandwich.",
+      "The sandwich has cheese.",
+      "She likes her sandwich."
+    ]
+  },
+  {
+    "keyword": "saturday",
+    "sentences": [
+      "Today is Saturday.",
+      "I play on Saturday.",
+      "Saturday is my favorite day."
+    ]
+  },
+  {
+    "keyword": "sausages",
+    "sentences": [
+      "I like sausages.",
+      "Sausages are for breakfast.",
+      "The sausages are hot."
+    ]
+  },
+  {
+    "keyword": "sausage",
+    "sentences": [
+      "This is a sausage.",
+      "I eat a sausage.",
+      "The sausage is tasty."
+    ]
+  },
+  {
+    "keyword": "say",
+    "sentences": [
+      "Say hello to your friend.",
+      "Can you say my name?",
+      "I say thank you."
+    ]
+  },
+  {
+    "keyword": "scared",
+    "sentences": [
+      "I feel scared.",
+      "The cat is scared.",
+      "She is scared of the dark."
+    ]
+  },
+  {
+    "keyword": "scarf",
+    "sentences": [
+      "I wear a scarf.",
+      "The scarf is warm.",
+      "My scarf is red."
+    ]
+  },
+  {
+    "keyword": "schoolteacher",
+    "sentences": [
+      "My schoolteacher is nice.",
+      "The schoolteacher helps me.",
+      "I listen to my schoolteacher."
+    ]
+  },
+  {
+    "keyword": "schoolyard",
+    "sentences": [
+      "We play in the schoolyard.",
+      "The schoolyard is big.",
+      "I run in the schoolyard."
+    ]
+  },
+  {
+    "keyword": "school",
+    "sentences": [
+      "I go to school.",
+      "School starts at eight.",
+      "My school is close."
+    ]
+  },
+  {
+    "keyword": "science",
+    "sentences": [
+      "I like science class.",
+      "We learn science at school.",
+      "Science is fun."
+    ]
+  },
+  {
+    "keyword": "scissors",
+    "sentences": [
+      "I use scissors to cut.",
+      "Be careful with scissors.",
+      "The scissors are sharp."
+    ]
+  },
+  {
+    "keyword": "seal",
+    "sentences": [
+      "The seal swims in the sea.",
+      "I saw a seal at the zoo.",
+      "The seal claps its flippers."
+    ]
+  },
+  {
+    "keyword": "search",
+    "sentences": [
+      "Let’s search for my toy.",
+      "I search for my shoes.",
+      "Can you search with me?"
+    ]
+  },
+  {
+    "keyword": "sea",
+    "sentences": [
+      "The sea is blue.",
+      "We swim in the sea.",
+      "Fish live in the sea."
+    ]
+  },
+  {
+    "keyword": "see",
+    "sentences": [
+      "I see a bird.",
+      "Can you see me?",
+      "We see the sun."
+    ]
+  },
+  {
+    "keyword": "sell",
+    "sentences": [
+      "I want to sell my toy.",
+      "They sell apples at the shop.",
+      "She will sell lemonade."
+    ]
+  },
+  {
+    "keyword": "september",
+    "sentences": [
+      "September is a month.",
+      "School starts in September.",
+      "My birthday is in September."
+    ]
+  },
+  {
+    "keyword": "sew",
+    "sentences": [
+      "Grandma can sew a dress.",
+      "I want to sew a button.",
+      "She likes to sew clothes."
+    ]
+  },
+  {
+    "keyword": "shampoo",
+    "sentences": [
+      "I wash my hair with shampoo.",
+      "The shampoo smells nice.",
+      "Please use shampoo in the bath."
+    ]
+  },
+  {
+    "keyword": "shapes",
+    "sentences": [
+      "I see many shapes.",
+      "Circle is a shape.",
+      "Can you draw shapes?"
+    ]
+  },
+  {
+    "keyword": "share",
+    "sentences": [
+      "I share my toys.",
+      "Please share your snack.",
+      "We share with friends."
+    ]
+  },
+  {
+    "keyword": "sheep",
+    "sentences": [
+      "The sheep is white.",
+      "I see sheep in the field.",
+      "Sheep say baa."
+    ]
+  },
+  {
+    "keyword": "shell",
+    "sentences": [
+      "I found a shell on the beach.",
+      "The shell is pretty.",
+      "Put the shell in your pocket."
+    ]
+  },
+  {
+    "keyword": "shirt",
+    "sentences": [
+      "My shirt is blue.",
+      "I wear a shirt to school.",
+      "The shirt is clean."
+    ]
+  },
+  {
+    "keyword": "shoes",
+    "sentences": [
+      "Put on your shoes.",
+      "My shoes are new.",
+      "These shoes are big."
+    ]
+  },
+  {
+    "keyword": "shop",
+    "sentences": [
+      "We go to the shop.",
+      "The shop sells candy.",
+      "I see a shop on the street."
+    ]
+  },
+  {
+    "keyword": "short",
+    "sentences": [
+      "The pencil is short.",
+      "He wears short pants.",
+      "My hair is short."
+    ]
+  },
+  {
+    "keyword": "shout",
+    "sentences": [
+      "Please do not shout.",
+      "He can shout very loud.",
+      "I shout for help."
+    ]
+  },
+  {
+    "keyword": "showers",
+    "sentences": [
+      "I take showers every day.",
+      "Showers make me clean.",
+      "We have showers at home."
+    ]
+  },
+  {
+    "keyword": "show",
+    "sentences": [
+      "I watch a show on TV.",
+      "The show is funny.",
+      "Let’s go to the puppet show."
+    ]
+  },
+  {
+    "keyword": "silver",
+    "sentences": [
+      "The spoon is silver.",
+      "I see a silver coin.",
+      "She wears a silver ring."
+    ]
+  },
+  {
+    "keyword": "sing",
+    "sentences": [
+      "I like to sing.",
+      "Let’s sing a song.",
+      "She can sing well."
+    ]
+  },
+  {
+    "keyword": "sister",
+    "sentences": [
+      "I have a sister.",
+      "My sister is little.",
+      "Sister plays with me."
+    ]
+  },
+  {
+    "keyword": "sit",
+    "sentences": [
+      "Please sit down.",
+      "I sit on the chair.",
+      "Let’s sit together."
+    ]
+  },
+  {
+    "keyword": "skin",
+    "sentences": [
+      "My skin is soft.",
+      "Skin covers my body.",
+      "She has light skin."
+    ]
+  },
+  {
+    "keyword": "skirt",
+    "sentences": [
+      "She wears a skirt.",
+      "The skirt is red.",
+      "I like my new skirt."
+    ]
+  },
+  {
+    "keyword": "ski",
+    "sentences": [
+      "I want to ski.",
+      "He can ski fast.",
+      "Ski down the hill."
+    ]
+  },
+  {
+    "keyword": "slalom",
+    "sentences": [
+      "Slalom is a ski race.",
+      "She races in slalom.",
+      "Slalom is fun to watch."
+    ]
+  },
+  {
+    "keyword": "sledge",
+    "sentences": [
+      "We ride a sledge.",
+      "The sledge slides on snow.",
+      "I like the red sledge."
+    ]
+  },
+  {
+    "keyword": "sleeping_bag",
+    "sentences": [
+      "I sleep in a sleeping bag.",
+      "The sleeping bag is warm.",
+      "Take your sleeping bag camping."
+    ]
+  },
+  {
+    "keyword": "sleep",
+    "sentences": [
+      "I need to sleep.",
+      "Sleep early at night.",
+      "Sleep helps me grow."
+    ]
+  },
+  {
+    "keyword": "slim",
+    "sentences": [
+      "The cat is slim.",
+      "He has a slim book.",
+      "The tree is slim."
+    ]
+  },
+  {
+    "keyword": "slow",
+    "sentences": [
+      "The turtle is slow.",
+      "Walk slow and safe.",
+      "Slow down, please."
+    ]
+  },
+  {
+    "keyword": "small",
+    "sentences": [
+      "I have a small toy.",
+      "The dog is small.",
+      "Small things are cute."
+    ]
+  },
+  {
+    "keyword": "smell",
+    "sentences": [
+      "I smell the flower.",
+      "The food smells good.",
+      "Can you smell this?"
+    ]
+  },
+  {
+    "keyword": "smooth",
+    "sentences": [
+      "The rock is smooth.",
+      "Smooth skin feels nice.",
+      "I like smooth paper."
+    ]
+  },
+  {
+    "keyword": "snail",
+    "sentences": [
+      "The snail moves slowly.",
+      "I see a snail outside.",
+      "The snail has a shell."
+    ]
+  },
+  {
+    "keyword": "snakes_and_ladders",
+    "sentences": [
+      "We play snakes and ladders.",
+      "Snakes and ladders is fun.",
+      "I won at snakes and ladders."
+    ]
+  },
+  {
+    "keyword": "snake",
+    "sentences": [
+      "The snake is long.",
+      "Snakes live in the grass.",
+      "I saw a snake today."
+    ]
+  },
+  {
+    "keyword": "snow",
+    "sentences": [
+      "Snow is cold.",
+      "We play in the snow.",
+      "Snow covers the ground."
+    ]
+  },
+  {
+    "keyword": "soap",
+    "sentences": [
+      "Use soap to wash hands.",
+      "Soap makes bubbles.",
+      "The soap smells nice."
+    ]
+  },
+  {
+    "keyword": "soccer",
+    "sentences": [
+      "I like to play soccer.",
+      "Soccer is a fun game.",
+      "We kick the soccer ball."
+    ]
+  },
+  {
+    "keyword": "socks",
+    "sentences": [
+      "I wear socks every day.",
+      "My socks are clean.",
+      "Put on your socks."
+    ]
+  },
+  {
+    "keyword": "sofa",
+    "sentences": [
+      "I sit on the sofa.",
+      "The sofa is soft.",
+      "The sofa is big."
+    ]
+  },
+  {
+    "keyword": "soft",
+    "sentences": [
+      "The pillow is soft.",
+      "Soft toys are nice.",
+      "I like soft blankets."
+    ]
+  },
+  {
+    "keyword": "sorry",
+    "sentences": [
+      "I say sorry to my friend.",
+      "Sorry if I made you sad.",
+      "She says sorry to her mom."
+    ]
+  },
+  {
+    "keyword": "soup",
+    "sentences": [
+      "The soup is hot.",
+      "I eat soup with a spoon.",
+      "Mom made chicken soup."
+    ]
+  },
+  {
+    "keyword": "speak",
+    "sentences": [
+      "I can speak loudly.",
+      "She speaks to her teacher.",
+      "Please speak slowly."
+    ]
+  },
+  {
+    "keyword": "speech_therapy",
+    "sentences": [
+      "I go to speech therapy.",
+      "Speech therapy helps me talk.",
+      "My friend goes to speech therapy."
+    ]
+  },
+  {
+    "keyword": "spider",
+    "sentences": [
+      "The spider spins a web.",
+      "I see a spider on the wall.",
+      "Spiders have eight legs."
+    ]
+  },
+  {
+    "keyword": "spiral_shaped_pastry",
+    "sentences": [
+      "This is a spiral shaped pastry.",
+      "I like spiral shaped pastry.",
+      "The pastry looks like a spiral."
+    ]
+  },
+  {
+    "keyword": "sponge",
+    "sentences": [
+      "The sponge is soft and yellow.",
+      "I use a sponge to clean.",
+      "The sponge soaks up water."
+    ]
+  },
+  {
+    "keyword": "spoon",
+    "sentences": [
+      "I eat with a spoon.",
+      "The spoon is shiny.",
+      "Give me a spoon, please."
+    ]
+  },
+  {
+    "keyword": "sport",
+    "sentences": [
+      "Soccer is a sport.",
+      "I like to play sport.",
+      "We do sport at school."
+    ]
+  },
+  {
+    "keyword": "spring",
+    "sentences": [
+      "Spring is a season.",
+      "Flowers bloom in spring.",
+      "Spring is warm and nice."
+    ]
+  },
+  {
+    "keyword": "squared",
+    "sentences": [
+      "The paper is squared.",
+      "I draw on squared paper.",
+      "Squared shapes are neat."
+    ]
+  },
+  {
+    "keyword": "square",
+    "sentences": [
+      "A square has four sides.",
+      "Draw a big square.",
+      "The box is a square."
+    ]
+  },
+  {
+    "keyword": "squirrel",
+    "sentences": [
+      "The squirrel climbs the tree.",
+      "I see a squirrel in the park.",
+      "Squirrels eat nuts."
+    ]
+  },
+  {
+    "keyword": "stairs",
+    "sentences": [
+      "Go up the stairs.",
+      "The stairs are long.",
+      "I walk down the stairs."
+    ]
+  },
+  {
+    "keyword": "stamps",
+    "sentences": [
+      "I collect stamps.",
+      "Put a stamp on the letter.",
+      "The stamp is colorful."
+    ]
+  },
+  {
+    "keyword": "stand",
+    "sentences": [
+      "Please stand up.",
+      "I stand on the floor.",
+      "Stand next to me."
+    ]
+  },
+  {
+    "keyword": "steal_the_bacon",
+    "sentences": [
+      "We play steal the bacon.",
+      "Steal the bacon is a game.",
+      "I run fast in steal the bacon."
+    ]
+  },
+  {
+    "keyword": "stick",
+    "sentences": [
+      "I found a stick.",
+      "The dog likes the stick.",
+      "Draw with a stick in the sand."
+    ]
+  },
+  {
+    "keyword": "stop",
+    "sentences": [
+      "Please stop running.",
+      "Stop and look both ways.",
+      "I stop at the red light."
+    ]
+  },
+  {
+    "keyword": "straighten",
+    "sentences": [
+      "Straighten your back.",
+      "I straighten my shirt.",
+      "Please straighten the line."
+    ]
+  },
+  {
+    "keyword": "strawberry",
+    "sentences": [
+      "I like strawberry jam.",
+      "The strawberry is red.",
+      "She eats a strawberry."
+    ]
+  },
+  {
+    "keyword": "street",
+    "sentences": [
+      "I live on this street.",
+      "The street is busy.",
+      "Cross the street carefully."
+    ]
+  },
+  {
+    "keyword": "stretcher",
+    "sentences": [
+      "The doctor uses a stretcher.",
+      "He lies on the stretcher.",
+      "The stretcher has wheels."
+    ]
+  },
+  {
+    "keyword": "stripy",
+    "sentences": [
+      "My shirt is stripy.",
+      "The cat has stripy fur.",
+      "I see a stripy sock."
+    ]
+  },
+  {
+    "keyword": "stroll",
+    "sentences": [
+      "We take a stroll in the park.",
+      "Let’s stroll after lunch.",
+      "I stroll with my mom."
+    ]
+  },
+  {
+    "keyword": "strong",
+    "sentences": [
+      "Dad is strong.",
+      "I want to be strong.",
+      "The wind is strong today."
+    ]
+  },
+  {
+    "keyword": "study",
+    "sentences": [
+      "I study every day.",
+      "She studies at her desk.",
+      "Let’s study together."
+    ]
+  },
+  {
+    "keyword": "success",
+    "sentences": [
+      "You did it! That is success.",
+      "Success makes me happy.",
+      "Success means you win."
+    ]
+  },
+  {
+    "keyword": "sugar",
+    "sentences": [
+      "Sugar is sweet.",
+      "I put sugar in my tea.",
+      "Don’t eat too much sugar."
+    ]
+  },
+  {
+    "keyword": "summer",
+    "sentences": [
+      "Summer is hot.",
+      "We swim in summer.",
+      "Summer is my favorite season."
+    ]
+  },
+  {
+    "keyword": "sunday",
+    "sentences": [
+      "Sunday is a holiday.",
+      "I rest on Sunday.",
+      "Sunday comes after Saturday."
+    ]
+  },
+  {
+    "keyword": "sun",
+    "sentences": [
+      "The sun is bright.",
+      "I see the sun in the sky.",
+      "The sun gives us light."
+    ]
+  },
+  {
+    "keyword": "support",
+    "sentences": [
+      "I give support to my friend.",
+      "Support helps everyone.",
+      "We all need support."
+    ]
+  },
+  {
+    "keyword": "surgical_gloves",
+    "sentences": [
+      "Wear surgical gloves to stay clean.",
+      "Surgical gloves are in the box.",
+      "Put on surgical gloves before helping."
+    ]
+  },
+  {
+    "keyword": "surprised",
+    "sentences": [
+      "I feel surprised.",
+      "The noise made me surprised.",
+      "Surprised faces look funny."
+    ]
+  },
+  {
+    "keyword": "sweet",
+    "sentences": [
+      "Candy is sweet.",
+      "I like sweet apples.",
+      "The cake tastes sweet."
+    ]
+  },
+  {
+    "keyword": "swimming_pool",
+    "sentences": [
+      "I swim in the swimming pool.",
+      "The swimming pool is blue.",
+      "Let’s go to the swimming pool."
+    ]
+  },
+  {
+    "keyword": "swimsuit",
+    "sentences": [
+      "I wear a swimsuit to swim.",
+      "The swimsuit is new.",
+      "Put on your swimsuit."
+    ]
+  },
+  {
+    "keyword": "swim",
+    "sentences": [
+      "I swim in the water.",
+      "Swimming is fun.",
+      "Let’s swim together."
+    ]
+  },
+  {
+    "keyword": "swing",
+    "sentences": [
+      "I like the swing.",
+      "The swing goes back and forth.",
+      "Let’s play on the swing."
+    ]
+  },
+  {
+    "keyword": "switch",
+    "sentences": [
+      "Turn on the light switch.",
+      "The switch is on the wall.",
+      "Flip the switch to start."
+    ]
+  },
+  {
+    "keyword": "synagogue",
+    "sentences": [
+      "We visit the synagogue.",
+      "The synagogue is quiet.",
+      "People pray in the synagogue."
+    ]
+  },
+  {
+    "keyword": "tablet",
+    "sentences": [
+      "I play games on a tablet.",
+      "The tablet is on the table.",
+      "A tablet can show pictures."
+    ]
+  },
+  {
+    "keyword": "table",
+    "sentences": [
+      "The table is round.",
+      "We eat at the table.",
+      "Put your book on the table."
+    ]
+  },
+  {
+    "keyword": "take",
+    "sentences": [
+      "Take your bag.",
+      "I take a cookie.",
+      "Take a seat, please."
+    ]
+  },
+  {
+    "keyword": "tale",
+    "sentences": [
+      "I like to hear a tale.",
+      "This tale is funny.",
+      "Tell me a tale."
+    ]
+  },
+  {
+    "keyword": "tall",
+    "sentences": [
+      "The tree is tall.",
+      "I see a tall building.",
+      "The giraffe is tall."
+    ]
+  },
+  {
+    "keyword": "tambourine",
+    "sentences": [
+      "The tambourine makes music.",
+      "Shake the tambourine.",
+      "I play the tambourine."
+    ]
+  },
+  {
+    "keyword": "teatime",
+    "sentences": [
+      "It is teatime now.",
+      "We have snacks at teatime.",
+      "Teatime is in the afternoon."
+    ]
+  },
+  {
+    "keyword": "teeth",
+    "sentences": [
+      "Brush your teeth.",
+      "Teeth help us eat.",
+      "My teeth are white."
+    ]
+  },
+  {
+    "keyword": "telephone",
+    "sentences": [
+      "The telephone is ringing.",
+      "I talk on the telephone.",
+      "Pick up the telephone."
+    ]
+  },
+  {
+    "keyword": "television",
+    "sentences": [
+      "The television is on.",
+      "I watch cartoons on television.",
+      "Turn off the television."
+    ]
+  },
+  {
+    "keyword": "thanks",
+    "sentences": [
+      "Thanks for your help.",
+      "I say thanks to everyone.",
+      "Thanks makes people happy."
+    ]
+  },
+  {
+    "keyword": "theatre",
+    "sentences": [
+      "We go to the theatre.",
+      "The theatre is big.",
+      "I watch a play at the theatre."
+    ]
+  },
+  {
+    "keyword": "thermometer",
+    "sentences": [
+      "The thermometer checks temperature.",
+      "I use a thermometer when I am sick.",
+      "The thermometer is in the box."
+    ]
+  },
+  {
+    "keyword": "think",
+    "sentences": [
+      "I think about my day.",
+      "Think before you speak.",
+      "It is good to think."
+    ]
+  },
+  {
+    "keyword": "throw",
+    "sentences": [
+      "Throw the ball to me.",
+      "I throw paper in the bin.",
+      "Throw your hands up."
+    ]
+  },
+  {
+    "keyword": "thunder",
+    "sentences": [
+      "Thunder is loud.",
+      "I hear thunder at night.",
+      "Thunder comes with rain."
+    ]
+  },
+  {
+    "keyword": "thursday",
+    "sentences": [
+      "Thursday is before Friday.",
+      "We have art on Thursday.",
+      "Thursday is a school day."
+    ]
+  },
+  {
+    "keyword": "ticket",
+    "sentences": [
+      "I have a ticket.",
+      "The ticket is for the bus.",
+      "Show your ticket, please."
+    ]
+  },
+  {
+    "keyword": "ticktacktoe",
+    "sentences": [
+      "I play ticktacktoe with a friend.",
+      "Ticktacktoe uses X and O.",
+      "Let’s draw a ticktacktoe game."
+    ]
+  },
+  {
+    "keyword": "tie",
+    "sentences": [
+      "The tie is blue.",
+      "I wear a tie at school.",
+      "Tie your tie neatly."
+    ]
+  },
+  {
+    "keyword": "tiger",
+    "sentences": [
+      "The tiger has stripes.",
+      "I see a tiger at the zoo.",
+      "Tigers are big cats."
+    ]
+  },
+  {
+    "keyword": "tights",
+    "sentences": [
+      "The tights are soft.",
+      "Wear tights in winter.",
+      "My tights are pink."
+    ]
+  },
+  {
+    "keyword": "tired",
+    "sentences": [
+      "I feel tired after running.",
+      "Let’s rest if you are tired.",
+      "Tired eyes need sleep."
+    ]
+  },
+  {
+    "keyword": "toast",
+    "sentences": [
+      "I eat toast for breakfast.",
+      "The toast is warm and crisp.",
+      "Put jam on your toast."
+    ]
+  },
+  {
+    "keyword": "today",
+    "sentences": [
+      "Today is a sunny day.",
+      "I go to school today.",
+      "Today we play outside."
+    ]
+  },
+  {
+    "keyword": "toiletries",
+    "sentences": [
+      "Toiletries are in my bag.",
+      "I use toiletries every day.",
+      "Soap and toothpaste are toiletries."
+    ]
+  },
+  {
+    "keyword": "toilet",
+    "sentences": [
+      "The toilet is clean.",
+      "Wash hands after using the toilet.",
+      "The toilet paper is next to the toilet."
+    ]
+  },
+  {
+    "keyword": "tomato",
+    "sentences": [
+      "The tomato is red.",
+      "I eat tomato in salad.",
+      "Tomatoes grow in the garden."
+    ]
+  },
+  {
+    "keyword": "tomorrow",
+    "sentences": [
+      "Tomorrow is a new day.",
+      "We go to the park tomorrow.",
+      "Tomorrow comes after today."
+    ]
+  },
+  {
+    "keyword": "tongue",
+    "sentences": [
+      "Stick out your tongue.",
+      "The tongue helps me taste.",
+      "My tongue is pink."
+    ]
+  },
+  {
+    "keyword": "toothbrush",
+    "sentences": [
+      "I use a toothbrush every morning.",
+      "The toothbrush is blue.",
+      "Put toothpaste on the toothbrush."
+    ]
+  },
+  {
+    "keyword": "toothpaste",
+    "sentences": [
+      "Toothpaste cleans my teeth.",
+      "Squeeze the toothpaste tube.",
+      "The toothpaste is minty."
+    ]
+  },
+  {
+    "keyword": "tortoise",
+    "sentences": [
+      "The tortoise moves slowly.",
+      "A tortoise has a hard shell.",
+      "I see a tortoise in the garden."
+    ]
+  },
+  {
+    "keyword": "touch",
+    "sentences": [
+      "Touch your nose.",
+      "I can touch my toes.",
+      "Touch the soft pillow."
+    ]
+  },
+  {
+    "keyword": "towel",
+    "sentences": [
+      "Dry your hands with a towel.",
+      "The towel is soft.",
+      "Hang the towel to dry."
+    ]
+  },
+  {
+    "keyword": "toys",
+    "sentences": [
+      "I have many toys.",
+      "Toys are in the box.",
+      "Let’s play with toys."
+    ]
+  },
+  {
+    "keyword": "toy_kitchen",
+    "sentences": [
+      "I play with my toy kitchen.",
+      "The toy kitchen has small pots.",
+      "Let’s cook in the toy kitchen."
+    ]
+  },
+  {
+    "keyword": "tracksuit",
+    "sentences": [
+      "The tracksuit is comfy.",
+      "Wear a tracksuit for sports.",
+      "My tracksuit is green."
+    ]
+  },
+  {
+    "keyword": "tractor",
+    "sentences": [
+      "The tractor is big and loud.",
+      "I see a tractor on the farm.",
+      "The tractor pulls the trailer."
+    ]
+  },
+  {
+    "keyword": "train_station",
+    "sentences": [
+      "The train station is busy.",
+      "Wait at the train station.",
+      "Trains stop at the train station."
+    ]
+  },
+  {
+    "keyword": "transport",
+    "sentences": [
+      "Buses are a kind of transport.",
+      "We use transport to travel.",
+      "Transport helps us go far."
+    ]
+  },
+  {
+    "keyword": "travel",
+    "sentences": [
+      "I like to travel.",
+      "Travel can be by car or train.",
+      "We travel to new places."
+    ]
+  },
+  {
+    "keyword": "tree",
+    "sentences": [
+      "The tree is tall and green.",
+      "Birds sit in the tree.",
+      "I see apples on the tree."
+    ]
+  },
+  {
+    "keyword": "trip",
+    "sentences": [
+      "We go on a trip.",
+      "The trip was fun.",
+      "Pack snacks for the trip."
+    ]
+  },
+  {
+    "keyword": "tronca",
+    "sentences": [
+      "The tronca is on the ground.",
+      "I see a tronca in the park.",
+      "Let’s climb on the tronca."
+    ]
+  },
+  {
+    "keyword": "trousers",
+    "sentences": [
+      "I wear trousers to school.",
+      "The trousers are blue.",
+      "Trousers keep my legs warm."
+    ]
+  },
+  {
+    "keyword": "trumpet",
+    "sentences": [
+      "The trumpet is loud.",
+      "I play the trumpet.",
+      "The trumpet is shiny and gold."
+    ]
+  },
+  {
+    "keyword": "trunk",
+    "sentences": [
+      "The trunk is big and strong.",
+      "Elephants have a long trunk.",
+      "Put toys in the trunk."
+    ]
+  },
+  {
+    "keyword": "tuesday",
+    "sentences": [
+      "Tuesday is after Monday.",
+      "We have gym on Tuesday.",
+      "Tuesday is a school day."
+    ]
+  },
+  {
+    "keyword": "t_shirt",
+    "sentences": [
+      "I wear a t-shirt.",
+      "The t-shirt is soft.",
+      "My t-shirt has a picture."
+    ]
+  },
+  {
+    "keyword": "ugly",
+    "sentences": [
+      "The monster looks ugly.",
+      "Some bugs are ugly.",
+      "Ugly things can be funny."
+    ]
+  },
+  {
+    "keyword": "umbrella",
+    "sentences": [
+      "Use an umbrella in the rain.",
+      "The umbrella is blue.",
+      "Hold the umbrella over your head."
+    ]
+  },
+  {
+    "keyword": "uncomfortable",
+    "sentences": [
+      "This chair is uncomfortable.",
+      "I feel uncomfortable in tight shoes.",
+      "Uncomfortable clothes are not nice."
+    ]
+  },
+  {
+    "keyword": "underpants",
+    "sentences": [
+      "I wear underpants every day.",
+      "Underpants go under my clothes.",
+      "My underpants are clean."
+    ]
+  },
+  {
+    "keyword": "under",
+    "sentences": [
+      "The cat is under the table.",
+      "Look under your bed.",
+      "The ball rolled under the chair."
+    ]
+  },
+  {
+    "keyword": "undress",
+    "sentences": [
+      "Time to undress for a bath.",
+      "Undress before putting on pajamas.",
+      "I can undress by myself."
+    ]
+  },
+  {
+    "keyword": "uneven",
+    "sentences": [
+      "The ground is uneven.",
+      "Be careful on uneven steps.",
+      "Uneven roads are bumpy."
+    ]
+  },
+  {
+    "keyword": "up",
+    "sentences": [
+      "Look up at the sky.",
+      "The balloon goes up.",
+      "Climb up the ladder."
+    ]
+  },
+  {
+    "keyword": "use",
+    "sentences": [
+      "Use a pencil to write.",
+      "I use a spoon to eat.",
+      "Use your words to ask."
+    ]
+  },
+  {
+    "keyword": "vagina",
+    "sentences": [
+      "The vagina is a body part.",
+      "Doctors help care for the vagina.",
+      "Everyone has private body parts."
+    ]
+  },
+  {
+    "keyword": "vampire",
+    "sentences": [
+      "A vampire sleeps in a coffin.",
+      "Vampires have sharp teeth.",
+      "Some stories have vampires."
+    ]
+  },
+  {
+    "keyword": "van",
+    "sentences": [
+      "The van is big and white.",
+      "We ride in a van to school.",
+      "The van has many seats."
+    ]
+  },
+  {
+    "keyword": "vegetable",
+    "sentences": [
+      "Carrot is a vegetable.",
+      "Vegetables are good for you.",
+      "I eat a green vegetable."
+    ]
+  },
+  {
+    "keyword": "verbs",
+    "sentences": [
+      "Run is a verb.",
+      "Verbs are action words.",
+      "We learn verbs in class."
+    ]
+  },
+  {
+    "keyword": "video_camera",
+    "sentences": [
+      "The video camera records movies.",
+      "I see a video camera.",
+      "Let’s use a video camera."
+    ]
+  },
+  {
+    "keyword": "village",
+    "sentences": [
+      "The village is small.",
+      "People live in the village.",
+      "We visit the village."
+    ]
+  },
+  {
+    "keyword": "vinegar",
+    "sentences": [
+      "Vinegar tastes sour.",
+      "We use vinegar in salad.",
+      "The bottle has vinegar."
+    ]
+  },
+  {
+    "keyword": "visit",
+    "sentences": [
+      "I visit my friend.",
+      "Let’s visit the zoo.",
+      "We visit grandma’s house."
+    ]
+  },
+  {
+    "keyword": "vitamin",
+    "sentences": [
+      "Vitamins help us grow.",
+      "I take a vitamin every day.",
+      "Fruits have vitamins."
+    ]
+  },
+  {
+    "keyword": "waistcoat",
+    "sentences": [
+      "The waistcoat is black.",
+      "Wear a waistcoat for a party.",
+      "The waistcoat has buttons."
+    ]
+  },
+  {
+    "keyword": "wait",
+    "sentences": [
+      "Please wait your turn.",
+      "Wait at the bus stop.",
+      "I wait for my snack."
+    ]
+  },
+  {
+    "keyword": "wake_up",
+    "sentences": [
+      "I wake up early.",
+      "Wake up when the sun rises.",
+      "It’s time to wake up."
+    ]
+  },
+  {
+    "keyword": "walker",
+    "sentences": [
+      "The walker helps with walking.",
+      "Use a walker if you need help.",
+      "The walker has four wheels."
+    ]
+  },
+  {
+    "keyword": "walk",
+    "sentences": [
+      "Let’s go for a walk.",
+      "I walk to the park.",
+      "Walk slowly on wet floors."
+    ]
+  },
+  {
+    "keyword": "wall_lizard",
+    "sentences": [
+      "The wall lizard is small.",
+      "I see a wall lizard on the wall.",
+      "Wall lizards move quickly."
+    ]
+  },
+  {
+    "keyword": "want",
+    "sentences": [
+      "I want a cookie.",
+      "Do you want to play?",
+      "We want to go outside."
+    ]
+  },
+  {
+    "keyword": "wardrobe",
+    "sentences": [
+      "Clothes are in the wardrobe.",
+      "The wardrobe is brown.",
+      "Open the wardrobe to find shoes."
+    ]
+  },
+  {
+    "keyword": "wash",
+    "sentences": [
+      "Wash your hands before eating.",
+      "I wash my face every day.",
+      "Wash the apples before eating."
+    ]
+  },
+  {
+    "keyword": "watch",
+    "sentences": [
+      "I wear a watch on my wrist.",
+      "The watch shows the time.",
+      "Look at the watch to see the hour."
+    ]
+  },
+  {
+    "keyword": "waterproof",
+    "sentences": [
+      "My coat is waterproof.",
+      "Waterproof boots keep feet dry.",
+      "Use a waterproof bag in the rain."
+    ]
+  },
+  {
+    "keyword": "water",
+    "sentences": [
+      "Drink water every day.",
+      "Water is clear.",
+      "Plants need water to grow."
+    ]
+  },
+  {
+    "keyword": "weak",
+    "sentences": [
+      "I feel weak when I am sick.",
+      "The bridge is weak and old.",
+      "Weak things can break easily."
+    ]
+  },
+  {
+    "keyword": "wednesday",
+    "sentences": [
+      "Wednesday is in the middle of the week.",
+      "We have music on Wednesday.",
+      "Wednesday comes after Tuesday."
+    ]
+  },
+  {
+    "keyword": "weekend",
+    "sentences": [
+      "The weekend is Saturday and Sunday.",
+      "I play on the weekend.",
+      "No school on the weekend."
+    ]
+  },
+  {
+    "keyword": "week",
+    "sentences": [
+      "A week has seven days.",
+      "We go to school every week.",
+      "The week starts on Monday."
+    ]
+  },
+  {
+    "keyword": "well",
+    "sentences": [
+      "I feel well today.",
+      "Drink water to stay well.",
+      "I hope you are well."
+    ]
+  },
+  {
+    "keyword": "wet",
+    "sentences": [
+      "My shoes are wet.",
+      "Don’t sit on the wet bench.",
+      "The grass is wet in the morning."
+    ]
+  },
+  {
+    "keyword": "whale",
+    "sentences": [
+      "The whale is very big.",
+      "Whales live in the sea.",
+      "I saw a whale on TV."
+    ]
+  },
+  {
+    "keyword": "what",
+    "sentences": [
+      "What is your name?",
+      "What do you see?",
+      "What is for lunch?"
+    ]
+  },
+  {
+    "keyword": "wheelchair",
+    "sentences": [
+      "The wheelchair helps people move.",
+      "I see a wheelchair at school.",
+      "The wheelchair has big wheels."
+    ]
+  },
+  {
+    "keyword": "wheel",
+    "sentences": [
+      "The car has four wheels.",
+      "Turn the wheel to drive.",
+      "The wheel spins fast."
+    ]
+  },
+  {
+    "keyword": "when",
+    "sentences": [
+      "When do we eat?",
+      "When is your birthday?",
+      "When can we play?"
+    ]
+  },
+  {
+    "keyword": "where",
+    "sentences": [
+      "Where is my bag?",
+      "Where do you live?",
+      "Where are we going?"
+    ]
+  },
+  {
+    "keyword": "white",
+    "sentences": [
+      "The snow is white.",
+      "I have a white shirt.",
+      "Milk is white."
+    ]
+  },
+  {
+    "keyword": "whose",
+    "sentences": [
+      "Whose book is this?",
+      "Whose shoes are on the floor?",
+      "Whose turn is it?"
+    ]
+  },
+  {
+    "keyword": "who",
+    "sentences": [
+      "Who is at the door?",
+      "Who wants to play?",
+      "Who made this drawing?"
+    ]
+  },
+  {
+    "keyword": "why",
+    "sentences": [
+      "Why is the sky blue?",
+      "Why are you sad?",
+      "Why do we eat lunch?"
+    ]
+  },
+  {
+    "keyword": "window",
+    "sentences": [
+      "Look out the window.",
+      "The window is open.",
+      "Close the window, please."
+    ]
+  },
+  {
+    "keyword": "winter",
+    "sentences": [
+      "Winter is cold.",
+      "I wear a coat in winter.",
+      "Snow falls in winter."
+    ]
+  },
+  {
+    "keyword": "win",
+    "sentences": [
+      "I want to win the game.",
+      "Win a prize for your team.",
+      "It feels good to win."
+    ]
+  },
+  {
+    "keyword": "with",
+    "sentences": [
+      "I play with my friend.",
+      "Eat soup with a spoon.",
+      "Draw with a pencil."
+    ]
+  },
+  {
+    "keyword": "wolf",
+    "sentences": [
+      "The wolf howls at night.",
+      "A wolf lives in the forest.",
+      "I read a story about a wolf."
+    ]
+  },
+  {
+    "keyword": "woman",
+    "sentences": [
+      "A woman is reading a book.",
+      "The woman is kind.",
+      "I see a woman at the park."
+    ]
+  },
+  {
+    "keyword": "wood",
+    "sentences": [
+      "The table is made of wood.",
+      "Wood comes from trees.",
+      "We build with wood."
+    ]
+  },
+  {
+    "keyword": "work",
+    "sentences": [
+      "I do my work at school.",
+      "Work hard and do your best.",
+      "Work can be fun."
+    ]
+  },
+  {
+    "keyword": "worm",
+    "sentences": [
+      "The worm is in the soil.",
+      "Worms are small and wiggly.",
+      "I found a worm in the garden."
+    ]
+  },
+  {
+    "keyword": "write",
+    "sentences": [
+      "I write my name.",
+      "Write with a pencil.",
+      "Can you write a letter?"
+    ]
+  },
+  {
+    "keyword": "year",
+    "sentences": [
+      "A year has twelve months.",
+      "This year is fun.",
+      "We start school every year."
+    ]
+  },
+  {
+    "keyword": "yellow",
+    "sentences": [
+      "The sun is yellow.",
+      "I have a yellow ball.",
+      "Bananas are yellow."
+    ]
+  },
+  {
+    "keyword": "yesterday",
+    "sentences": [
+      "Yesterday was fun.",
+      "I saw a movie yesterday.",
+      "Yesterday comes before today."
+    ]
+  },
+  {
+    "keyword": "yes",
+    "sentences": [
+      "Yes, I want some juice.",
+      "Yes, let's play outside.",
+      "Say yes if you agree."
+    ]
+  },
+  {
+    "keyword": "yogurt",
+    "sentences": [
+      "I eat yogurt for breakfast.",
+      "Yogurt is cold and tasty.",
+      "Strawberry yogurt is my favorite."
+    ]
+  },
+  {
+    "keyword": "young",
+    "sentences": [
+      "The puppy is young.",
+      "Young children play together.",
+      "A young tree is small."
+    ]
+  },
+  {
+    "keyword": "your",
+    "sentences": [
+      "Your shoes are here.",
+      "Brush your teeth.",
+      "Is this your bag?"
+    ]
+  },
+  {
+    "keyword": "you",
+    "sentences": [
+      "You are my friend.",
+      "Can you help me?",
+      "You can do it!"
+    ]
+  },
+  {
+    "keyword": "zebra",
+    "sentences": [
+      "The zebra has stripes.",
+      "I saw a zebra at the zoo.",
+      "Zebras run fast."
+    ]
+  },
+  {
+    "keyword": "read book",
+    "sentences": [
+      "I like to read a book.",
+      "Read a book with me."
+    ]
+  },
+  {
+    "keyword": "yellow flower",
+    "sentences": [
+      "The flower is yellow.",
+      "I see a yellow flower."
+    ]
+  },
+  {
+    "keyword": "ride a bike fast",
+    "sentences": [
+      "Ride a bike fast in the park.",
+      "Can you ride a bike fast?"
+    ]
+  },
+  {
+    "keyword": "eat sandwich",
+    "sentences": [
+      "I eat a sandwich for lunch.",
+      "Eat the sandwich now."
+    ]
+  },
+  {
+    "keyword": "sleeping bag camp",
+    "sentences": [
+      "I sleep in a sleeping bag at camp.",
+      "Take your sleeping bag to camp."
+    ]
+  },
+  {
+    "keyword": "draw rectangle",
+    "sentences": [
+      "Draw a rectangle on the paper.",
+      "Can you draw a rectangle?"
+    ]
+  },
+  {
+    "keyword": "run fast",
+    "sentences": [
+      "I can run fast.",
+      "Run fast in the playground."
+    ]
+  },
+  {
+    "keyword": "blue shoes",
+    "sentences": [
+      "The shoes are blue.",
+      "I wear blue shoes."
+    ]
+  },
+  {
+    "keyword": "play soccer",
+    "sentences": [
+      "I play soccer with friends.",
+      "Soccer is a fun game."
+    ]
+  },
+  {
+    "keyword": "swim pool",
+    "sentences": [
+      "Swim in the pool.",
+      "The pool is for swimming."
+    ]
+  },
+  {
+    "keyword": "eat salad",
+    "sentences": [
+      "I eat salad at lunch.",
+      "The salad is tasty."
+    ]
+  },
+  {
+    "keyword": "school teacher",
+    "sentences": [
+      "The teacher is at school.",
+      "I listen to my school teacher."
+    ]
+  },
+  {
+    "keyword": "ride sledge snow",
+    "sentences": [
+      "Ride the sledge on the snow.",
+      "The sledge slides on snow."
+    ]
+  },
+  {
+    "keyword": "sit chair",
+    "sentences": [
+      "Sit on the chair.",
+      "The chair is for sitting."
+    ]
+  },
+  {
+    "keyword": "drink water",
+    "sentences": [
+      "Drink water every day.",
+      "Water is good for you."
+    ]
+  },
+  {
+    "keyword": "wash hands soap",
+    "sentences": [
+      "Wash your hands with soap.",
+      "Use soap to wash hands."
+    ]
+  },
+  {
+    "keyword": "school bag",
+    "sentences": [
+      "Take your bag to school.",
+      "The bag is for school."
+    ]
+  },
+  {
+    "keyword": "read newspaper",
+    "sentences": [
+      "Read the newspaper every morning.",
+      "The newspaper has news."
+    ]
+  },
+  {
+    "keyword": "play with toys",
+    "sentences": [
+      "Play with toys in the room.",
+      "I have many toys to play with."
+    ]
+  },
+  {
+    "keyword": "sweet strawberry",
+    "sentences": [
+      "The strawberry is sweet.",
+      "I eat a sweet strawberry."
+    ]
+  },
+  {
+    "keyword": "draw square",
+    "sentences": [
+      "Draw a square on the paper.",
+      "The square has four sides."
+    ]
+  },
+  {
+    "keyword": "eat soup",
+    "sentences": [
+      "Eat soup with a spoon.",
+      "The soup is hot."
+    ]
+  },
+  {
+    "keyword": "play with friends",
+    "sentences": [
+      "Play with friends at school.",
+      "Friends make playtime fun."
+    ]
+  },
+  {
+    "keyword": "wear shoes",
+    "sentences": [
+      "Wear your shoes before going out.",
+      "Put on your shoes."
+    ]
+  },
+  {
+    "keyword": "ride tractor",
+    "sentences": [
+      "Ride the tractor on the farm.",
+      "The tractor is big and loud."
+    ]
+  },
+  {
+    "keyword": "sit sofa",
+    "sentences": [
+      "Sit on the sofa.",
+      "The sofa is soft."
+    ]
+  },
+  {
+    "keyword": "climb stairs",
+    "sentences": [
+      "Climb the stairs slowly.",
+      "The stairs are long."
+    ]
+  },
+  {
+    "keyword": "wear scarf",
+    "sentences": [
+      "Wear a scarf in winter.",
+      "The scarf keeps you warm."
+    ]
+  },
+  {
+    "keyword": "drink milk",
+    "sentences": [
+      "Drink milk every morning.",
+      "Milk is good for you."
+    ]
+  },
+  {
+    "keyword": "see whale",
+    "sentences": [
+      "I see a whale in the sea.",
+      "The whale is very big."
+    ]
+  },
+  {
+    "keyword": "eat tomato salad",
+    "sentences": [
+      "Eat tomato salad at lunch.",
+      "Tomato salad is tasty."
+    ]
+  },
+  {
+    "keyword": "play soccer game",
+    "sentences": [
+      "Play a soccer game with friends.",
+      "The soccer game is fun."
+    ]
+  },
+  {
+    "keyword": "jump rope",
+    "sentences": [
+      "Jump rope in the playground.",
+      "Jumping rope is fun."
+    ]
+  },
+  {
+    "keyword": "wear t shirt",
+    "sentences": [
+      "Wear a t shirt today.",
+      "The t shirt is soft."
+    ]
+  },
+  {
+    "keyword": "eat sweet strawberry",
+    "sentences": [
+      "Eat a sweet strawberry.",
+      "The strawberry is very sweet."
+    ]
+  },
+  {
+    "keyword": "wash with water",
+    "sentences": [
+      "Wash your hands with water.",
+      "Use water to wash your face."
+    ]
+  },
+  {
+    "keyword": "ride sledge snow",
+    "sentences": [
+      "Ride the sledge on the snow.",
+      "Snow is good for sledging."
+    ]
+  },
+  {
+    "keyword": "see spider web",
+    "sentences": [
+      "I see a spider web.",
+      "The spider made a web."
+    ]
+  },
+  {
+    "keyword": "wear socks shoes",
+    "sentences": [
+      "Wear socks with your shoes.",
+      "Put on socks before shoes."
+    ]
+  },
+  {
+    "keyword": "sit schoolyard",
+    "sentences": [
+      "Sit in the schoolyard.",
+      "The schoolyard is big."
+    ]
+  },
+  {
+    "keyword": "use scissors",
+    "sentences": [
+      "Use scissors to cut paper.",
+      "Be careful with scissors."
+    ]
+  },
+  {
+    "keyword": "draw rhombus",
+    "sentences": [
+      "Draw a rhombus in your book.",
+      "A rhombus has four sides."
+    ]
+  },
+  {
+    "keyword": "eat sausage sandwich",
+    "sentences": [
+      "Eat a sausage sandwich for lunch.",
+      "The sausage sandwich is tasty."
+    ]
+  },
+  {
+    "keyword": "see red rose",
+    "sentences": [
+      "I see a red rose.",
+      "The rose is red and pretty."
+    ]
+  },
+  {
+    "keyword": "wear swimsuit swim",
+    "sentences": [
+      "Wear your swimsuit to swim.",
+      "Put on a swimsuit before swimming."
+    ]
+  },
+  {
+    "keyword": "wash face soap",
+    "sentences": [
+      "Wash your face with soap.",
+      "Soap helps clean your face."
+    ]
+  },
+  {
+    "keyword": "see silver ring",
+    "sentences": [
+      "I see a silver ring.",
+      "The ring is shiny and silver."
+    ]
+  },
+  {
+    "keyword": "play with toys",
+    "sentences": [
+      "Play with toys at home.",
+      "Toys are fun to play with."
+    ]
+  },
+  {
+    "keyword": "eat salty chips",
+    "sentences": [
+      "Eat salty chips for a snack.",
+      "The chips are very salty."
+    ]
+  },
+  {
+    "keyword": "use shampoo hair",
+    "sentences": [
+      "Use shampoo to wash your hair.",
+      "Shampoo makes hair clean."
+    ]
+  },
+  {
+    "keyword": "wear hat winter",
+    "sentences": [
+      "Wear a hat in winter.",
+      "Winter is cold, wear a hat."
+    ]
+  },
+  {
+    "keyword": "see blue sea",
+    "sentences": [
+      "I see the blue sea.",
+      "The sea is blue and big."
+    ]
+  },
+  {
+    "keyword": "eat sweet cake",
+    "sentences": [
+      "Eat a sweet cake for dessert.",
+      "The cake is sweet and yummy."
+    ]
+  },
+  {
+    "keyword": "run street",
+    "sentences": [
+      "Run on the street carefully.",
+      "Do not run fast on the street."
+    ]
+  },
+  {
+    "keyword": "see green tree",
+    "sentences": [
+      "I see a green tree.",
+      "The tree is tall and green."
+    ]
+  },
+  {
+    "keyword": "sit table",
+    "sentences": [
+      "Sit at the table.",
+      "The table is round."
+    ]
+  },
+  {
+    "keyword": "play with dog",
+    "sentences": [
+      "Play with the dog in the yard.",
+      "The dog likes to play."
+    ]
+  },
+  {
+    "keyword": "eat soup spoon",
+    "sentences": [
+      "Eat soup with a spoon.",
+      "Use a spoon to eat soup."
+    ]
+  },
+  {
+    "keyword": "see white sheep",
+    "sentences": [
+      "I see a white sheep.",
+      "The sheep is white and fluffy."
+    ]
+  },
+  {
+    "keyword": "ride train station",
+    "sentences": [
+      "Ride the train from the station.",
+      "The train station is busy."
+    ]
+  },
+  {
+    "keyword": "eat salad fork",
+    "sentences": [
+      "Eat salad with a fork.",
+      "Use a fork to eat the salad."
+    ]
+  },
+  {
+    "keyword": "yellow sun",
+    "sentences": [
+      "The sun is yellow.",
+      "I see the yellow sun in the sky."
+    ]
+  },
+  {
+    "keyword": "blue sea",
+    "sentences": [
+      "The sea is blue.",
+      "We swim in the blue sea."
+    ]
+  },
+  {
+    "keyword": "red tomato",
+    "sentences": [
+      "The tomato is red.",
+      "I eat a red tomato."
+    ]
+  },
+  {
+    "keyword": "green salad",
+    "sentences": [
+      "The salad is green.",
+      "Eat green salad for lunch."
+    ]
+  },
+  {
+    "keyword": "white sheep",
+    "sentences": [
+      "The sheep is white.",
+      "I see a white sheep."
+    ]
+  },
+  {
+    "keyword": "brown wood",
+    "sentences": [
+      "The wood is brown.",
+      "We build with brown wood."
+    ]
+  },
+  {
+    "keyword": "eat sandwich",
+    "sentences": [
+      "I eat a sandwich.",
+      "Eat a sandwich for lunch."
+    ]
+  },
+  {
+    "keyword": "drink water",
+    "sentences": [
+      "Drink water every day.",
+      "Water is good for you."
+    ]
+  },
+  {
+    "keyword": "wash hands",
+    "sentences": [
+      "Wash your hands before eating.",
+      "Wash your hands with soap."
+    ]
+  },
+  {
+    "keyword": "wear shoes",
+    "sentences": [
+      "Wear your shoes outside.",
+      "Put on your shoes."
+    ]
+  },
+  {
+    "keyword": "play soccer",
+    "sentences": [
+      "I play soccer with friends.",
+      "Soccer is a fun game."
+    ]
+  },
+  {
+    "keyword": "ride bike",
+    "sentences": [
+      "I can ride a bike.",
+      "Let's ride a bike together."
+    ]
+  },
+  {
+    "keyword": "sit chair",
+    "sentences": [
+      "Sit on the chair.",
+      "The chair is for sitting."
+    ]
+  },
+  {
+    "keyword": "draw rectangle",
+    "sentences": [
+      "Draw a rectangle on the paper.",
+      "Can you draw a rectangle?"
+    ]
+  },
+  {
+    "keyword": "draw square",
+    "sentences": [
+      "Draw a square on the board.",
+      "The square has four sides."
+    ]
+  },
+  {
+    "keyword": "eat soup",
+    "sentences": [
+      "Eat soup with a spoon.",
+      "The soup is hot."
+    ]
+  },
+  {
+    "keyword": "read book",
+    "sentences": [
+      "I like to read a book.",
+      "Read a book with me."
+    ]
+  },
+  {
+    "keyword": "see whale",
+    "sentences": [
+      "I see a whale in the sea.",
+      "The whale is very big."
+    ]
+  },
+  {
+    "keyword": "run fast",
+    "sentences": [
+      "I can run fast.",
+      "Run fast in the playground."
+    ]
+  },
+  {
+    "keyword": "sleep bed",
+    "sentences": [
+      "Sleep in your bed.",
+      "The bed is soft for sleeping."
+    ]
+  },
+  {
+    "keyword": "ride sledge",
+    "sentences": [
+      "Ride the sledge in the snow.",
+      "The sledge goes fast on snow."
+    ]
+  },
+  {
+    "keyword": "climb stairs",
+    "sentences": [
+      "Climb the stairs slowly.",
+      "Go up the stairs."
+    ]
+  },
+  {
+    "keyword": "sit sofa",
+    "sentences": [
+      "Sit on the sofa.",
+      "The sofa is soft."
+    ]
+  },
+  {
+    "keyword": "see spider",
+    "sentences": [
+      "I see a spider on the wall.",
+      "The spider spins a web."
+    ]
+  },
+  {
+    "keyword": "eat cake",
+    "sentences": [
+      "Eat cake for dessert.",
+      "The cake is sweet."
+    ]
+  },
+  {
+    "keyword": "eat salad",
+    "sentences": [
+      "Eat salad at lunch.",
+      "The salad is tasty."
+    ]
+  },
+  {
+    "keyword": "play with toys",
+    "sentences": [
+      "Play with toys in the room.",
+      "I have many toys to play with."
+    ]
+  },
+  {
+    "keyword": "drink milk",
+    "sentences": [
+      "Drink milk every morning.",
+      "Milk is good for you."
+    ]
+  },
+  {
+    "keyword": "eat sweet strawberry",
+    "sentences": [
+      "Eat a sweet strawberry.",
+      "The strawberry is very sweet."
+    ]
+  },
+  {
+    "keyword": "wear socks",
+    "sentences": [
+      "Wear socks with your shoes.",
+      "Put on your socks."
+    ]
+  },
+  {
+    "keyword": "wear scarf",
+    "sentences": [
+      "Wear a scarf in winter.",
+      "The scarf keeps you warm."
+    ]
+  },
+  {
+    "keyword": "wear t shirt",
+    "sentences": [
+      "Wear a t shirt today.",
+      "The t shirt is soft."
+    ]
+  },
+  {
+    "keyword": "see blue sky",
+    "sentences": [
+      "I see the blue sky.",
+      "The sky is blue."
+    ]
+  },
+  {
+    "keyword": "see green tree",
+    "sentences": [
+      "I see a green tree.",
+      "The tree is tall and green."
+    ]
+  },
+  {
+    "keyword": "see red rose",
+    "sentences": [
+      "I see a red rose.",
+      "The rose is red and pretty."
+    ]
+  },
+  {
+    "keyword": "eat sandwich cheese",
+    "sentences": [
+      "Eat a sandwich with cheese.",
+      "The sandwich has cheese inside."
+    ]
+  },
+  {
+    "keyword": "wash face soap",
+    "sentences": [
+      "Wash your face with soap.",
+      "Soap helps clean your face."
+    ]
+  },
+  {
+    "keyword": "eat sausage sandwich",
+    "sentences": [
+      "Eat a sausage sandwich for lunch.",
+      "The sausage sandwich is tasty."
+    ]
+  },
+  {
+    "keyword": "see silver ring",
+    "sentences": [
+      "I see a silver ring.",
+      "The ring is shiny and silver."
+    ]
+  },
+  {
+    "keyword": "see white sheep",
+    "sentences": [
+      "I see a white sheep.",
+      "The sheep is white and fluffy."
+    ]
+  },
+  {
+    "keyword": "ride train station",
+    "sentences": [
+      "Ride the train from the station.",
+      "The train station is busy."
+    ]
+  },
+  {
+    "keyword": "eat salad fork",
+    "sentences": [
+      "Eat salad with a fork.",
+      "Use a fork to eat the salad."
+    ]
+  },
+  {
+    "keyword": "play soccer game",
+    "sentences": [
+      "Play a soccer game with friends.",
+      "The soccer game is fun."
+    ]
+  },
+  {
+    "keyword": "run street",
+    "sentences": [
+      "Run on the street carefully.",
+      "Do not run fast on the street."
+    ]
+  },
+  {
+    "keyword": "see yellow flower",
+    "sentences": [
+      "I see a yellow flower.",
+      "The flower is yellow."
+    ]
+  },
+  {
+    "keyword": "see blue shoes",
+    "sentences": [
+      "I see blue shoes.",
+      "The shoes are blue."
+    ]
+  },
+  {
+    "keyword": "eat salty chips",
+    "sentences": [
+      "Eat salty chips for a snack.",
+      "The chips are very salty."
+    ]
+  },
+  {
+    "keyword": "use shampoo hair",
+    "sentences": [
+      "Use shampoo to wash your hair.",
+      "Shampoo makes hair clean."
+    ]
+  },
+  {
+    "keyword": "sit table",
+    "sentences": [
+      "Sit at the table.",
+      "The table is round."
+    ]
+  },
+  {
+    "keyword": "see river",
+    "sentences": [
+      "I see the river.",
+      "The river is long."
+    ]
+  },
+  {
+    "keyword": "see snail",
+    "sentences": [
+      "I see a snail outside.",
+      "The snail moves slowly."
+    ]
+  },
+  {
+    "keyword": "see spider web",
+    "sentences": [
+      "I see a spider web.",
+      "The spider made a web."
+    ]
+  },
+  {
+    "keyword": "eat soup spoon",
+    "sentences": [
+      "Eat soup with a spoon.",
+      "Use a spoon to eat soup."
+    ]
+  },
+  {
+    "keyword": "wash with water",
+    "sentences": [
+      "Wash your hands with water.",
+      "Use water to wash your face."
+    ]
+  },
+  {
+    "keyword": "play with dog",
+    "sentences": [
+      "Play with the dog in the yard.",
+      "The dog likes to play."
+    ]
+  }
+]

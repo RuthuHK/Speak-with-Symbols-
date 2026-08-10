@@ -1,0 +1,4227 @@
+[
+    {
+        "id": "seq_001",
+        "sentence": "She gave me a gift.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "gift"
+                ],
+                "images": [
+                    "gift.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "me"
+                ],
+                "images": [
+                    "me.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "gift",
+                    "me"
+                ],
+                "images": [
+                    "gift.png",
+                    "me.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_002",
+        "sentence": "I want to go to school.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "go"
+                ],
+                "images": [
+                    "go.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "school"
+                ],
+                "images": [
+                    "school.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "i"
+                ],
+                "images": [
+                    "go.png",
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "school"
+                ],
+                "images": [
+                    "go.png",
+                    "school.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "want"
+                ],
+                "images": [
+                    "go.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "school"
+                ],
+                "images": [
+                    "i.png",
+                    "school.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "school",
+                    "want"
+                ],
+                "images": [
+                    "school.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "i",
+                    "school"
+                ],
+                "images": [
+                    "go.png",
+                    "i.png",
+                    "school.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "go.png",
+                    "i.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "school",
+                    "want"
+                ],
+                "images": [
+                    "go.png",
+                    "school.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "school",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "school.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "i",
+                    "school",
+                    "want"
+                ],
+                "images": [
+                    "go.png",
+                    "i.png",
+                    "school.png",
+                    "want.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_003",
+        "sentence": "Please open the window.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "open"
+                ],
+                "images": [
+                    "open.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please"
+                ],
+                "images": [
+                    "please.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "window"
+                ],
+                "images": [
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "please"
+                ],
+                "images": [
+                    "open.png",
+                    "please.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "the"
+                ],
+                "images": [
+                    "open.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "window"
+                ],
+                "images": [
+                    "open.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "the"
+                ],
+                "images": [
+                    "please.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "window"
+                ],
+                "images": [
+                    "please.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "window"
+                ],
+                "images": [
+                    "the.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "please",
+                    "the"
+                ],
+                "images": [
+                    "open.png",
+                    "please.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "please",
+                    "window"
+                ],
+                "images": [
+                    "open.png",
+                    "please.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "the",
+                    "window"
+                ],
+                "images": [
+                    "open.png",
+                    "the.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "the",
+                    "window"
+                ],
+                "images": [
+                    "please.png",
+                    "the.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "please",
+                    "the",
+                    "window"
+                ],
+                "images": [
+                    "open.png",
+                    "please.png",
+                    "the.png",
+                    "window.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_004",
+        "sentence": "I want to eat a sandwich.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "sandwich"
+                ],
+                "images": [
+                    "sandwich.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "sandwich"
+                ],
+                "images": [
+                    "i.png",
+                    "sandwich.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "sandwich",
+                    "want"
+                ],
+                "images": [
+                    "sandwich.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "sandwich",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "sandwich.png",
+                    "want.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_005",
+        "sentence": "He is my grandfather.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "grandfather"
+                ],
+                "images": [
+                    "grandfather.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "grandfather",
+                    "my"
+                ],
+                "images": [
+                    "grandfather.png",
+                    "my.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_006",
+        "sentence": "Do you like chocolate?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "like"
+                ],
+                "images": [
+                    "like.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "you"
+                ],
+                "images": [
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "like",
+                    "you"
+                ],
+                "images": [
+                    "like.png",
+                    "you.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_007",
+        "sentence": "Let's go to the park.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "go"
+                ],
+                "images": [
+                    "go.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "park"
+                ],
+                "images": [
+                    "park.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "park"
+                ],
+                "images": [
+                    "go.png",
+                    "park.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "the"
+                ],
+                "images": [
+                    "go.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "park",
+                    "the"
+                ],
+                "images": [
+                    "park.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "go",
+                    "park",
+                    "the"
+                ],
+                "images": [
+                    "go.png",
+                    "park.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_008",
+        "sentence": "My sister is very tall.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "sister"
+                ],
+                "images": [
+                    "sister.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "tall"
+                ],
+                "images": [
+                    "tall.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "sister"
+                ],
+                "images": [
+                    "my.png",
+                    "sister.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "tall"
+                ],
+                "images": [
+                    "my.png",
+                    "tall.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "sister",
+                    "tall"
+                ],
+                "images": [
+                    "sister.png",
+                    "tall.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "sister",
+                    "tall"
+                ],
+                "images": [
+                    "my.png",
+                    "sister.png",
+                    "tall.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_009",
+        "sentence": "Turn on the television.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "television"
+                ],
+                "images": [
+                    "television.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "television",
+                    "the"
+                ],
+                "images": [
+                    "television.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_010",
+        "sentence": "I want to play football.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "play"
+                ],
+                "images": [
+                    "play.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "play"
+                ],
+                "images": [
+                    "i.png",
+                    "play.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "play",
+                    "want"
+                ],
+                "images": [
+                    "play.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "play",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "play.png",
+                    "want.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_011",
+        "sentence": "My grandmother is sleeping.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "grandmother"
+                ],
+                "images": [
+                    "grandmother.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "grandmother",
+                    "my"
+                ],
+                "images": [
+                    "grandmother.png",
+                    "my.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_012",
+        "sentence": "The hospital is far.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "hospital"
+                ],
+                "images": [
+                    "hospital.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "hospital",
+                    "the"
+                ],
+                "images": [
+                    "hospital.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_013",
+        "sentence": "Please bring my coat.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please"
+                ],
+                "images": [
+                    "please.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "please"
+                ],
+                "images": [
+                    "my.png",
+                    "please.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_014",
+        "sentence": "He is playing with a ball.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "with"
+                ],
+                "images": [
+                    "with.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_015",
+        "sentence": "I am reading a book.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_016",
+        "sentence": "Do you want juice?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "juice"
+                ],
+                "images": [
+                    "juice.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "you"
+                ],
+                "images": [
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "juice",
+                    "want"
+                ],
+                "images": [
+                    "juice.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "juice",
+                    "you"
+                ],
+                "images": [
+                    "juice.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want",
+                    "you"
+                ],
+                "images": [
+                    "want.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "juice",
+                    "want",
+                    "you"
+                ],
+                "images": [
+                    "juice.png",
+                    "want.png",
+                    "you.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_017",
+        "sentence": "We are going to the park.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "park"
+                ],
+                "images": [
+                    "park.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "park",
+                    "the"
+                ],
+                "images": [
+                    "park.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_018",
+        "sentence": "She is watching television.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "television"
+                ],
+                "images": [
+                    "television.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_019",
+        "sentence": "Where is my bag?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "where"
+                ],
+                "images": [
+                    "where.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "where"
+                ],
+                "images": [
+                    "my.png",
+                    "where.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_020",
+        "sentence": "It is raining outside.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "it"
+                ],
+                "images": [
+                    "it.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "outside"
+                ],
+                "images": [
+                    "outside.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "it",
+                    "outside"
+                ],
+                "images": [
+                    "it.png",
+                    "outside.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_021",
+        "sentence": "I am brushing my teeth.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "teeth"
+                ],
+                "images": [
+                    "teeth.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "teeth"
+                ],
+                "images": [
+                    "i.png",
+                    "teeth.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "teeth"
+                ],
+                "images": [
+                    "my.png",
+                    "teeth.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "teeth"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "teeth.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_022",
+        "sentence": "She is combing her hair.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "hair"
+                ],
+                "images": [
+                    "hair.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_023",
+        "sentence": "He is drinking water.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "water"
+                ],
+                "images": [
+                    "water.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_024",
+        "sentence": "I need to wash my hands.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "need"
+                ],
+                "images": [
+                    "need.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "wash"
+                ],
+                "images": [
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "need"
+                ],
+                "images": [
+                    "i.png",
+                    "need.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "wash"
+                ],
+                "images": [
+                    "i.png",
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "need"
+                ],
+                "images": [
+                    "my.png",
+                    "need.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "wash"
+                ],
+                "images": [
+                    "my.png",
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "need",
+                    "wash"
+                ],
+                "images": [
+                    "need.png",
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "need"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "need.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "wash"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "need",
+                    "wash"
+                ],
+                "images": [
+                    "i.png",
+                    "need.png",
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "need",
+                    "wash"
+                ],
+                "images": [
+                    "my.png",
+                    "need.png",
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "need",
+                    "wash"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "need.png",
+                    "wash.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_025",
+        "sentence": "Please close the door.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "please"
+                ],
+                "images": [
+                    "please.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "the"
+                ],
+                "images": [
+                    "please.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_026",
+        "sentence": "Can you open the window?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "open"
+                ],
+                "images": [
+                    "open.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "window"
+                ],
+                "images": [
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "you"
+                ],
+                "images": [
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "the"
+                ],
+                "images": [
+                    "open.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "window"
+                ],
+                "images": [
+                    "open.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "you"
+                ],
+                "images": [
+                    "open.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "window"
+                ],
+                "images": [
+                    "the.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "you"
+                ],
+                "images": [
+                    "the.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "window",
+                    "you"
+                ],
+                "images": [
+                    "window.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "the",
+                    "window"
+                ],
+                "images": [
+                    "open.png",
+                    "the.png",
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "the",
+                    "you"
+                ],
+                "images": [
+                    "open.png",
+                    "the.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "window",
+                    "you"
+                ],
+                "images": [
+                    "open.png",
+                    "window.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "window",
+                    "you"
+                ],
+                "images": [
+                    "the.png",
+                    "window.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "open",
+                    "the",
+                    "window",
+                    "you"
+                ],
+                "images": [
+                    "open.png",
+                    "the.png",
+                    "window.png",
+                    "you.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_027",
+        "sentence": "The light is on.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "light"
+                ],
+                "images": [
+                    "light.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "light",
+                    "the"
+                ],
+                "images": [
+                    "light.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_028",
+        "sentence": "Turn off the fan.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_029",
+        "sentence": "She is wearing a red dress.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_030",
+        "sentence": "He is wearing a cap.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_031",
+        "sentence": "Do you want some milk?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "milk"
+                ],
+                "images": [
+                    "milk.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "you"
+                ],
+                "images": [
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "milk",
+                    "want"
+                ],
+                "images": [
+                    "milk.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "milk",
+                    "you"
+                ],
+                "images": [
+                    "milk.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want",
+                    "you"
+                ],
+                "images": [
+                    "want.png",
+                    "you.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "milk",
+                    "want",
+                    "you"
+                ],
+                "images": [
+                    "milk.png",
+                    "want.png",
+                    "you.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_032",
+        "sentence": "It is cold outside.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "it"
+                ],
+                "images": [
+                    "it.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "outside"
+                ],
+                "images": [
+                    "outside.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "it",
+                    "outside"
+                ],
+                "images": [
+                    "it.png",
+                    "outside.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_033",
+        "sentence": "My head hurts.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_034",
+        "sentence": "He is eating an apple.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_035",
+        "sentence": "I want to play with my toy.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "play"
+                ],
+                "images": [
+                    "play.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "with"
+                ],
+                "images": [
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "play"
+                ],
+                "images": [
+                    "i.png",
+                    "play.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "with"
+                ],
+                "images": [
+                    "i.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "play"
+                ],
+                "images": [
+                    "my.png",
+                    "play.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "want"
+                ],
+                "images": [
+                    "my.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "with"
+                ],
+                "images": [
+                    "my.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "play",
+                    "want"
+                ],
+                "images": [
+                    "play.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "play",
+                    "with"
+                ],
+                "images": [
+                    "play.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want",
+                    "with"
+                ],
+                "images": [
+                    "want.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "play"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "play.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "with"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "play",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "play.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "play",
+                    "with"
+                ],
+                "images": [
+                    "i.png",
+                    "play.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want",
+                    "with"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "play",
+                    "want"
+                ],
+                "images": [
+                    "my.png",
+                    "play.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "play",
+                    "with"
+                ],
+                "images": [
+                    "my.png",
+                    "play.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "want",
+                    "with"
+                ],
+                "images": [
+                    "my.png",
+                    "want.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "play",
+                    "want",
+                    "with"
+                ],
+                "images": [
+                    "play.png",
+                    "want.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "play",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "play.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "play",
+                    "with"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "play.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "want",
+                    "with"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "want.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "play",
+                    "want",
+                    "with"
+                ],
+                "images": [
+                    "i.png",
+                    "play.png",
+                    "want.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "play",
+                    "want",
+                    "with"
+                ],
+                "images": [
+                    "my.png",
+                    "play.png",
+                    "want.png",
+                    "with.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "play",
+                    "want",
+                    "with"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "play.png",
+                    "want.png",
+                    "with.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_036",
+        "sentence": "She is reading a book.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_037",
+        "sentence": "Where is the bathroom?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "where"
+                ],
+                "images": [
+                    "where.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "where"
+                ],
+                "images": [
+                    "the.png",
+                    "where.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_038",
+        "sentence": "It is time to sleep.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "it"
+                ],
+                "images": [
+                    "it.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "sleep"
+                ],
+                "images": [
+                    "sleep.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "it",
+                    "sleep"
+                ],
+                "images": [
+                    "it.png",
+                    "sleep.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_039",
+        "sentence": "She is sitting on the chair.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_040",
+        "sentence": "He is standing near the window.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "window"
+                ],
+                "images": [
+                    "window.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "window"
+                ],
+                "images": [
+                    "the.png",
+                    "window.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_041",
+        "sentence": "I am drawing a picture.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_042",
+        "sentence": "The sun is bright.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "sun"
+                ],
+                "images": [
+                    "sun.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "sun",
+                    "the"
+                ],
+                "images": [
+                    "sun.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_043",
+        "sentence": "My shoes are dirty.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "shoes"
+                ],
+                "images": [
+                    "shoes.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "shoes"
+                ],
+                "images": [
+                    "my.png",
+                    "shoes.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_044",
+        "sentence": "I need my socks.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "need"
+                ],
+                "images": [
+                    "need.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "socks"
+                ],
+                "images": [
+                    "socks.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "need"
+                ],
+                "images": [
+                    "i.png",
+                    "need.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "socks"
+                ],
+                "images": [
+                    "i.png",
+                    "socks.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "need"
+                ],
+                "images": [
+                    "my.png",
+                    "need.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "socks"
+                ],
+                "images": [
+                    "my.png",
+                    "socks.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "need",
+                    "socks"
+                ],
+                "images": [
+                    "need.png",
+                    "socks.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "need"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "need.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "socks"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "socks.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "need",
+                    "socks"
+                ],
+                "images": [
+                    "i.png",
+                    "need.png",
+                    "socks.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "need",
+                    "socks"
+                ],
+                "images": [
+                    "my.png",
+                    "need.png",
+                    "socks.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "need",
+                    "socks"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "need.png",
+                    "socks.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_045",
+        "sentence": "He is wearing a jacket.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "jacket"
+                ],
+                "images": [
+                    "jacket.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_046",
+        "sentence": "Where is my toothbrush?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "toothbrush"
+                ],
+                "images": [
+                    "toothbrush.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "where"
+                ],
+                "images": [
+                    "where.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "toothbrush"
+                ],
+                "images": [
+                    "my.png",
+                    "toothbrush.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "where"
+                ],
+                "images": [
+                    "my.png",
+                    "where.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "toothbrush",
+                    "where"
+                ],
+                "images": [
+                    "toothbrush.png",
+                    "where.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "toothbrush",
+                    "where"
+                ],
+                "images": [
+                    "my.png",
+                    "toothbrush.png",
+                    "where.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_047",
+        "sentence": "She likes orange juice.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "juice"
+                ],
+                "images": [
+                    "juice.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "orange"
+                ],
+                "images": [
+                    "orange.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "juice",
+                    "orange"
+                ],
+                "images": [
+                    "juice.png",
+                    "orange.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_048",
+        "sentence": "The baby is crying.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_049",
+        "sentence": "They are playing football.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_050",
+        "sentence": "I am tired.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "tired"
+                ],
+                "images": [
+                    "tired.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "tired"
+                ],
+                "images": [
+                    "i.png",
+                    "tired.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_051",
+        "sentence": "We are going to the market.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "market"
+                ],
+                "images": [
+                    "market.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "market",
+                    "the"
+                ],
+                "images": [
+                    "market.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_052",
+        "sentence": "She is walking with her mother.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "with"
+                ],
+                "images": [
+                    "with.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_053",
+        "sentence": "He is watching a movie.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_054",
+        "sentence": "I am listening to music.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "music"
+                ],
+                "images": [
+                    "music.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "music"
+                ],
+                "images": [
+                    "i.png",
+                    "music.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_055",
+        "sentence": "The bus is here.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_056",
+        "sentence": "Let\u2019s go home.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "go"
+                ],
+                "images": [
+                    "go.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_057",
+        "sentence": "I am hungry.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_058",
+        "sentence": "I want to eat bread.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_059",
+        "sentence": "She is cooking lunch.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "lunch"
+                ],
+                "images": [
+                    "lunch.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_060",
+        "sentence": "The boy is jumping.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_061",
+        "sentence": "He is running fast.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_062",
+        "sentence": "I am happy today.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "happy"
+                ],
+                "images": [
+                    "happy.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "today"
+                ],
+                "images": [
+                    "today.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "happy",
+                    "i"
+                ],
+                "images": [
+                    "happy.png",
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "happy",
+                    "today"
+                ],
+                "images": [
+                    "happy.png",
+                    "today.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "today"
+                ],
+                "images": [
+                    "i.png",
+                    "today.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "happy",
+                    "i",
+                    "today"
+                ],
+                "images": [
+                    "happy.png",
+                    "i.png",
+                    "today.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_063",
+        "sentence": "She is very sad.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "sad"
+                ],
+                "images": [
+                    "sad.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_064",
+        "sentence": "The girl is dancing.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "girl"
+                ],
+                "images": [
+                    "girl.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "girl",
+                    "the"
+                ],
+                "images": [
+                    "girl.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_065",
+        "sentence": "Please wash your face.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "please"
+                ],
+                "images": [
+                    "please.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "wash"
+                ],
+                "images": [
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "your"
+                ],
+                "images": [
+                    "your.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "wash"
+                ],
+                "images": [
+                    "please.png",
+                    "wash.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "your"
+                ],
+                "images": [
+                    "please.png",
+                    "your.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "wash",
+                    "your"
+                ],
+                "images": [
+                    "wash.png",
+                    "your.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "wash",
+                    "your"
+                ],
+                "images": [
+                    "please.png",
+                    "wash.png",
+                    "your.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_066",
+        "sentence": "I have a headache.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "have"
+                ],
+                "images": [
+                    "have.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "have",
+                    "i"
+                ],
+                "images": [
+                    "have.png",
+                    "i.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_067",
+        "sentence": "Where is the teacher?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "where"
+                ],
+                "images": [
+                    "where.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "where"
+                ],
+                "images": [
+                    "the.png",
+                    "where.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_068",
+        "sentence": "The cat is sleeping.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_069",
+        "sentence": "I want to wear my shoes.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "shoes"
+                ],
+                "images": [
+                    "shoes.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "shoes"
+                ],
+                "images": [
+                    "i.png",
+                    "shoes.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "shoes"
+                ],
+                "images": [
+                    "my.png",
+                    "shoes.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "want"
+                ],
+                "images": [
+                    "my.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "shoes",
+                    "want"
+                ],
+                "images": [
+                    "shoes.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "shoes"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "shoes.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "shoes",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "shoes.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "shoes",
+                    "want"
+                ],
+                "images": [
+                    "my.png",
+                    "shoes.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "shoes",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "shoes.png",
+                    "want.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_070",
+        "sentence": "The book is on the table.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "table"
+                ],
+                "images": [
+                    "table.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "table",
+                    "the"
+                ],
+                "images": [
+                    "table.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_071",
+        "sentence": "Close the curtain.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_072",
+        "sentence": "My nose is blocked.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "nose"
+                ],
+                "images": [
+                    "nose.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "nose"
+                ],
+                "images": [
+                    "my.png",
+                    "nose.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_073",
+        "sentence": "Can I have some water?",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "have"
+                ],
+                "images": [
+                    "have.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "water"
+                ],
+                "images": [
+                    "water.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "have",
+                    "i"
+                ],
+                "images": [
+                    "have.png",
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "have",
+                    "water"
+                ],
+                "images": [
+                    "have.png",
+                    "water.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "water"
+                ],
+                "images": [
+                    "i.png",
+                    "water.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "have",
+                    "i",
+                    "water"
+                ],
+                "images": [
+                    "have.png",
+                    "i.png",
+                    "water.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_074",
+        "sentence": "She is playing with a doll.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "with"
+                ],
+                "images": [
+                    "with.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_075",
+        "sentence": "I am going to the toilet.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "toilet"
+                ],
+                "images": [
+                    "toilet.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "the"
+                ],
+                "images": [
+                    "i.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "toilet"
+                ],
+                "images": [
+                    "i.png",
+                    "toilet.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "toilet"
+                ],
+                "images": [
+                    "the.png",
+                    "toilet.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "the",
+                    "toilet"
+                ],
+                "images": [
+                    "i.png",
+                    "the.png",
+                    "toilet.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_076",
+        "sentence": "Let\u2019s clean the room.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_077",
+        "sentence": "Put your bag on the chair.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "put"
+                ],
+                "images": [
+                    "put.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "your"
+                ],
+                "images": [
+                    "your.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "put",
+                    "the"
+                ],
+                "images": [
+                    "put.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "put",
+                    "your"
+                ],
+                "images": [
+                    "put.png",
+                    "your.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the",
+                    "your"
+                ],
+                "images": [
+                    "the.png",
+                    "your.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "put",
+                    "the",
+                    "your"
+                ],
+                "images": [
+                    "put.png",
+                    "the.png",
+                    "your.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_078",
+        "sentence": "It is a sunny day.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "it"
+                ],
+                "images": [
+                    "it.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_079",
+        "sentence": "He is looking outside.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "outside"
+                ],
+                "images": [
+                    "outside.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_080",
+        "sentence": "I lost my pencil.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "pencil"
+                ],
+                "images": [
+                    "pencil.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "pencil"
+                ],
+                "images": [
+                    "i.png",
+                    "pencil.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my",
+                    "pencil"
+                ],
+                "images": [
+                    "my.png",
+                    "pencil.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my",
+                    "pencil"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png",
+                    "pencil.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_081",
+        "sentence": "We are eating together.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_082",
+        "sentence": "He is going to the zoo.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_083",
+        "sentence": "She is buying vegetables.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_084",
+        "sentence": "I want to sleep early.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "sleep"
+                ],
+                "images": [
+                    "sleep.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "sleep"
+                ],
+                "images": [
+                    "i.png",
+                    "sleep.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "sleep",
+                    "want"
+                ],
+                "images": [
+                    "sleep.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "sleep",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "sleep.png",
+                    "want.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_085",
+        "sentence": "I am brushing my hair.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "hair"
+                ],
+                "images": [
+                    "hair.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "hair",
+                    "i"
+                ],
+                "images": [
+                    "hair.png",
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "hair",
+                    "my"
+                ],
+                "images": [
+                    "hair.png",
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "my"
+                ],
+                "images": [
+                    "i.png",
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "hair",
+                    "i",
+                    "my"
+                ],
+                "images": [
+                    "hair.png",
+                    "i.png",
+                    "my.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_086",
+        "sentence": "The phone is ringing.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_087",
+        "sentence": "I like to eat banana.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "like"
+                ],
+                "images": [
+                    "like.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "like"
+                ],
+                "images": [
+                    "i.png",
+                    "like.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_088",
+        "sentence": "He is cutting the paper.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "paper"
+                ],
+                "images": [
+                    "paper.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "paper",
+                    "the"
+                ],
+                "images": [
+                    "paper.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_089",
+        "sentence": "My leg is hurting.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "leg"
+                ],
+                "images": [
+                    "leg.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "leg",
+                    "my"
+                ],
+                "images": [
+                    "leg.png",
+                    "my.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_090",
+        "sentence": "Please turn off the television.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "please"
+                ],
+                "images": [
+                    "please.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "television"
+                ],
+                "images": [
+                    "television.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "television"
+                ],
+                "images": [
+                    "please.png",
+                    "television.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "the"
+                ],
+                "images": [
+                    "please.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "television",
+                    "the"
+                ],
+                "images": [
+                    "television.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "television",
+                    "the"
+                ],
+                "images": [
+                    "please.png",
+                    "television.png",
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_091",
+        "sentence": "We are reading a story.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_092",
+        "sentence": "The fish is in the bowl.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_093",
+        "sentence": "She is singing a song.",
+        "keyword_sets": []
+    },
+    {
+        "id": "seq_094",
+        "sentence": "I want to visit grandma.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "i"
+                ],
+                "images": [
+                    "i.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "visit"
+                ],
+                "images": [
+                    "visit.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "want"
+                ],
+                "images": [
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "visit"
+                ],
+                "images": [
+                    "i.png",
+                    "visit.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "visit",
+                    "want"
+                ],
+                "images": [
+                    "visit.png",
+                    "want.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "i",
+                    "visit",
+                    "want"
+                ],
+                "images": [
+                    "i.png",
+                    "visit.png",
+                    "want.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_095",
+        "sentence": "My hand is injured.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "hand"
+                ],
+                "images": [
+                    "hand.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "my"
+                ],
+                "images": [
+                    "my.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "hand",
+                    "my"
+                ],
+                "images": [
+                    "hand.png",
+                    "my.png"
+                ]
+            }
+        ]
+    },
+    {
+        "id": "seq_096",
+        "sentence": "Please pass the salt.",
+        "keyword_sets": [
+            {
+                "keywords": [
+                    "pass"
+                ],
+                "images": [
+                    "pass.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please"
+                ],
+                "images": [
+                    "please.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "salt"
+                ],
+                "images": [
+                    "salt.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "the"
+                ],
+                "images": [
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "pass",
+                    "please"
+                ],
+                "images": [
+                    "pass.png",
+                    "please.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "pass",
+                    "salt"
+                ],
+                "images": [
+                    "pass.png",
+                    "salt.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "pass",
+                    "the"
+                ],
+                "images": [
+                    "pass.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "salt"
+                ],
+                "images": [
+                    "please.png",
+                    "salt.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "the"
+                ],
+                "images": [
+                    "please.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "salt",
+                    "the"
+                ],
+                "images": [
+                    "salt.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "pass",
+                    "please",
+                    "salt"
+                ],
+                "images": [
+                    "pass.png",
+                    "please.png",
+                    "salt.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "pass",
+                    "please",
+                    "the"
+                ],
+                "images": [
+                    "pass.png",
+                    "please.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "pass",
+                    "salt",
+                    "the"
+                ],
+                "images": [
+                    "pass.png",
+                    "salt.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "please",
+                    "salt",
+                    "the"
+                ],
+                "images": [
+                    "please.png",
+                    "salt.png",
+                    "the.png"
+                ]
+            },
+            {
+                "keywords": [
+                    "pass",
+                    "please",
+                    "salt",
+                    "the"
+                ],
+                "images": [
+                    "pass.png",
+                    "please.png",
+                    "salt.png",
+                    "the.png"
+                ]
+            }
+        ]
+    }
+]
