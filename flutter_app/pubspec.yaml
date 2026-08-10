@@ -1,0 +1,52 @@
+# name: icon_talker_flutter
+# description: An AAC Flutter app for children with multilingual and mascot guidance.
+# publish_to: 'none'
+# version: 1.0.0+1
+
+# environment:
+#   sdk: '>=2.18.0 <4.0.0'
+
+# dependencies:
+#   flutter:
+#     sdk: flutter
+#   flutter_tts: ^3.8.5
+#   google_fonts: ^6.1.0
+#   confetti: ^0.7.0
+
+# dev_dependencies:
+#   flutter_test:
+#     sdk: flutter
+
+# flutter:
+#   uses-material-design: true
+#   assets:
+#     - assets/images/
+
+
+name: flutter_app
+description: A new Flutter project.
+publish_to: 'none' # Remove this if publishing to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '^3.8.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.1.0           # for sending requests to your BART backend
+  provider: ^6.1.0        # optional: state management
+  flutter_tts: ^3.6.3     # optional: Text-to-speech
+  google_fonts: ^6.2.1    # optional: better typography
+  video_player: ^2.7.2 
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icon_categories.json
+    - assets/icons/core_vocab_places/
+    - assets/suggestions.jsonl
+    - assets/videos/welcome.mp4
+    - assets/videos/giraffe.mp4
+    - assets/videos/cat_turtle.mp4
