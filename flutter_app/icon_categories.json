@@ -1,0 +1,3787 @@
+[
+  {
+    "category": "numbers",
+    "image": "assets/icons/core_vocab_places/one.png",
+    "items": [
+      {
+        "word": "one",
+        "image": "assets/icons/core_vocab_places/one.png"
+      },
+      {
+        "word": "cents",
+        "image": "assets/icons/core_vocab_places/cents.png"
+      },
+      {
+        "word": "euro",
+        "image": "assets/icons/core_vocab_places/euro.png"
+      },
+      {
+        "word": "10",
+        "image": "assets/icons/core_vocab_places/10.png"
+      },
+      {
+        "word": "3",
+        "image": "assets/icons/core_vocab_places/3.png"
+      },
+      {
+        "word": "4",
+        "image": "assets/icons/core_vocab_places/4.png"
+      },
+      {
+        "word": "5",
+        "image": "assets/icons/core_vocab_places/5.png"
+      },
+      {
+        "word": "6",
+        "image": "assets/icons/core_vocab_places/6.png"
+      },
+      {
+        "word": "7",
+        "image": "assets/icons/core_vocab_places/7.png"
+      },
+      {
+        "word": "8",
+        "image": "assets/icons/core_vocab_places/8.png"
+      }
+    ]
+  },
+  {
+    "category": "transportation",
+    "image": "assets/icons/core_vocab_places/transport.png",
+    "items": [
+      {
+        "word": "bus_26654",
+        "image": "assets/icons/core_vocab_places/bus_26654.png"
+      },
+      {
+        "word": "helicopter",
+        "image": "assets/icons/core_vocab_places/helicopter.png"
+      },
+      {
+        "word": "transport",
+        "image": "assets/icons/core_vocab_places/transport.png"
+      },
+      {
+        "word": "wheel",
+        "image": "assets/icons/core_vocab_places/wheel.png"
+      },
+      {
+        "word": "wheelchair",
+        "image": "assets/icons/core_vocab_places/wheelchair.png"
+      },
+      {
+        "word": "walker",
+        "image": "assets/icons/core_vocab_places/walker.png"
+      },
+      {
+        "word": "van",
+        "image": "assets/icons/core_vocab_places/van.png"
+      },
+      {
+        "word": "van_35600",
+        "image": "assets/icons/core_vocab_places/van_35600.png"
+      },
+      {
+        "word": "lorry",
+        "image": "assets/icons/core_vocab_places/lorry.png"
+      },
+      {
+        "word": "metro",
+        "image": "assets/icons/core_vocab_places/metro.png"
+      },
+      {
+        "word": "motor",
+        "image": "assets/icons/core_vocab_places/motor.png"
+      },
+      {
+        "word": "motorbike",
+        "image": "assets/icons/core_vocab_places/motorbike.png"
+      },
+      {
+        "word": "aeroplane",
+        "image": "assets/icons/core_vocab_places/aeroplane.png"
+      },
+      {
+        "word": "ambulance",
+        "image": "assets/icons/core_vocab_places/ambulance.png"
+      },
+      {
+        "word": "bicycle",
+        "image": "assets/icons/core_vocab_places/bicycle.png"
+      },
+      {
+        "word": "boat",
+        "image": "assets/icons/core_vocab_places/boat.png"
+      },
+      {
+        "word": "bus",
+        "image": "assets/icons/core_vocab_places/bus.png"
+      },
+      {
+        "word": "car",
+        "image": "assets/icons/core_vocab_places/car.png"
+      },
+      {
+        "word": "car park",
+        "image": "assets/icons/core_vocab_places/car_park_24755.png"
+      }
+    ]
+  },
+  {
+    "category": "people",
+    "image": "assets/icons/core_vocab_places/woman.png",
+    "items": [
+      {
+        "word": "all",
+        "image": "assets/icons/core_vocab_places/all.png"
+      },
+      {
+        "word": "girl_32845",
+        "image": "assets/icons/core_vocab_places/girl_32845.png"
+      },
+      {
+        "word": "family_38351",
+        "image": "assets/icons/core_vocab_places/family_38351.png"
+      },
+      {
+        "word": "firefighter",
+        "image": "assets/icons/core_vocab_places/firefighter.png"
+      },
+      {
+        "word": "young_boy",
+        "image": "assets/icons/core_vocab_places/young_boy.png"
+      },
+      {
+        "word": "young_girl",
+        "image": "assets/icons/core_vocab_places/young_girl.png"
+      },
+      {
+        "word": "woman",
+        "image": "assets/icons/core_vocab_places/woman.png"
+      },
+      {
+        "word": "young",
+        "image": "assets/icons/core_vocab_places/young.png"
+      },
+      {
+        "word": "young_26146",
+        "image": "assets/icons/core_vocab_places/young_26146.png"
+      },
+      {
+        "word": "young_4673",
+        "image": "assets/icons/core_vocab_places/young_4673.png"
+      },
+      {
+        "word": "who",
+        "image": "assets/icons/core_vocab_places/who.png"
+      },
+      {
+        "word": "whose",
+        "image": "assets/icons/core_vocab_places/whose.png"
+      },
+      {
+        "word": "you",
+        "image": "assets/icons/core_vocab_places/you.png"
+      },
+      {
+        "word": "you_7290",
+        "image": "assets/icons/core_vocab_places/you_7290.png"
+      },
+      {
+        "word": "your",
+        "image": "assets/icons/core_vocab_places/your.png"
+      },
+      {
+        "word": "i",
+        "image": "assets/icons/core_vocab_places/i.png"
+      },
+      {
+        "word": "me",
+        "image": "assets/icons/core_vocab_places/me.png"
+      },
+      {
+        "word": "my",
+        "image": "assets/icons/core_vocab_places/my.png"
+      },
+      {
+        "word": "schoolteacher",
+        "image": "assets/icons/core_vocab_places/schoolteacher.png"
+      },
+      {
+        "word": "sister",
+        "image": "assets/icons/core_vocab_places/sister.png"
+      },
+      {
+        "word": "person",
+        "image": "assets/icons/core_vocab_places/person.png"
+      },
+      {
+        "word": "person_34560",
+        "image": "assets/icons/core_vocab_places/person_34560.png"
+      },
+      {
+        "word": "mum",
+        "image": "assets/icons/core_vocab_places/mum.png"
+      },
+      {
+        "word": "neighbours",
+        "image": "assets/icons/core_vocab_places/neighbours.png"
+      },
+      {
+        "word": "nurse",
+        "image": "assets/icons/core_vocab_places/nurse.png"
+      },
+      {
+        "word": "girl",
+        "image": "assets/icons/core_vocab_places/girl.png"
+      },
+      {
+        "word": "girlfriend",
+        "image": "assets/icons/core_vocab_places/girlfriend.png"
+      },
+      {
+        "word": "grandfather",
+        "image": "assets/icons/core_vocab_places/grandfather.png"
+      },
+      {
+        "word": "grandmother",
+        "image": "assets/icons/core_vocab_places/grandmother.png"
+      },
+      {
+        "word": "hairdresser",
+        "image": "assets/icons/core_vocab_places/hairdresser.png"
+      },
+      {
+        "word": "elderly",
+        "image": "assets/icons/core_vocab_places/elderly.png"
+      },
+      {
+        "word": "family",
+        "image": "assets/icons/core_vocab_places/family.png"
+      },
+      {
+        "word": "father",
+        "image": "assets/icons/core_vocab_places/father.png"
+      },
+      {
+        "word": "friend",
+        "image": "assets/icons/core_vocab_places/friend.png"
+      },
+      {
+        "word": "dad",
+        "image": "assets/icons/core_vocab_places/dad.png"
+      },
+      {
+        "word": "chef",
+        "image": "assets/icons/core_vocab_places/chef.png"
+      },
+      {
+        "word": "chinese",
+        "image": "assets/icons/core_vocab_places/chinese.png"
+      },
+      {
+        "word": "boy",
+        "image": "assets/icons/core_vocab_places/boy.png"
+      },
+      {
+        "word": "actor",
+        "image": "assets/icons/core_vocab_places/actor.png"
+      },
+      {
+        "word": "baby",
+        "image": "assets/icons/core_vocab_places/baby.png"
+      }
+    ]
+  },
+  {
+    "category": "places",
+    "image": "assets/icons/core_vocab_places/place.png",
+    "items": [
+      {
+        "word": "hospital_36210",
+        "image": "assets/icons/core_vocab_places/hospital_36210.png"
+      },
+      {
+        "word": "hospital_6523",
+        "image": "assets/icons/core_vocab_places/hospital_6523.png"
+      },
+      {
+        "word": "oceania",
+        "image": "assets/icons/core_vocab_places/oceania.png"
+      },
+      {
+        "word": "pharmacy_6497",
+        "image": "assets/icons/core_vocab_places/pharmacy_6497.png"
+      },
+      {
+        "word": "place",
+        "image": "assets/icons/core_vocab_places/place.png"
+      },
+      {
+        "word": "place_9819",
+        "image": "assets/icons/core_vocab_places/place_9819.png"
+      },
+      {
+        "word": "playground",
+        "image": "assets/icons/core_vocab_places/playground.png"
+      },
+      {
+        "word": "tractor",
+        "image": "assets/icons/core_vocab_places/tractor.png"
+      },
+      {
+        "word": "train",
+        "image": "assets/icons/core_vocab_places/train.png"
+      },
+      {
+        "word": "tree",
+        "image": "assets/icons/core_vocab_places/tree.png"
+      },
+      {
+        "word": "tronca",
+        "image": "assets/icons/core_vocab_places/tronca.png"
+      },
+      {
+        "word": "tuesday",
+        "image": "assets/icons/core_vocab_places/tuesday.png"
+      },
+      {
+        "word": "village",
+        "image": "assets/icons/core_vocab_places/village.png"
+      },
+      {
+        "word": "village_38586",
+        "image": "assets/icons/core_vocab_places/village_38586.png"
+      },
+      {
+        "word": "wall",
+        "image": "assets/icons/core_vocab_places/wall.png"
+      },
+      {
+        "word": "window",
+        "image": "assets/icons/core_vocab_places/window.png"
+      },
+      {
+        "word": "wednesday",
+        "image": "assets/icons/core_vocab_places/wednesday.png"
+      },
+      {
+        "word": "week",
+        "image": "assets/icons/core_vocab_places/week.png"
+      },
+      {
+        "word": "weekend",
+        "image": "assets/icons/core_vocab_places/weekend.png"
+      },
+      {
+        "word": "winter",
+        "image": "assets/icons/core_vocab_places/winter.png"
+      },
+      {
+        "word": "wood",
+        "image": "assets/icons/core_vocab_places/wood.png"
+      },
+      {
+        "word": "year",
+        "image": "assets/icons/core_vocab_places/year.png"
+      },
+      {
+        "word": "theatre",
+        "image": "assets/icons/core_vocab_places/theatre.png"
+      },
+      {
+        "word": "toilet",
+        "image": "assets/icons/core_vocab_places/toilet.png"
+      },
+      {
+        "word": "street",
+        "image": "assets/icons/core_vocab_places/street.png"
+      },
+      {
+        "word": "synagogue",
+        "image": "assets/icons/core_vocab_places/synagogue.png"
+      },
+      {
+        "word": "table",
+        "image": "assets/icons/core_vocab_places/table.png"
+      },
+      {
+        "word": "police",
+        "image": "assets/icons/core_vocab_places/police.png"
+      },
+      {
+        "word": "police_station_3083",
+        "image": "assets/icons/core_vocab_places/police_station_3083.png"
+      },
+      {
+        "word": "post",
+        "image": "assets/icons/core_vocab_places/post.png"
+      },
+      {
+        "word": "postal",
+        "image": "assets/icons/core_vocab_places/postal.png"
+      },
+      {
+        "word": "postal_service_6464",
+        "image": "assets/icons/core_vocab_places/postal_service_6464.png"
+      },
+      {
+        "word": "prison",
+        "image": "assets/icons/core_vocab_places/prison.png"
+      },
+      {
+        "word": "residence",
+        "image": "assets/icons/core_vocab_places/residence.png"
+      },
+      {
+        "word": "restaurant",
+        "image": "assets/icons/core_vocab_places/restaurant.png"
+      },
+      {
+        "word": "river",
+        "image": "assets/icons/core_vocab_places/river.png"
+      },
+      {
+        "word": "route",
+        "image": "assets/icons/core_vocab_places/route.png"
+      },
+      {
+        "word": "school",
+        "image": "assets/icons/core_vocab_places/school.png"
+      },
+      {
+        "word": "schoolyard",
+        "image": "assets/icons/core_vocab_places/schoolyard.png"
+      },
+      {
+        "word": "shop",
+        "image": "assets/icons/core_vocab_places/shop.png"
+      },
+      {
+        "word": "stairs",
+        "image": "assets/icons/core_vocab_places/stairs.png"
+      },
+      {
+        "word": "library",
+        "image": "assets/icons/core_vocab_places/library.png"
+      },
+      {
+        "word": "market",
+        "image": "assets/icons/core_vocab_places/market.png"
+      },
+      {
+        "word": "mosque",
+        "image": "assets/icons/core_vocab_places/mosque.png"
+      },
+      {
+        "word": "mountain",
+        "image": "assets/icons/core_vocab_places/mountain.png"
+      },
+      {
+        "word": "museum",
+        "image": "assets/icons/core_vocab_places/museum.png"
+      },
+      {
+        "word": "park",
+        "image": "assets/icons/core_vocab_places/park.png"
+      },
+      {
+        "word": "pizzeria",
+        "image": "assets/icons/core_vocab_places/pizzeria.png"
+      },
+      {
+        "word": "gymnasium",
+        "image": "assets/icons/core_vocab_places/gymnasium.png"
+      },
+      {
+        "word": "hospital",
+        "image": "assets/icons/core_vocab_places/hospital.png"
+      },
+      {
+        "word": "hotel",
+        "image": "assets/icons/core_vocab_places/hotel.png"
+      },
+      {
+        "word": "house",
+        "image": "assets/icons/core_vocab_places/house.png"
+      },
+      {
+        "word": "kitchen",
+        "image": "assets/icons/core_vocab_places/kitchen.png"
+      },
+      {
+        "word": "kitchen_10753",
+        "image": "assets/icons/core_vocab_places/kitchen_10753.png"
+      },
+      {
+        "word": "kitchen_sink_2399",
+        "image": "assets/icons/core_vocab_places/kitchen_sink_2399.png"
+      },
+      {
+        "word": "lamp",
+        "image": "assets/icons/core_vocab_places/lamp.png"
+      },
+      {
+        "word": "camp",
+        "image": "assets/icons/core_vocab_places/camp.png"
+      },
+      {
+        "word": "camping",
+        "image": "assets/icons/core_vocab_places/camping.png"
+      },
+      {
+        "word": "carnival",
+        "image": "assets/icons/core_vocab_places/carnival.png"
+      },
+      {
+        "word": "casta\u00f1ada",
+        "image": "assets/icons/core_vocab_places/casta\u00f1ada.png"
+      },
+      {
+        "word": "church",
+        "image": "assets/icons/core_vocab_places/church.png"
+      },
+      {
+        "word": "cinema",
+        "image": "assets/icons/core_vocab_places/cinema.png"
+      },
+      {
+        "word": "circus",
+        "image": "assets/icons/core_vocab_places/circus.png"
+      },
+      {
+        "word": "city",
+        "image": "assets/icons/core_vocab_places/city.png"
+      },
+      {
+        "word": "classroom",
+        "image": "assets/icons/core_vocab_places/classroom.png"
+      },
+      {
+        "word": "construction",
+        "image": "assets/icons/core_vocab_places/construction.png"
+      },
+      {
+        "word": "company",
+        "image": "assets/icons/core_vocab_places/company.png"
+      },
+      {
+        "word": "africa",
+        "image": "assets/icons/core_vocab_places/africa.png"
+      },
+      {
+        "word": "airport",
+        "image": "assets/icons/core_vocab_places/airport.png"
+      },
+      {
+        "word": "america",
+        "image": "assets/icons/core_vocab_places/america.png"
+      },
+      {
+        "word": "asia",
+        "image": "assets/icons/core_vocab_places/asia.png"
+      },
+      {
+        "word": "bakery",
+        "image": "assets/icons/core_vocab_places/bakery.png"
+      },
+      {
+        "word": "bar",
+        "image": "assets/icons/core_vocab_places/bar.png"
+      },
+      {
+        "word": "beach",
+        "image": "assets/icons/core_vocab_places/beach.png"
+      },
+      {
+        "word": "bedroom",
+        "image": "assets/icons/core_vocab_places/bedroom.png"
+      },
+      {
+        "word": "bridge",
+        "image": "assets/icons/core_vocab_places/bridge.png"
+      }
+    ]
+  },
+  {
+    "category": "time",
+    "image": "assets/icons/core_vocab_places/now.png",
+    "items": [
+      {
+        "word": "afternoon_snack",
+        "image": "assets/icons/core_vocab_places/afternoon_snack.png"
+      },
+      {
+        "word": "day_37731",
+        "image": "assets/icons/core_vocab_places/day_37731.png"
+      },
+      {
+        "word": "night_7181",
+        "image": "assets/icons/core_vocab_places/night_7181.png"
+      },
+      {
+        "word": "saturday",
+        "image": "assets/icons/core_vocab_places/saturday.png"
+      },
+      {
+        "word": "september",
+        "image": "assets/icons/core_vocab_places/september.png"
+      },
+      {
+        "word": "teatime",
+        "image": "assets/icons/core_vocab_places/teatime.png"
+      },
+      {
+        "word": "the_day_after_today",
+        "image": "assets/icons/core_vocab_places/the_day_after_today.png"
+      },
+      {
+        "word": "the_day_before_yesterday",
+        "image": "assets/icons/core_vocab_places/the_day_before_yesterday.png"
+      },
+      {
+        "word": "yesterday",
+        "image": "assets/icons/core_vocab_places/yesterday.png"
+      },
+      {
+        "word": "yesterday_6926",
+        "image": "assets/icons/core_vocab_places/yesterday_6926.png"
+      },
+      {
+        "word": "the_day_before_yesterday_38272",
+        "image": "assets/icons/core_vocab_places/the_day_before_yesterday_38272.png"
+      },
+      {
+        "word": "thursday",
+        "image": "assets/icons/core_vocab_places/thursday.png"
+      },
+      {
+        "word": "today",
+        "image": "assets/icons/core_vocab_places/today.png"
+      },
+      {
+        "word": "today_7131",
+        "image": "assets/icons/core_vocab_places/today_7131.png"
+      },
+      {
+        "word": "tomorrow",
+        "image": "assets/icons/core_vocab_places/tomorrow.png"
+      },
+      {
+        "word": "tomorrow_7152",
+        "image": "assets/icons/core_vocab_places/tomorrow_7152.png"
+      },
+      {
+        "word": "summer",
+        "image": "assets/icons/core_vocab_places/summer.png"
+      },
+      {
+        "word": "sun",
+        "image": "assets/icons/core_vocab_places/sun.png"
+      },
+      {
+        "word": "sunday",
+        "image": "assets/icons/core_vocab_places/sunday.png"
+      },
+      {
+        "word": "january",
+        "image": "assets/icons/core_vocab_places/january.png"
+      },
+      {
+        "word": "july",
+        "image": "assets/icons/core_vocab_places/july.png"
+      },
+      {
+        "word": "june",
+        "image": "assets/icons/core_vocab_places/june.png"
+      },
+      {
+        "word": "march",
+        "image": "assets/icons/core_vocab_places/march.png"
+      },
+      {
+        "word": "may",
+        "image": "assets/icons/core_vocab_places/may.png"
+      },
+      {
+        "word": "minute",
+        "image": "assets/icons/core_vocab_places/minute.png"
+      },
+      {
+        "word": "monday",
+        "image": "assets/icons/core_vocab_places/monday.png"
+      },
+      {
+        "word": "month",
+        "image": "assets/icons/core_vocab_places/month.png"
+      },
+      {
+        "word": "morning",
+        "image": "assets/icons/core_vocab_places/morning.png"
+      },
+      {
+        "word": "night",
+        "image": "assets/icons/core_vocab_places/night.png"
+      },
+      {
+        "word": "november",
+        "image": "assets/icons/core_vocab_places/november.png"
+      },
+      {
+        "word": "now",
+        "image": "assets/icons/core_vocab_places/now.png"
+      },
+      {
+        "word": "october",
+        "image": "assets/icons/core_vocab_places/october.png"
+      },
+      {
+        "word": "holidays",
+        "image": "assets/icons/core_vocab_places/holidays.png"
+      },
+      {
+        "word": "holidays",
+        "image": "assets/icons/core_vocab_places/holidays_39447.png"
+      },
+      {
+        "word": "holy",
+        "image": "assets/icons/core_vocab_places/holy.png"
+      },
+      {
+        "word": "hour",
+        "image": "assets/icons/core_vocab_places/hour.png"
+      },
+      {
+        "word": "day",
+        "image": "assets/icons/core_vocab_places/day.png"
+      },
+      {
+        "word": "december",
+        "image": "assets/icons/core_vocab_places/december.png"
+      },
+      {
+        "word": "easter",
+        "image": "assets/icons/core_vocab_places/easter.png"
+      },
+      {
+        "word": "february",
+        "image": "assets/icons/core_vocab_places/february.png"
+      },
+      {
+        "word": "friday",
+        "image": "assets/icons/core_vocab_places/friday.png"
+      },
+      {
+        "word": "first",
+        "image": "assets/icons/core_vocab_places/first.png"
+      },
+      {
+        "word": "first",
+        "image": "assets/icons/core_vocab_places/first_37753.png"
+      },
+      {
+        "word": "christmas",
+        "image": "assets/icons/core_vocab_places/christmas.png"
+      },
+      {
+        "word": "happy_new_year",
+        "image": "assets/icons/core_vocab_places/happy_new_year.png"
+      },
+      {
+        "word": "nativity",
+        "image": "assets/icons/core_vocab_places/nativity.png"
+      },
+      {
+        "word": "saint_john_s_day",
+        "image": "assets/icons/core_vocab_places/saint_john_s_day.png"
+      },
+      {
+        "word": "the_three_kings",
+        "image": "assets/icons/core_vocab_places/the_three_kings.png"
+      },
+      {
+        "word": "after",
+        "image": "assets/icons/core_vocab_places/after.png"
+      },
+      {
+        "word": "afternoon",
+        "image": "assets/icons/core_vocab_places/afternoon.png"
+      },
+      {
+        "word": "april",
+        "image": "assets/icons/core_vocab_places/april.png"
+      },
+      {
+        "word": "august",
+        "image": "assets/icons/core_vocab_places/august.png"
+      },
+      {
+        "word": "autumn",
+        "image": "assets/icons/core_vocab_places/autumn.png"
+      },
+      {
+        "word": "before",
+        "image": "assets/icons/core_vocab_places/before.png"
+      },
+      {
+        "word": "before",
+        "image": "assets/icons/core_vocab_places/before_7044.png"
+      },
+      {
+        "word": "birthday",
+        "image": "assets/icons/core_vocab_places/birthday.png"
+      }
+    ]
+  },
+  {
+    "category": "food",
+    "image": "assets/icons/core_vocab_places/food.png",
+    "items": [
+      {
+        "word": "chicken_4952",
+        "image": "assets/icons/core_vocab_places/chicken_4952.png"
+      },
+      {
+        "word": "coffee_24479",
+        "image": "assets/icons/core_vocab_places/coffee_24479.png"
+      },
+      {
+        "word": "green_beans_2438",
+        "image": "assets/icons/core_vocab_places/green_beans_2438.png"
+      },
+      {
+        "word": "olives_2875",
+        "image": "assets/icons/core_vocab_places/olives_2875.png"
+      },
+      {
+        "word": "white_rice",
+        "image": "assets/icons/core_vocab_places/white_rice.png"
+      },
+      {
+        "word": "water",
+        "image": "assets/icons/core_vocab_places/water.png"
+      },
+      {
+        "word": "water_32464",
+        "image": "assets/icons/core_vocab_places/water_32464.png"
+      },
+      {
+        "word": "white_rice_39387",
+        "image": "assets/icons/core_vocab_places/white_rice_39387.png"
+      },
+      {
+        "word": "vegetable",
+        "image": "assets/icons/core_vocab_places/vegetable.png"
+      },
+      {
+        "word": "vinegar",
+        "image": "assets/icons/core_vocab_places/vinegar.png"
+      },
+      {
+        "word": "yogurt",
+        "image": "assets/icons/core_vocab_places/yogurt.png"
+      },
+      {
+        "word": "tomato",
+        "image": "assets/icons/core_vocab_places/tomato.png"
+      },
+      {
+        "word": "toast",
+        "image": "assets/icons/core_vocab_places/toast.png"
+      },
+      {
+        "word": "vitamin",
+        "image": "assets/icons/core_vocab_places/vitamin.png"
+      },
+      {
+        "word": "waistcoat",
+        "image": "assets/icons/core_vocab_places/waistcoat.png"
+      },
+      {
+        "word": "sugar",
+        "image": "assets/icons/core_vocab_places/sugar.png"
+      },
+      {
+        "word": "popcorn",
+        "image": "assets/icons/core_vocab_places/popcorn.png"
+      },
+      {
+        "word": "potato",
+        "image": "assets/icons/core_vocab_places/potato.png"
+      },
+      {
+        "word": "puree",
+        "image": "assets/icons/core_vocab_places/puree.png"
+      },
+      {
+        "word": "rabbit",
+        "image": "assets/icons/core_vocab_places/rabbit.png"
+      },
+      {
+        "word": "salad",
+        "image": "assets/icons/core_vocab_places/salad.png"
+      },
+      {
+        "word": "salt",
+        "image": "assets/icons/core_vocab_places/salt.png"
+      },
+      {
+        "word": "salty",
+        "image": "assets/icons/core_vocab_places/salty.png"
+      },
+      {
+        "word": "sandwich",
+        "image": "assets/icons/core_vocab_places/sandwich.png"
+      },
+      {
+        "word": "sausage",
+        "image": "assets/icons/core_vocab_places/sausage.png"
+      },
+      {
+        "word": "sausages",
+        "image": "assets/icons/core_vocab_places/sausages.png"
+      },
+      {
+        "word": "soup",
+        "image": "assets/icons/core_vocab_places/soup.png"
+      },
+      {
+        "word": "strawberry",
+        "image": "assets/icons/core_vocab_places/strawberry.png"
+      },
+      {
+        "word": "lemon",
+        "image": "assets/icons/core_vocab_places/lemon.png"
+      },
+      {
+        "word": "lemonade",
+        "image": "assets/icons/core_vocab_places/lemonade.png"
+      },
+      {
+        "word": "lentils",
+        "image": "assets/icons/core_vocab_places/lentils.png"
+      },
+      {
+        "word": "lunch",
+        "image": "assets/icons/core_vocab_places/lunch.png"
+      },
+      {
+        "word": "macaroni",
+        "image": "assets/icons/core_vocab_places/macaroni.png"
+      },
+      {
+        "word": "madeleine",
+        "image": "assets/icons/core_vocab_places/madeleine.png"
+      },
+      {
+        "word": "meat",
+        "image": "assets/icons/core_vocab_places/meat.png"
+      },
+      {
+        "word": "meatballs",
+        "image": "assets/icons/core_vocab_places/meatballs.png"
+      },
+      {
+        "word": "melon",
+        "image": "assets/icons/core_vocab_places/melon.png"
+      },
+      {
+        "word": "milk",
+        "image": "assets/icons/core_vocab_places/milk.png"
+      },
+      {
+        "word": "nougat",
+        "image": "assets/icons/core_vocab_places/nougat.png"
+      },
+      {
+        "word": "olive",
+        "image": "assets/icons/core_vocab_places/olive.png"
+      },
+      {
+        "word": "olives",
+        "image": "assets/icons/core_vocab_places/olives.png"
+      },
+      {
+        "word": "omelette",
+        "image": "assets/icons/core_vocab_places/omelette.png"
+      },
+      {
+        "word": "orange",
+        "image": "assets/icons/core_vocab_places/orange.png"
+      },
+      {
+        "word": "orange",
+        "image": "assets/icons/core_vocab_places/orange_2888.png"
+      },
+      {
+        "word": "orangeade",
+        "image": "assets/icons/core_vocab_places/orangeade.png"
+      },
+      {
+        "word": "pear",
+        "image": "assets/icons/core_vocab_places/pear.png"
+      },
+      {
+        "word": "peas",
+        "image": "assets/icons/core_vocab_places/peas.png"
+      },
+      {
+        "word": "pizza",
+        "image": "assets/icons/core_vocab_places/pizza.png"
+      },
+      {
+        "word": "ham",
+        "image": "assets/icons/core_vocab_places/ham.png"
+      },
+      {
+        "word": "hamburger",
+        "image": "assets/icons/core_vocab_places/hamburger.png"
+      },
+      {
+        "word": "juice",
+        "image": "assets/icons/core_vocab_places/juice.png"
+      },
+      {
+        "word": "dessert",
+        "image": "assets/icons/core_vocab_places/dessert.png"
+      },
+      {
+        "word": "dinner",
+        "image": "assets/icons/core_vocab_places/dinner.png"
+      },
+      {
+        "word": "egg",
+        "image": "assets/icons/core_vocab_places/egg.png"
+      },
+      {
+        "word": "flour",
+        "image": "assets/icons/core_vocab_places/flour.png"
+      },
+      {
+        "word": "fruit",
+        "image": "assets/icons/core_vocab_places/fruit.png"
+      },
+      {
+        "word": "food",
+        "image": "assets/icons/core_vocab_places/food.png"
+      },
+      {
+        "word": "butter",
+        "image": "assets/icons/core_vocab_places/butter.png"
+      },
+      {
+        "word": "cake",
+        "image": "assets/icons/core_vocab_places/cake.png"
+      },
+      {
+        "word": "cannellonis",
+        "image": "assets/icons/core_vocab_places/cannellonis.png"
+      },
+      {
+        "word": "cheese",
+        "image": "assets/icons/core_vocab_places/cheese.png"
+      },
+      {
+        "word": "cherries",
+        "image": "assets/icons/core_vocab_places/cherries.png"
+      },
+      {
+        "word": "chicken",
+        "image": "assets/icons/core_vocab_places/chicken.png"
+      },
+      {
+        "word": "chickpeas",
+        "image": "assets/icons/core_vocab_places/chickpeas.png"
+      },
+      {
+        "word": "chocolate",
+        "image": "assets/icons/core_vocab_places/chocolate.png"
+      },
+      {
+        "word": "coca",
+        "image": "assets/icons/core_vocab_places/coca.png"
+      },
+      {
+        "word": "coffee",
+        "image": "assets/icons/core_vocab_places/coffee.png"
+      },
+      {
+        "word": "cola",
+        "image": "assets/icons/core_vocab_places/cola.png"
+      },
+      {
+        "word": "creme",
+        "image": "assets/icons/core_vocab_places/creme.png"
+      },
+      {
+        "word": "croissant",
+        "image": "assets/icons/core_vocab_places/croissant.png"
+      },
+      {
+        "word": "croquettes",
+        "image": "assets/icons/core_vocab_places/croquettes.png"
+      },
+      {
+        "word": "cereals",
+        "image": "assets/icons/core_vocab_places/cereals.png"
+      },
+      {
+        "word": "dates",
+        "image": "assets/icons/core_vocab_places/dates.png"
+      },
+      {
+        "word": "afternoon snack",
+        "image": "assets/icons/core_vocab_places/afternoon_snack_37841.png"
+      },
+      {
+        "word": "apple",
+        "image": "assets/icons/core_vocab_places/apple.png"
+      },
+      {
+        "word": "banana",
+        "image": "assets/icons/core_vocab_places/banana.png"
+      },
+      {
+        "word": "beans",
+        "image": "assets/icons/core_vocab_places/beans.png"
+      },
+      {
+        "word": "biscuits",
+        "image": "assets/icons/core_vocab_places/biscuits.png"
+      },
+      {
+        "word": "bread",
+        "image": "assets/icons/core_vocab_places/bread.png"
+      },
+      {
+        "word": "breakfast",
+        "image": "assets/icons/core_vocab_places/breakfast.png"
+      }
+    ]
+  },
+  {
+    "category": "clothing",
+    "image": "assets/icons/core_vocab_places/dress_6627.png",
+    "items": [
+      {
+        "word": "dress_6627",
+        "image": "assets/icons/core_vocab_places/dress_6627.png"
+      },
+      {
+        "word": "raincoat",
+        "image": "assets/icons/core_vocab_places/raincoat.png"
+      },
+      {
+        "word": "t_shirt",
+        "image": "assets/icons/core_vocab_places/t_shirt.png"
+      },
+      {
+        "word": "cap_39395",
+        "image": "assets/icons/core_vocab_places/cap_39395.png"
+      },
+      {
+        "word": "tights",
+        "image": "assets/icons/core_vocab_places/tights.png"
+      },
+      {
+        "word": "tracksuit",
+        "image": "assets/icons/core_vocab_places/tracksuit.png"
+      },
+      {
+        "word": "trousers",
+        "image": "assets/icons/core_vocab_places/trousers.png"
+      },
+      {
+        "word": "underpants",
+        "image": "assets/icons/core_vocab_places/underpants.png"
+      },
+      {
+        "word": "swimsuit",
+        "image": "assets/icons/core_vocab_places/swimsuit.png"
+      },
+      {
+        "word": "socks",
+        "image": "assets/icons/core_vocab_places/socks.png"
+      },
+      {
+        "word": "scarf",
+        "image": "assets/icons/core_vocab_places/scarf.png"
+      },
+      {
+        "word": "shirt",
+        "image": "assets/icons/core_vocab_places/shirt.png"
+      },
+      {
+        "word": "shoes",
+        "image": "assets/icons/core_vocab_places/shoes.png"
+      },
+      {
+        "word": "shoes_2775",
+        "image": "assets/icons/core_vocab_places/shoes_2775.png"
+      },
+      {
+        "word": "short",
+        "image": "assets/icons/core_vocab_places/short.png"
+      },
+      {
+        "word": "short_26002",
+        "image": "assets/icons/core_vocab_places/short_26002.png"
+      },
+      {
+        "word": "skirt",
+        "image": "assets/icons/core_vocab_places/skirt.png"
+      },
+      {
+        "word": "pyjama",
+        "image": "assets/icons/core_vocab_places/pyjama.png"
+      },
+      {
+        "word": "jacket",
+        "image": "assets/icons/core_vocab_places/jacket.png"
+      },
+      {
+        "word": "jersey",
+        "image": "assets/icons/core_vocab_places/jersey.png"
+      },
+      {
+        "word": "dress",
+        "image": "assets/icons/core_vocab_places/dress.png"
+      },
+      {
+        "word": "ear rings",
+        "image": "assets/icons/core_vocab_places/ear_rings_2515.png"
+      },
+      {
+        "word": "coat",
+        "image": "assets/icons/core_vocab_places/coat.png"
+      },
+      {
+        "word": "clothes",
+        "image": "assets/icons/core_vocab_places/clothes.png"
+      },
+      {
+        "word": "costume",
+        "image": "assets/icons/core_vocab_places/costume.png"
+      },
+      {
+        "word": "apron",
+        "image": "assets/icons/core_vocab_places/apron.png"
+      },
+      {
+        "word": "bib",
+        "image": "assets/icons/core_vocab_places/bib.png"
+      },
+      {
+        "word": "boots",
+        "image": "assets/icons/core_vocab_places/boots.png"
+      },
+      {
+        "word": "bra",
+        "image": "assets/icons/core_vocab_places/bra.png"
+      }
+    ]
+  },
+  {
+    "category": "body_parts",
+    "image": "assets/icons/core_vocab_places/body.png",
+    "items": [
+      {
+        "word": "toothbrush",
+        "image": "assets/icons/core_vocab_places/toothbrush.png"
+      },
+      {
+        "word": "toothpaste",
+        "image": "assets/icons/core_vocab_places/toothpaste.png"
+      },
+      {
+        "word": "vagina",
+        "image": "assets/icons/core_vocab_places/vagina.png"
+      },
+      {
+        "word": "teeth",
+        "image": "assets/icons/core_vocab_places/teeth.png"
+      },
+      {
+        "word": "tongue",
+        "image": "assets/icons/core_vocab_places/tongue.png"
+      },
+      {
+        "word": "skin",
+        "image": "assets/icons/core_vocab_places/skin.png"
+      },
+      {
+        "word": "leg",
+        "image": "assets/icons/core_vocab_places/leg.png"
+      },
+      {
+        "word": "loin",
+        "image": "assets/icons/core_vocab_places/loin.png"
+      },
+      {
+        "word": "mouth",
+        "image": "assets/icons/core_vocab_places/mouth.png"
+      },
+      {
+        "word": "neck",
+        "image": "assets/icons/core_vocab_places/neck.png"
+      },
+      {
+        "word": "nose",
+        "image": "assets/icons/core_vocab_places/nose.png"
+      },
+      {
+        "word": "penis",
+        "image": "assets/icons/core_vocab_places/penis.png"
+      },
+      {
+        "word": "hair",
+        "image": "assets/icons/core_vocab_places/hair.png"
+      },
+      {
+        "word": "hand",
+        "image": "assets/icons/core_vocab_places/hand.png"
+      },
+      {
+        "word": "heart",
+        "image": "assets/icons/core_vocab_places/heart.png"
+      },
+      {
+        "word": "hip",
+        "image": "assets/icons/core_vocab_places/hip.png"
+      },
+      {
+        "word": "ear",
+        "image": "assets/icons/core_vocab_places/ear.png"
+      },
+      {
+        "word": "eyes",
+        "image": "assets/icons/core_vocab_places/eyes.png"
+      },
+      {
+        "word": "face",
+        "image": "assets/icons/core_vocab_places/face.png"
+      },
+      {
+        "word": "finger",
+        "image": "assets/icons/core_vocab_places/finger.png"
+      },
+      {
+        "word": "foot",
+        "image": "assets/icons/core_vocab_places/foot.png"
+      },
+      {
+        "word": "buttock",
+        "image": "assets/icons/core_vocab_places/buttock.png"
+      },
+      {
+        "word": "arm",
+        "image": "assets/icons/core_vocab_places/arm.png"
+      },
+      {
+        "word": "back",
+        "image": "assets/icons/core_vocab_places/back.png"
+      },
+      {
+        "word": "belly",
+        "image": "assets/icons/core_vocab_places/belly.png"
+      },
+      {
+        "word": "body",
+        "image": "assets/icons/core_vocab_places/body.png"
+      }
+    ]
+  },
+  {
+    "category": "actions",
+    "image": "assets/icons/core_vocab_places/play_6537.png",
+    "items": [
+      {
+        "word": "ask(1)",
+        "image": "assets/icons/core_vocab_places/ask(1).png"
+      },
+      {
+        "word": "be_able_to_35949",
+        "image": "assets/icons/core_vocab_places/be_able_to_35949.png"
+      },
+      {
+        "word": "celebrate_16649",
+        "image": "assets/icons/core_vocab_places/celebrate_16649.png"
+      },
+      {
+        "word": "choose_30510",
+        "image": "assets/icons/core_vocab_places/choose_30510.png"
+      },
+      {
+        "word": "clean_3351",
+        "image": "assets/icons/core_vocab_places/clean_3351.png"
+      },
+      {
+        "word": "close_30383",
+        "image": "assets/icons/core_vocab_places/close_30383.png"
+      },
+      {
+        "word": "cut_out_2547",
+        "image": "assets/icons/core_vocab_places/cut_out_2547.png"
+      },
+      {
+        "word": "dance_6052",
+        "image": "assets/icons/core_vocab_places/dance_6052.png"
+      },
+      {
+        "word": "dislike_7179",
+        "image": "assets/icons/core_vocab_places/dislike_7179.png"
+      },
+      {
+        "word": "drink",
+        "image": "assets/icons/core_vocab_places/drink.png"
+      },
+      {
+        "word": "drink_6061",
+        "image": "assets/icons/core_vocab_places/drink_6061.png"
+      },
+      {
+        "word": "excrete",
+        "image": "assets/icons/core_vocab_places/excrete.png"
+      },
+      {
+        "word": "find_24773",
+        "image": "assets/icons/core_vocab_places/find_24773.png"
+      },
+      {
+        "word": "finish_32814",
+        "image": "assets/icons/core_vocab_places/finish_32814.png"
+      },
+      {
+        "word": "finish_5358",
+        "image": "assets/icons/core_vocab_places/finish_5358.png"
+      },
+      {
+        "word": "get_sick_7040",
+        "image": "assets/icons/core_vocab_places/get_sick_7040.png"
+      },
+      {
+        "word": "get_up_6549",
+        "image": "assets/icons/core_vocab_places/get_up_6549.png"
+      },
+      {
+        "word": "go_hiking",
+        "image": "assets/icons/core_vocab_places/go_hiking.png"
+      },
+      {
+        "word": "go_to_bed",
+        "image": "assets/icons/core_vocab_places/go_to_bed.png"
+      },
+      {
+        "word": "have_7271",
+        "image": "assets/icons/core_vocab_places/have_7271.png"
+      },
+      {
+        "word": "have_a_shower",
+        "image": "assets/icons/core_vocab_places/have_a_shower.png"
+      },
+      {
+        "word": "help_32648",
+        "image": "assets/icons/core_vocab_places/help_32648.png"
+      },
+      {
+        "word": "i_do_not_know",
+        "image": "assets/icons/core_vocab_places/i_do_not_know.png"
+      },
+      {
+        "word": "i_do_not_want",
+        "image": "assets/icons/core_vocab_places/i_do_not_want.png"
+      },
+      {
+        "word": "i_need_help",
+        "image": "assets/icons/core_vocab_places/i_need_help.png"
+      },
+      {
+        "word": "i_want_more",
+        "image": "assets/icons/core_vocab_places/i_want_more.png"
+      },
+      {
+        "word": "like_37826",
+        "image": "assets/icons/core_vocab_places/like_37826.png"
+      },
+      {
+        "word": "like_7124",
+        "image": "assets/icons/core_vocab_places/like_7124.png"
+      },
+      {
+        "word": "live",
+        "image": "assets/icons/core_vocab_places/live.png"
+      },
+      {
+        "word": "lose_24779",
+        "image": "assets/icons/core_vocab_places/lose_24779.png"
+      },
+      {
+        "word": "make_32751",
+        "image": "assets/icons/core_vocab_places/make_32751.png"
+      },
+      {
+        "word": "order_by_phone",
+        "image": "assets/icons/core_vocab_places/order_by_phone.png"
+      },
+      {
+        "word": "pee",
+        "image": "assets/icons/core_vocab_places/pee.png"
+      },
+      {
+        "word": "ride",
+        "image": "assets/icons/core_vocab_places/ride.png"
+      },
+      {
+        "word": "rinse",
+        "image": "assets/icons/core_vocab_places/rinse.png"
+      },
+      {
+        "word": "rub",
+        "image": "assets/icons/core_vocab_places/rub.png"
+      },
+      {
+        "word": "sit_on_the_floor",
+        "image": "assets/icons/core_vocab_places/sit_on_the_floor.png"
+      },
+      {
+        "word": "take_the_arm",
+        "image": "assets/icons/core_vocab_places/take_the_arm.png"
+      },
+      {
+        "word": "think",
+        "image": "assets/icons/core_vocab_places/think.png"
+      },
+      {
+        "word": "think_8661",
+        "image": "assets/icons/core_vocab_places/think_8661.png"
+      },
+      {
+        "word": "want",
+        "image": "assets/icons/core_vocab_places/want.png"
+      },
+      {
+        "word": "wash_hand",
+        "image": "assets/icons/core_vocab_places/wash_hand.png"
+      },
+      {
+        "word": "touch",
+        "image": "assets/icons/core_vocab_places/touch.png"
+      },
+      {
+        "word": "travel",
+        "image": "assets/icons/core_vocab_places/travel.png"
+      },
+      {
+        "word": "travel_39445",
+        "image": "assets/icons/core_vocab_places/travel_39445.png"
+      },
+      {
+        "word": "trip",
+        "image": "assets/icons/core_vocab_places/trip.png"
+      },
+      {
+        "word": "undress",
+        "image": "assets/icons/core_vocab_places/undress.png"
+      },
+      {
+        "word": "up",
+        "image": "assets/icons/core_vocab_places/up.png"
+      },
+      {
+        "word": "use",
+        "image": "assets/icons/core_vocab_places/use.png"
+      },
+      {
+        "word": "visit",
+        "image": "assets/icons/core_vocab_places/visit.png"
+      },
+      {
+        "word": "visit_27126",
+        "image": "assets/icons/core_vocab_places/visit_27126.png"
+      },
+      {
+        "word": "wait",
+        "image": "assets/icons/core_vocab_places/wait.png"
+      },
+      {
+        "word": "wait_27547",
+        "image": "assets/icons/core_vocab_places/wait_27547.png"
+      },
+      {
+        "word": "wait_36914",
+        "image": "assets/icons/core_vocab_places/wait_36914.png"
+      },
+      {
+        "word": "wake",
+        "image": "assets/icons/core_vocab_places/wake.png"
+      },
+      {
+        "word": "walk",
+        "image": "assets/icons/core_vocab_places/walk.png"
+      },
+      {
+        "word": "wash",
+        "image": "assets/icons/core_vocab_places/wash.png"
+      },
+      {
+        "word": "wash_8977",
+        "image": "assets/icons/core_vocab_places/wash_8977.png"
+      },
+      {
+        "word": "watch",
+        "image": "assets/icons/core_vocab_places/watch.png"
+      },
+      {
+        "word": "watch_a_movie_34320",
+        "image": "assets/icons/core_vocab_places/watch_a_movie_34320.png"
+      },
+      {
+        "word": "watch_television_29123",
+        "image": "assets/icons/core_vocab_places/watch_television_29123.png"
+      },
+      {
+        "word": "win",
+        "image": "assets/icons/core_vocab_places/win.png"
+      },
+      {
+        "word": "work",
+        "image": "assets/icons/core_vocab_places/work.png"
+      },
+      {
+        "word": "write",
+        "image": "assets/icons/core_vocab_places/write.png"
+      },
+      {
+        "word": "t",
+        "image": "assets/icons/core_vocab_places/t.png"
+      },
+      {
+        "word": "the",
+        "image": "assets/icons/core_vocab_places/the.png"
+      },
+      {
+        "word": "there",
+        "image": "assets/icons/core_vocab_places/there.png"
+      },
+      {
+        "word": "stroll",
+        "image": "assets/icons/core_vocab_places/stroll.png"
+      },
+      {
+        "word": "stroll_8649",
+        "image": "assets/icons/core_vocab_places/stroll_8649.png"
+      },
+      {
+        "word": "study",
+        "image": "assets/icons/core_vocab_places/study.png"
+      },
+      {
+        "word": "support",
+        "image": "assets/icons/core_vocab_places/support.png"
+      },
+      {
+        "word": "support_8983",
+        "image": "assets/icons/core_vocab_places/support_8983.png"
+      },
+      {
+        "word": "swim",
+        "image": "assets/icons/core_vocab_places/swim.png"
+      },
+      {
+        "word": "swimming",
+        "image": "assets/icons/core_vocab_places/swimming.png"
+      },
+      {
+        "word": "swing",
+        "image": "assets/icons/core_vocab_places/swing.png"
+      },
+      {
+        "word": "switch",
+        "image": "assets/icons/core_vocab_places/switch.png"
+      },
+      {
+        "word": "take",
+        "image": "assets/icons/core_vocab_places/take.png"
+      },
+      {
+        "word": "take_32773",
+        "image": "assets/icons/core_vocab_places/take_32773.png"
+      },
+      {
+        "word": "take_6453",
+        "image": "assets/icons/core_vocab_places/take_6453.png"
+      },
+      {
+        "word": "take_6553",
+        "image": "assets/icons/core_vocab_places/take_6553.png"
+      },
+      {
+        "word": "take_attendance_25301",
+        "image": "assets/icons/core_vocab_places/take_attendance_25301.png"
+      },
+      {
+        "word": "take_out_5568",
+        "image": "assets/icons/core_vocab_places/take_out_5568.png"
+      },
+      {
+        "word": "take_the_arm_6888",
+        "image": "assets/icons/core_vocab_places/take_the_arm_6888.png"
+      },
+      {
+        "word": "throw",
+        "image": "assets/icons/core_vocab_places/throw.png"
+      },
+      {
+        "word": "throw_out_36673",
+        "image": "assets/icons/core_vocab_places/throw_out_36673.png"
+      },
+      {
+        "word": "speech",
+        "image": "assets/icons/core_vocab_places/speech.png"
+      },
+      {
+        "word": "run",
+        "image": "assets/icons/core_vocab_places/run.png"
+      },
+      {
+        "word": "say",
+        "image": "assets/icons/core_vocab_places/say.png"
+      },
+      {
+        "word": "search",
+        "image": "assets/icons/core_vocab_places/search.png"
+      },
+      {
+        "word": "see",
+        "image": "assets/icons/core_vocab_places/see.png"
+      },
+      {
+        "word": "sell",
+        "image": "assets/icons/core_vocab_places/sell.png"
+      },
+      {
+        "word": "sew",
+        "image": "assets/icons/core_vocab_places/sew.png"
+      },
+      {
+        "word": "share",
+        "image": "assets/icons/core_vocab_places/share.png"
+      },
+      {
+        "word": "share_38900",
+        "image": "assets/icons/core_vocab_places/share_38900.png"
+      },
+      {
+        "word": "shout",
+        "image": "assets/icons/core_vocab_places/shout.png"
+      },
+      {
+        "word": "show",
+        "image": "assets/icons/core_vocab_places/show.png"
+      },
+      {
+        "word": "sing",
+        "image": "assets/icons/core_vocab_places/sing.png"
+      },
+      {
+        "word": "sit",
+        "image": "assets/icons/core_vocab_places/sit.png"
+      },
+      {
+        "word": "sit_on_the_floor_11370",
+        "image": "assets/icons/core_vocab_places/sit_on_the_floor_11370.png"
+      },
+      {
+        "word": "ski",
+        "image": "assets/icons/core_vocab_places/ski.png"
+      },
+      {
+        "word": "sleep",
+        "image": "assets/icons/core_vocab_places/sleep.png"
+      },
+      {
+        "word": "sleeping",
+        "image": "assets/icons/core_vocab_places/sleeping.png"
+      },
+      {
+        "word": "smell",
+        "image": "assets/icons/core_vocab_places/smell.png"
+      },
+      {
+        "word": "speak",
+        "image": "assets/icons/core_vocab_places/speak.png"
+      },
+      {
+        "word": "stand",
+        "image": "assets/icons/core_vocab_places/stand.png"
+      },
+      {
+        "word": "stand_up_8152",
+        "image": "assets/icons/core_vocab_places/stand_up_8152.png"
+      },
+      {
+        "word": "steal",
+        "image": "assets/icons/core_vocab_places/steal.png"
+      },
+      {
+        "word": "stick",
+        "image": "assets/icons/core_vocab_places/stick.png"
+      },
+      {
+        "word": "stop",
+        "image": "assets/icons/core_vocab_places/stop.png"
+      },
+      {
+        "word": "straighten",
+        "image": "assets/icons/core_vocab_places/straighten.png"
+      },
+      {
+        "word": "play",
+        "image": "assets/icons/core_vocab_places/play.png"
+      },
+      {
+        "word": "play_6537",
+        "image": "assets/icons/core_vocab_places/play_6537.png"
+      },
+      {
+        "word": "please",
+        "image": "assets/icons/core_vocab_places/please.png"
+      },
+      {
+        "word": "push",
+        "image": "assets/icons/core_vocab_places/push.png"
+      },
+      {
+        "word": "put",
+        "image": "assets/icons/core_vocab_places/put.png"
+      },
+      {
+        "word": "put_6989",
+        "image": "assets/icons/core_vocab_places/put_6989.png"
+      },
+      {
+        "word": "put_down_6215",
+        "image": "assets/icons/core_vocab_places/put_down_6215.png"
+      },
+      {
+        "word": "put_in_32663",
+        "image": "assets/icons/core_vocab_places/put_in_32663.png"
+      },
+      {
+        "word": "put_in_5514",
+        "image": "assets/icons/core_vocab_places/put_in_5514.png"
+      },
+      {
+        "word": "raise",
+        "image": "assets/icons/core_vocab_places/raise.png"
+      },
+      {
+        "word": "raise_36073",
+        "image": "assets/icons/core_vocab_places/raise_36073.png"
+      },
+      {
+        "word": "read",
+        "image": "assets/icons/core_vocab_places/read.png"
+      },
+      {
+        "word": "remember",
+        "image": "assets/icons/core_vocab_places/remember.png"
+      },
+      {
+        "word": "rest",
+        "image": "assets/icons/core_vocab_places/rest.png"
+      },
+      {
+        "word": "return",
+        "image": "assets/icons/core_vocab_places/return.png"
+      },
+      {
+        "word": "return_6630",
+        "image": "assets/icons/core_vocab_places/return_6630.png"
+      },
+      {
+        "word": "jump",
+        "image": "assets/icons/core_vocab_places/jump.png"
+      },
+      {
+        "word": "jump_6607",
+        "image": "assets/icons/core_vocab_places/jump_6607.png"
+      },
+      {
+        "word": "kiss",
+        "image": "assets/icons/core_vocab_places/kiss.png"
+      },
+      {
+        "word": "know",
+        "image": "assets/icons/core_vocab_places/know.png"
+      },
+      {
+        "word": "laugh",
+        "image": "assets/icons/core_vocab_places/laugh.png"
+      },
+      {
+        "word": "learn",
+        "image": "assets/icons/core_vocab_places/learn.png"
+      },
+      {
+        "word": "lose",
+        "image": "assets/icons/core_vocab_places/lose.png"
+      },
+      {
+        "word": "love",
+        "image": "assets/icons/core_vocab_places/love.png"
+      },
+      {
+        "word": "make",
+        "image": "assets/icons/core_vocab_places/make.png"
+      },
+      {
+        "word": "move",
+        "image": "assets/icons/core_vocab_places/move.png"
+      },
+      {
+        "word": "need",
+        "image": "assets/icons/core_vocab_places/need.png"
+      },
+      {
+        "word": "open",
+        "image": "assets/icons/core_vocab_places/open.png"
+      },
+      {
+        "word": "order",
+        "image": "assets/icons/core_vocab_places/order.png"
+      },
+      {
+        "word": "order by phone",
+        "image": "assets/icons/core_vocab_places/order_by_phone_36330.png"
+      },
+      {
+        "word": "paint",
+        "image": "assets/icons/core_vocab_places/paint.png"
+      },
+      {
+        "word": "pass",
+        "image": "assets/icons/core_vocab_places/pass.png"
+      },
+      {
+        "word": "paste",
+        "image": "assets/icons/core_vocab_places/paste.png"
+      },
+      {
+        "word": "give",
+        "image": "assets/icons/core_vocab_places/give.png"
+      },
+      {
+        "word": "go",
+        "image": "assets/icons/core_vocab_places/go.png"
+      },
+      {
+        "word": "go hiking",
+        "image": "assets/icons/core_vocab_places/go_hiking_6532.png"
+      },
+      {
+        "word": "go to bed",
+        "image": "assets/icons/core_vocab_places/go_to_bed_6027.png"
+      },
+      {
+        "word": "grip",
+        "image": "assets/icons/core_vocab_places/grip.png"
+      },
+      {
+        "word": "have",
+        "image": "assets/icons/core_vocab_places/have.png"
+      },
+      {
+        "word": "have a shower",
+        "image": "assets/icons/core_vocab_places/have_a_shower_26803.png"
+      },
+      {
+        "word": "hear",
+        "image": "assets/icons/core_vocab_places/hear.png"
+      },
+      {
+        "word": "help",
+        "image": "assets/icons/core_vocab_places/help.png"
+      },
+      {
+        "word": "invite",
+        "image": "assets/icons/core_vocab_places/invite.png"
+      },
+      {
+        "word": "descend",
+        "image": "assets/icons/core_vocab_places/descend.png"
+      },
+      {
+        "word": "disappear",
+        "image": "assets/icons/core_vocab_places/disappear.png"
+      },
+      {
+        "word": "dislike",
+        "image": "assets/icons/core_vocab_places/dislike.png"
+      },
+      {
+        "word": "draw",
+        "image": "assets/icons/core_vocab_places/draw.png"
+      },
+      {
+        "word": "drive",
+        "image": "assets/icons/core_vocab_places/drive.png"
+      },
+      {
+        "word": "drop",
+        "image": "assets/icons/core_vocab_places/drop.png"
+      },
+      {
+        "word": "dry",
+        "image": "assets/icons/core_vocab_places/dry.png"
+      },
+      {
+        "word": "dry",
+        "image": "assets/icons/core_vocab_places/dry_2566.png"
+      },
+      {
+        "word": "dry",
+        "image": "assets/icons/core_vocab_places/dry_34715.png"
+      },
+      {
+        "word": "eat",
+        "image": "assets/icons/core_vocab_places/eat.png"
+      },
+      {
+        "word": "extinguish",
+        "image": "assets/icons/core_vocab_places/extinguish.png"
+      },
+      {
+        "word": "fall",
+        "image": "assets/icons/core_vocab_places/fall.png"
+      },
+      {
+        "word": "fight",
+        "image": "assets/icons/core_vocab_places/fight.png"
+      },
+      {
+        "word": "find",
+        "image": "assets/icons/core_vocab_places/find.png"
+      },
+      {
+        "word": "finish",
+        "image": "assets/icons/core_vocab_places/finish.png"
+      },
+      {
+        "word": "fly",
+        "image": "assets/icons/core_vocab_places/fly.png"
+      },
+      {
+        "word": "forget",
+        "image": "assets/icons/core_vocab_places/forget.png"
+      },
+      {
+        "word": "get",
+        "image": "assets/icons/core_vocab_places/get.png"
+      },
+      {
+        "word": "buy",
+        "image": "assets/icons/core_vocab_places/buy.png"
+      },
+      {
+        "word": "buy",
+        "image": "assets/icons/core_vocab_places/buy_8986.png"
+      },
+      {
+        "word": "caress",
+        "image": "assets/icons/core_vocab_places/caress.png"
+      },
+      {
+        "word": "celebrate",
+        "image": "assets/icons/core_vocab_places/celebrate.png"
+      },
+      {
+        "word": "change",
+        "image": "assets/icons/core_vocab_places/change.png"
+      },
+      {
+        "word": "cheat",
+        "image": "assets/icons/core_vocab_places/cheat.png"
+      },
+      {
+        "word": "cheer",
+        "image": "assets/icons/core_vocab_places/cheer.png"
+      },
+      {
+        "word": "choose",
+        "image": "assets/icons/core_vocab_places/choose.png"
+      },
+      {
+        "word": "classify",
+        "image": "assets/icons/core_vocab_places/classify.png"
+      },
+      {
+        "word": "clean",
+        "image": "assets/icons/core_vocab_places/clean.png"
+      },
+      {
+        "word": "clear",
+        "image": "assets/icons/core_vocab_places/clear.png"
+      },
+      {
+        "word": "close",
+        "image": "assets/icons/core_vocab_places/close.png"
+      },
+      {
+        "word": "cook",
+        "image": "assets/icons/core_vocab_places/cook.png"
+      },
+      {
+        "word": "count",
+        "image": "assets/icons/core_vocab_places/count.png"
+      },
+      {
+        "word": "cut",
+        "image": "assets/icons/core_vocab_places/cut.png"
+      },
+      {
+        "word": "come",
+        "image": "assets/icons/core_vocab_places/come.png"
+      },
+      {
+        "word": "cry",
+        "image": "assets/icons/core_vocab_places/cry.png"
+      },
+      {
+        "word": "dance",
+        "image": "assets/icons/core_vocab_places/dance.png"
+      },
+      {
+        "word": "accident",
+        "image": "assets/icons/core_vocab_places/accident.png"
+      },
+      {
+        "word": "arrive",
+        "image": "assets/icons/core_vocab_places/arrive.png"
+      },
+      {
+        "word": "ask",
+        "image": "assets/icons/core_vocab_places/ask.png"
+      },
+      {
+        "word": "ask",
+        "image": "assets/icons/core_vocab_places/ask_9847.png"
+      },
+      {
+        "word": "answer",
+        "image": "assets/icons/core_vocab_places/answer.png"
+      },
+      {
+        "word": "bathe",
+        "image": "assets/icons/core_vocab_places/bathe.png"
+      },
+      {
+        "word": "be",
+        "image": "assets/icons/core_vocab_places/be.png"
+      },
+      {
+        "word": "be",
+        "image": "assets/icons/core_vocab_places/be_36480.png"
+      },
+      {
+        "word": "be",
+        "image": "assets/icons/core_vocab_places/be_5465.png"
+      },
+      {
+        "word": "be",
+        "image": "assets/icons/core_vocab_places/be_5466.png"
+      },
+      {
+        "word": "beat",
+        "image": "assets/icons/core_vocab_places/beat.png"
+      },
+      {
+        "word": "begin",
+        "image": "assets/icons/core_vocab_places/begin.png"
+      },
+      {
+        "word": "blow",
+        "image": "assets/icons/core_vocab_places/blow.png"
+      },
+      {
+        "word": "bounce",
+        "image": "assets/icons/core_vocab_places/bounce.png"
+      },
+      {
+        "word": "break",
+        "image": "assets/icons/core_vocab_places/break.png"
+      },
+      {
+        "word": "bring",
+        "image": "assets/icons/core_vocab_places/bring.png"
+      },
+      {
+        "word": "broken",
+        "image": "assets/icons/core_vocab_places/broken.png"
+      },
+      {
+        "word": "brush",
+        "image": "assets/icons/core_vocab_places/brush.png"
+      }
+    ]
+  },
+  {
+    "category": "feelings/sensations",
+    "image": "assets/icons/core_vocab_places/be_cold.png",
+    "items": [
+      {
+        "word": "be_cold",
+        "image": "assets/icons/core_vocab_places/be_cold.png"
+      },
+      {
+        "word": "be_hot",
+        "image": "assets/icons/core_vocab_places/be_hot.png"
+      },
+      {
+        "word": "fever",
+        "image": "assets/icons/core_vocab_places/fever.png"
+      },
+      {
+        "word": "weak",
+        "image": "assets/icons/core_vocab_places/weak.png"
+      },
+      {
+        "word": "smooth",
+        "image": "assets/icons/core_vocab_places/smooth.png"
+      },
+      {
+        "word": "soft",
+        "image": "assets/icons/core_vocab_places/soft.png"
+      },
+      {
+        "word": "be_old",
+        "image": "assets/icons/core_vocab_places/be_cold_35583.png"
+      },
+      {
+        "word": "be_hot",
+        "image": "assets/icons/core_vocab_places/be_hot_6952.png"
+      },
+      {
+        "word": "be_patient",
+        "image": "assets/icons/core_vocab_places/be_patient_36600.png"
+      },
+      {
+        "word": "bored",
+        "image": "assets/icons/core_vocab_places/bored.png"
+      },
+      {
+        "word": "be_patient",
+        "image": "assets/icons/core_vocab_places/be_patient.png"
+      },
+      {
+        "word": "handsome",
+        "image": "assets/icons/core_vocab_places/handsome.png"
+      },
+      {
+        "word": "i_am_fine",
+        "image": "assets/icons/core_vocab_places/i_am_fine.png"
+      },
+      {
+        "word": "i_m_not_okay",
+        "image": "assets/icons/core_vocab_places/i_m_not_okay.png"
+      },
+      {
+        "word": "me_too",
+        "image": "assets/icons/core_vocab_places/me_too.png"
+      },
+      {
+        "word": "well",
+        "image": "assets/icons/core_vocab_places/well.png"
+      },
+      {
+        "word": "wet",
+        "image": "assets/icons/core_vocab_places/wet.png"
+      },
+      {
+        "word": "wet_37364",
+        "image": "assets/icons/core_vocab_places/wet_37364.png"
+      },
+      {
+        "word": "surprised",
+        "image": "assets/icons/core_vocab_places/surprised.png"
+      },
+      {
+        "word": "sweet",
+        "image": "assets/icons/core_vocab_places/sweet.png"
+      },
+      {
+        "word": "sweet_32440",
+        "image": "assets/icons/core_vocab_places/sweet_32440.png"
+      },
+      {
+        "word": "sorry",
+        "image": "assets/icons/core_vocab_places/sorry.png"
+      },
+      {
+        "word": "tired",
+        "image": "assets/icons/core_vocab_places/tired.png"
+      },
+      {
+        "word": "ugly",
+        "image": "assets/icons/core_vocab_places/ugly.png"
+      },
+      {
+        "word": "uncomfortable",
+        "image": "assets/icons/core_vocab_places/uncomfortable.png"
+      },
+      {
+        "word": "strong",
+        "image": "assets/icons/core_vocab_places/strong.png"
+      },
+      {
+        "word": "success",
+        "image": "assets/icons/core_vocab_places/success.png"
+      },
+      {
+        "word": "success_38564",
+        "image": "assets/icons/core_vocab_places/success_38564.png"
+      },
+      {
+        "word": "fun",
+        "image": "assets/icons/core_vocab_places/fun.png"
+      },
+      {
+        "word": "sad",
+        "image": "assets/icons/core_vocab_places/sad.png"
+      },
+      {
+        "word": "scared",
+        "image": "assets/icons/core_vocab_places/scared.png"
+      },
+      {
+        "word": "like",
+        "image": "assets/icons/core_vocab_places/like.png"
+      },
+      {
+        "word": "love",
+        "image": "assets/icons/core_vocab_places/love_11538.png"
+      },
+      {
+        "word": "love",
+        "image": "assets/icons/core_vocab_places/love_6600.png"
+      },
+      {
+        "word": "love",
+        "image": "assets/icons/core_vocab_places/love_6898.png"
+      },
+      {
+        "word": "merry",
+        "image": "assets/icons/core_vocab_places/merry.png"
+      },
+      {
+        "word": "new",
+        "image": "assets/icons/core_vocab_places/new.png"
+      },
+      {
+        "word": "no",
+        "image": "assets/icons/core_vocab_places/no.png"
+      },
+      {
+        "word": "none",
+        "image": "assets/icons/core_vocab_places/none.png"
+      },
+      {
+        "word": "nonsense",
+        "image": "assets/icons/core_vocab_places/nonsense.png"
+      },
+      {
+        "word": "nothing",
+        "image": "assets/icons/core_vocab_places/nothing.png"
+      },
+      {
+        "word": "good",
+        "image": "assets/icons/core_vocab_places/good.png"
+      },
+      {
+        "word": "goodbye",
+        "image": "assets/icons/core_vocab_places/goodbye.png"
+      },
+      {
+        "word": "happy",
+        "image": "assets/icons/core_vocab_places/happy.png"
+      },
+      {
+        "word": "happy new year",
+        "image": "assets/icons/core_vocab_places/happy_new_year_32480.png"
+      },
+      {
+        "word": "hello",
+        "image": "assets/icons/core_vocab_places/hello.png"
+      },
+      {
+        "word": "how are you",
+        "image": "assets/icons/core_vocab_places/how_are_you_10273.png"
+      },
+      {
+        "word": "how are you doing",
+        "image": "assets/icons/core_vocab_places/how_are_you_doing_11597.png"
+      },
+      {
+        "word": "i am fine",
+        "image": "assets/icons/core_vocab_places/i_am_fine_13630.png"
+      },
+      {
+        "word": "i do not know",
+        "image": "assets/icons/core_vocab_places/i_do_not_know_7180.png"
+      },
+      {
+        "word": "i do not want",
+        "image": "assets/icons/core_vocab_places/i_do_not_want_6156.png"
+      },
+      {
+        "word": "i'm not okay",
+        "image": "assets/icons/core_vocab_places/i_m_not_okay_37182.png"
+      },
+      {
+        "word": "i need help",
+        "image": "assets/icons/core_vocab_places/i_need_help_7171.png"
+      },
+      {
+        "word": "i_spy",
+        "image": "assets/icons/core_vocab_places/i_spy_26150.png"
+      },
+      {
+        "word": "i want more",
+        "image": "assets/icons/core_vocab_places/i_want_more_32753.png"
+      },
+      {
+        "word": "jitters",
+        "image": "assets/icons/core_vocab_places/jitters.png"
+      },
+      {
+        "word": "die",
+        "image": "assets/icons/core_vocab_places/die.png"
+      },
+      {
+        "word": "feelings",
+        "image": "assets/icons/core_vocab_places/feelings.png"
+      },
+      {
+        "word": "content",
+        "image": "assets/icons/core_vocab_places/content.png"
+      },
+      {
+        "word": "congratulations",
+        "image": "assets/icons/core_vocab_places/congratulations.png"
+      },
+      {
+        "word": "congratulations",
+        "image": "assets/icons/core_vocab_places/congratulations_38566.png"
+      },
+      {
+        "word": "angry",
+        "image": "assets/icons/core_vocab_places/angry.png"
+      },
+      {
+        "word": "bad",
+        "image": "assets/icons/core_vocab_places/bad.png"
+      }
+    ]
+  },
+ 
+  {
+    "category": "animals",
+    "image": "assets/icons/core_vocab_places/animals.png",
+    "items": [
+      {
+        "word": "whale",
+        "image": "assets/icons/core_vocab_places/whale.png"
+      },
+      {
+        "word": "wolf",
+        "image": "assets/icons/core_vocab_places/wolf.png"
+      },
+      {
+        "word": "wolf_5892",
+        "image": "assets/icons/core_vocab_places/wolf_5892.png"
+      },
+      {
+        "word": "zebra",
+        "image": "assets/icons/core_vocab_places/zebra.png"
+      },
+      {
+        "word": "seal",
+        "image": "assets/icons/core_vocab_places/seal.png"
+      },
+      {
+        "word": "sheep",
+        "image": "assets/icons/core_vocab_places/sheep.png"
+      },
+      {
+        "word": "snail",
+        "image": "assets/icons/core_vocab_places/snail.png"
+      },
+      {
+        "word": "snake",
+        "image": "assets/icons/core_vocab_places/snake.png"
+      },
+      {
+        "word": "snakes",
+        "image": "assets/icons/core_vocab_places/snakes.png"
+      },
+      {
+        "word": "spider",
+        "image": "assets/icons/core_vocab_places/spider.png"
+      },
+      {
+        "word": "spider_38275",
+        "image": "assets/icons/core_vocab_places/spider_38275.png"
+      },
+      {
+        "word": "squirrel",
+        "image": "assets/icons/core_vocab_places/squirrel.png"
+      },
+      {
+        "word": "lion",
+        "image": "assets/icons/core_vocab_places/lion.png"
+      },
+      {
+        "word": "monkey",
+        "image": "assets/icons/core_vocab_places/monkey.png"
+      },
+      {
+        "word": "monster",
+        "image": "assets/icons/core_vocab_places/monster.png"
+      },
+      {
+        "word": "mosquito",
+        "image": "assets/icons/core_vocab_places/mosquito.png"
+      },
+      {
+        "word": "pig",
+        "image": "assets/icons/core_vocab_places/pig.png"
+      },
+      {
+        "word": "giraffe",
+        "image": "assets/icons/core_vocab_places/giraffe.png"
+      },
+      {
+        "word": "goat",
+        "image": "assets/icons/core_vocab_places/goat.png"
+      },
+      {
+        "word": "hen",
+        "image": "assets/icons/core_vocab_places/hen.png"
+      },
+      {
+        "word": "horse",
+        "image": "assets/icons/core_vocab_places/horse.png"
+      },
+      {
+        "word": "kangaroo",
+        "image": "assets/icons/core_vocab_places/kangaroo.png"
+      },
+      {
+        "word": "dinosaur",
+        "image": "assets/icons/core_vocab_places/dinosaur.png"
+      },
+      {
+        "word": "dog",
+        "image": "assets/icons/core_vocab_places/dog.png"
+      },
+      {
+        "word": "dolphin",
+        "image": "assets/icons/core_vocab_places/dolphin.png"
+      },
+      {
+        "word": "donkey",
+        "image": "assets/icons/core_vocab_places/donkey.png"
+      },
+      {
+        "word": "duck",
+        "image": "assets/icons/core_vocab_places/duck.png"
+      },
+      {
+        "word": "elephant",
+        "image": "assets/icons/core_vocab_places/elephant.png"
+      },
+      {
+        "word": "fish",
+        "image": "assets/icons/core_vocab_places/fish.png"
+      },
+      {
+        "word": "frog",
+        "image": "assets/icons/core_vocab_places/frog.png"
+      },
+      {
+        "word": "butterfly",
+        "image": "assets/icons/core_vocab_places/butterfly.png"
+      },
+      {
+        "word": "camel",
+        "image": "assets/icons/core_vocab_places/camel.png"
+      },
+      {
+        "word": "cat",
+        "image": "assets/icons/core_vocab_places/cat.png"
+      },
+      {
+        "word": "cow",
+        "image": "assets/icons/core_vocab_places/cow.png"
+      },
+      {
+        "word": "crab",
+        "image": "assets/icons/core_vocab_places/crab.png"
+      },
+      {
+        "word": "crocodile",
+        "image": "assets/icons/core_vocab_places/crocodile.png"
+      },
+      {
+        "word": "animal",
+        "image": "assets/icons/core_vocab_places/animal.png"
+      },
+      {
+        "word": "animals",
+        "image": "assets/icons/core_vocab_places/animals.png"
+      },
+      {
+        "word": "bear",
+        "image": "assets/icons/core_vocab_places/bear.png"
+      },
+      {
+        "word": "bee",
+        "image": "assets/icons/core_vocab_places/bee.png"
+      },
+      {
+        "word": "bird",
+        "image": "assets/icons/core_vocab_places/bird.png"
+      }
+    ]
+  },
+ 
+    
+  {
+    "category": "objects",
+    "image": "assets/icons/core_vocab_places/chair.png",
+    "items": [
+      {
+        "word": "bed_linen",
+        "image": "assets/icons/core_vocab_places/bed_linen.png"
+      },
+      {
+        "word": "chair",
+        "image": "assets/icons/core_vocab_places/chair.png"
+      },
+      {
+        "word": "mattress",
+        "image": "assets/icons/core_vocab_places/mattress.png"
+      },
+      {
+        "word": "wardrobe",
+        "image": "assets/icons/core_vocab_places/wardrobe.png"
+      },
+      {
+        "word": "dining",
+        "image": "assets/icons/core_vocab_places/dining.png"
+      },
+      {
+        "word": "door",
+        "image": "assets/icons/core_vocab_places/door.png"
+      },
+      {
+        "word": "fan",
+        "image": "assets/icons/core_vocab_places/fan.png"
+      },
+      {
+        "word": "folder",
+        "image": "assets/icons/core_vocab_places/folder.png"
+      },
+      {
+        "word": "fork",
+        "image": "assets/icons/core_vocab_places/fork.png"
+      },
+      {
+        "word": "bed",
+        "image": "assets/icons/core_vocab_places/bed.png"
+      },
+      {
+        "word": "bed linen",
+        "image": "assets/icons/core_vocab_places/bed_linen_8367.png"
+      },
+      {
+        "word": "blanket",
+        "image": "assets/icons/core_vocab_places/blanket.png"
+      },
+      {
+        "word": "bin",
+        "image": "assets/icons/core_vocab_places/bin.png"
+      },
+      {
+        "word": "bucket",
+        "image": "assets/icons/core_vocab_places/bucket.png"
+      },
+      {
+        "word": "doll",
+        "image": "assets/icons/core_vocab_places/doll.png"
+      },
+      {
+        "word": "puppet",
+        "image": "assets/icons/core_vocab_places/puppet.png"
+      },
+      {
+        "word": "toy",
+        "image": "assets/icons/core_vocab_places/toy.png"
+      },
+      {
+        "word": "toys",
+        "image": "assets/icons/core_vocab_places/toys.png"
+      },
+      {
+        "word": "drum",
+        "image": "assets/icons/core_vocab_places/drum.png"
+      },
+      {
+        "word": "maracas",
+        "image": "assets/icons/core_vocab_places/maracas.png"
+      },
+      {
+        "word": "music",
+        "image": "assets/icons/core_vocab_places/music.png"
+      },
+      {
+        "word": "piano",
+        "image": "assets/icons/core_vocab_places/piano.png"
+      },
+      {
+        "word": "trumpet",
+        "image": "assets/icons/core_vocab_places/trumpet.png"
+      },
+      {
+        "word": "stripy",
+        "image": "assets/icons/core_vocab_places/stripy.png"
+      },
+      {
+        "word": "tablet",
+        "image": "assets/icons/core_vocab_places/tablet.png"
+      },
+      {
+        "word": "ticket",
+        "image": "assets/icons/core_vocab_places/ticket.png"
+      },
+      {
+        "word": "tie",
+        "image": "assets/icons/core_vocab_places/tie.png"
+      },
+      {
+        "word": "ticktacktoe",
+        "image": "assets/icons/core_vocab_places/ticktacktoe.png"
+      },
+      {
+        "word": "tale",
+        "image": "assets/icons/core_vocab_places/tale.png"
+      },
+      {
+        "word": "tambourine",
+        "image": "assets/icons/core_vocab_places/tambourine.png"
+      },
+      {
+        "word": "spiral",
+        "image": "assets/icons/core_vocab_places/spiral.png"
+      },
+      {
+        "word": "rectangle",
+        "image": "assets/icons/core_vocab_places/rectangle.png"
+      },
+      {
+        "word": "square",
+        "image": "assets/icons/core_vocab_places/square.png"
+      },
+      {
+        "word": "squared",
+        "image": "assets/icons/core_vocab_places/squared.png"
+      },
+      {
+        "word": "rhombus",
+        "image": "assets/icons/core_vocab_places/rhombus.png"
+      },
+      {
+        "word": "science",
+        "image": "assets/icons/core_vocab_places/science.png"
+      },
+      {
+        "word": "shapes",
+        "image": "assets/icons/core_vocab_places/shapes.png"
+      },
+      {
+        "word": "it",
+        "image": "assets/icons/core_vocab_places/it.png"
+      },
+      {
+        "word": "letter",
+        "image": "assets/icons/core_vocab_places/letter.png"
+      },
+      {
+        "word": "letters",
+        "image": "assets/icons/core_vocab_places/letters.png"
+      },
+      {
+        "word": "light",
+        "image": "assets/icons/core_vocab_places/light.png"
+      },
+      {
+        "word": "lightning",
+        "image": "assets/icons/core_vocab_places/lightning.png"
+      },
+      {
+        "word": "lottery",
+        "image": "assets/icons/core_vocab_places/lottery.png"
+      },
+      {
+        "word": "magazine",
+        "image": "assets/icons/core_vocab_places/magazine.png"
+      },
+      {
+        "word": "menu",
+        "image": "assets/icons/core_vocab_places/menu.png"
+      },
+      {
+        "word": "metal",
+        "image": "assets/icons/core_vocab_places/metal.png"
+      },
+      {
+        "word": "mobile",
+        "image": "assets/icons/core_vocab_places/mobile.png"
+      },
+      {
+        "word": "money",
+        "image": "assets/icons/core_vocab_places/money.png"
+      },
+      {
+        "word": "mirror",
+        "image": "assets/icons/core_vocab_places/mirror.png"
+      },
+      {
+        "word": "mistletoe",
+        "image": "assets/icons/core_vocab_places/mistletoe.png"
+      },
+      {
+        "word": "notes",
+        "image": "assets/icons/core_vocab_places/notes.png"
+      },
+      {
+        "word": "napkin",
+        "image": "assets/icons/core_vocab_places/napkin.png"
+      },
+      {
+        "word": "nappy",
+        "image": "assets/icons/core_vocab_places/nappy.png"
+      },
+      {
+        "word": "newspaper",
+        "image": "assets/icons/core_vocab_places/newspaper.png"
+      },
+      {
+        "word": "paintbrush",
+        "image": "assets/icons/core_vocab_places/paintbrush.png"
+      },
+      {
+        "word": "paper",
+        "image": "assets/icons/core_vocab_places/paper.png"
+      },
+      {
+        "word": "pencil",
+        "image": "assets/icons/core_vocab_places/pencil.png"
+      },
+      {
+        "word": "perfume",
+        "image": "assets/icons/core_vocab_places/perfume.png"
+      },
+      {
+        "word": "petanque",
+        "image": "assets/icons/core_vocab_places/petanque.png"
+      },
+      {
+        "word": "petrol",
+        "image": "assets/icons/core_vocab_places/petrol.png"
+      },
+      {
+        "word": "photocopy",
+        "image": "assets/icons/core_vocab_places/photocopy.png"
+      },
+      {
+        "word": "physical",
+        "image": "assets/icons/core_vocab_places/physical.png"
+      },
+      {
+        "word": "pile",
+        "image": "assets/icons/core_vocab_places/pile.png"
+      },
+      {
+        "word": "pillow",
+        "image": "assets/icons/core_vocab_places/pillow.png"
+      },
+      {
+        "word": "pic",
+        "image": "assets/icons/core_vocab_places/pic.png"
+      },
+      {
+        "word": "firecracker",
+        "image": "assets/icons/core_vocab_places/firecracker.png"
+      },
+      {
+        "word": "funfair",
+        "image": "assets/icons/core_vocab_places/funfair.png"
+      },
+      {
+        "word": "gift",
+        "image": "assets/icons/core_vocab_places/gift.png"
+      },
+      {
+        "word": "basket",
+        "image": "assets/icons/core_vocab_places/basket.png"
+      },
+      {
+        "word": "ball",
+        "image": "assets/icons/core_vocab_places/ball.png"
+      },
+      {
+        "word": "balloon",
+        "image": "assets/icons/core_vocab_places/balloon.png"
+      },
+      {
+        "word": "basketball",
+        "image": "assets/icons/core_vocab_places/basketball.png"
+      },
+      {
+        "word": "book",
+        "image": "assets/icons/core_vocab_places/book.png"
+      },
+      {
+        "word": "soap",
+        "image": "assets/icons/core_vocab_places/soap.png"
+      },
+      {
+        "word": "soap_8094",
+        "image": "assets/icons/core_vocab_places/soap_8094.png"
+      },
+      {
+        "word": "sofa",
+        "image": "assets/icons/core_vocab_places/sofa.png"
+      },
+      {
+        "word": "sponge",
+        "image": "assets/icons/core_vocab_places/sponge.png"
+      },
+      {
+        "word": "spoon",
+        "image": "assets/icons/core_vocab_places/spoon.png"
+      },
+      {
+        "word": "sport_bag_8511",
+        "image": "assets/icons/core_vocab_places/sport_bag_8511.png"
+      },
+      {
+        "word": "stamp",
+        "image": "assets/icons/core_vocab_places/stamps.png"
+      },
+      {
+        "word": "plate",
+        "image": "assets/icons/core_vocab_places/plate.png"
+      },
+      {
+        "word": "place_setting_8545",
+        "image": "assets/icons/core_vocab_places/place_setting_8545.png"
+      },
+      {
+        "word": "plant",
+        "image": "assets/icons/core_vocab_places/plant.png"
+      },
+      {
+        "word": "plastic",
+        "image": "assets/icons/core_vocab_places/plastic.png"
+      },
+      {
+        "word": "plasticine",
+        "image": "assets/icons/core_vocab_places/plasticine.png"
+      },
+      {
+        "word": "printer",
+        "image": "assets/icons/core_vocab_places/printer.png"
+      },
+      {
+        "word": "puzzle",
+        "image": "assets/icons/core_vocab_places/puzzle.png"
+      },
+      {
+        "word": "radio",
+        "image": "assets/icons/core_vocab_places/radio.png"
+      },
+      {
+        "word": "remote",
+        "image": "assets/icons/core_vocab_places/remote.png"
+      },
+      {
+        "word": "rocket",
+        "image": "assets/icons/core_vocab_places/rocket.png"
+      },
+      {
+        "word": "root",
+        "image": "assets/icons/core_vocab_places/root.png"
+      },
+      {
+        "word": "rose",
+        "image": "assets/icons/core_vocab_places/rose.png"
+      },
+      {
+        "word": "rucksack",
+        "image": "assets/icons/core_vocab_places/rucksack.png"
+      },
+      {
+        "word": "glass",
+        "image": "assets/icons/core_vocab_places/glass.png"
+      },
+      {
+        "word": "glasses",
+        "image": "assets/icons/core_vocab_places/glasses.png"
+      },
+      {
+        "word": "glassware",
+        "image": "assets/icons/core_vocab_places/glassware.png"
+      },
+      {
+        "word": "glue",
+        "image": "assets/icons/core_vocab_places/glue.png"
+      },
+      {
+        "word": "guitar",
+        "image": "assets/icons/core_vocab_places/guitar.png"
+      },
+      {
+        "word": "handbag",
+        "image": "assets/icons/core_vocab_places/handbag.png"
+      },
+      {
+        "word": "handkerchief",
+        "image": "assets/icons/core_vocab_places/handkerchief.png"
+      },
+      {
+        "word": "ice",
+        "image": "assets/icons/core_vocab_places/ice.png"
+      },
+      {
+        "word": "internet",
+        "image": "assets/icons/core_vocab_places/internet.png"
+      },
+      {
+        "word": "knife",
+        "image": "assets/icons/core_vocab_places/knife.png"
+      },
+      {
+        "word": "button",
+        "image": "assets/icons/core_vocab_places/button.png"
+      },
+      {
+        "word": "cardboard",
+        "image": "assets/icons/core_vocab_places/cardboard.png"
+      },
+      {
+        "word": "cd",
+        "image": "assets/icons/core_vocab_places/cd.png"
+      },
+      {
+        "word": "calendar",
+        "image": "assets/icons/core_vocab_places/calendar.png"
+      },
+      {
+        "word": "cap",
+        "image": "assets/icons/core_vocab_places/cap.png"
+      },
+      {
+        "word": "circle",
+        "image": "assets/icons/core_vocab_places/circle.png"
+      },
+      {
+        "word": "cloud",
+        "image": "assets/icons/core_vocab_places/cloud.png"
+      },
+      {
+        "word": "comb",
+        "image": "assets/icons/core_vocab_places/comb.png"
+      },
+      {
+        "word": "comb",
+        "image": "assets/icons/core_vocab_places/comb_2852.png"
+      },
+      {
+        "word": "cup",
+        "image": "assets/icons/core_vocab_places/cup.png"
+      },
+      {
+        "word": "comic",
+        "image": "assets/icons/core_vocab_places/comic.png"
+      },
+      {
+        "word": "crystal",
+        "image": "assets/icons/core_vocab_places/crystal.png"
+      },
+      {
+        "word": "bell",
+        "image": "assets/icons/core_vocab_places/bell.png"
+      },
+      {
+        "word": "bookmark",
+        "image": "assets/icons/core_vocab_places/bookmark.png"
+      },
+      {
+        "word": "box",
+        "image": "assets/icons/core_vocab_places/box.png"
+      },
+      {
+        "word": "bubbles",
+        "image": "assets/icons/core_vocab_places/bubbles.png"
+      }
+    ]
+  },
+  
+  {
+    "category": "sports",
+    "image": "assets/icons/core_vocab_places/sport.png",
+    "items": [
+      {
+        "word": "soccer",
+        "image": "assets/icons/core_vocab_places/soccer.png"
+      },
+      {
+        "word": "sport",
+        "image": "assets/icons/core_vocab_places/sport.png"
+      },
+      {
+        "word": "sledge",
+        "image": "assets/icons/core_vocab_places/sledge.png"
+      },
+      {
+        "word": "slalom",
+        "image": "assets/icons/core_vocab_places/slalom.png"
+      },
+      {
+        "word": "boccia",
+        "image": "assets/icons/core_vocab_places/boccia.png"
+      }
+    ]
+  },
+  {
+    "category": "colors",
+    "image": "assets/icons/core_vocab_places/colour.png",
+    "items": [
+      {
+        "word": "orange_color",
+        "image": "assets/icons/core_vocab_places/orange_color.png"
+      },
+      {
+        "word": "silver",
+        "image": "assets/icons/core_vocab_places/silver.png"
+      },
+      {
+        "word": "white",
+        "image": "assets/icons/core_vocab_places/white.png"
+      },
+      {
+        "word": "yellow",
+        "image": "assets/icons/core_vocab_places/yellow.png"
+      },
+      {
+        "word": "lilac",
+        "image": "assets/icons/core_vocab_places/lilac.png"
+      },
+      {
+        "word": "green",
+        "image": "assets/icons/core_vocab_places/green.png"
+      },
+      {
+        "word": "gold",
+        "image": "assets/icons/core_vocab_places/gold.png"
+      },
+      {
+        "word": "colour",
+        "image": "assets/icons/core_vocab_places/colour.png"
+      },
+      {
+        "word": "dark",
+        "image": "assets/icons/core_vocab_places/dark.png"
+      },
+      {
+        "word": "dark",
+        "image": "assets/icons/core_vocab_places/dark_4710.png"
+      },
+      {
+        "word": "black",
+        "image": "assets/icons/core_vocab_places/black.png"
+      },
+      {
+        "word": "blue",
+        "image": "assets/icons/core_vocab_places/blue.png"
+      }
+    ]
+  },
+  {
+    "category": "technology",
+    "image": "assets/icons/core_vocab_places/electric.png",
+    "items": [
+      {
+        "word": "communicator_5971",
+        "image": "assets/icons/core_vocab_places/communicator_5971.png"
+      },
+      {
+        "word": "video",
+        "image": "assets/icons/core_vocab_places/video.png"
+      },
+      {
+        "word": "telephone",
+        "image": "assets/icons/core_vocab_places/telephone.png"
+      },
+      {
+        "word": "television",
+        "image": "assets/icons/core_vocab_places/television.png"
+      },
+      {
+        "word": "computer",
+        "image": "assets/icons/core_vocab_places/computer.png"
+      },
+      {
+        "word": "electric",
+        "image": "assets/icons/core_vocab_places/electric.png"
+      },
+      {
+        "word": "flash",
+        "image": "assets/icons/core_vocab_places/flash.png"
+      },
+      {
+        "word": "games",
+        "image": "assets/icons/core_vocab_places/games.png"
+      },
+      {
+        "word": "camera",
+        "image": "assets/icons/core_vocab_places/camera.png"
+      },
+       {
+        "word": "communication",
+        "image": "assets/icons/core_vocab_places/communication.png"
+      },
+      {
+        "word": "communicator",
+        "image": "assets/icons/core_vocab_places/communicator.png"
+      }
+    ]
+  },
+ 
+  {
+    "category": "nature",
+    "image": "assets/icons/core_vocab_places/forest.png",
+    "items": [
+      {
+        "word": "fire",
+        "image": "assets/icons/core_vocab_places/fire.png"
+      },
+      {
+        "word": "sea",
+        "image": "assets/icons/core_vocab_places/sea.png"
+      },
+      {
+        "word": "shell",
+        "image": "assets/icons/core_vocab_places/shell.png"
+      },
+      {
+        "word": "showers",
+        "image": "assets/icons/core_vocab_places/showers.png"
+      },
+      {
+        "word": "thunder",
+        "image": "assets/icons/core_vocab_places/thunder.png"
+      },
+      {
+        "word": "umbrella",
+        "image": "assets/icons/core_vocab_places/umbrella.png"
+      },
+      {
+        "word": "waterproof",
+        "image": "assets/icons/core_vocab_places/waterproof.png"
+      },
+      {
+        "word": "worm",
+        "image": "assets/icons/core_vocab_places/worm.png"
+      },
+      {
+        "word": "rain",
+        "image": "assets/icons/core_vocab_places/rain.png"
+      },
+      {
+        "word": "snow",
+        "image": "assets/icons/core_vocab_places/snow.png"
+      },
+      {
+        "word": "spring",
+        "image": "assets/icons/core_vocab_places/spring.png"
+      },
+      {
+        "word": "grass",
+        "image": "assets/icons/core_vocab_places/grass.png"
+      },
+      {
+        "word": "leaf",
+        "image": "assets/icons/core_vocab_places/leaf.png"
+      },
+      {
+        "word": "flower",
+        "image": "assets/icons/core_vocab_places/flower.png"
+      },
+      {
+        "word": "flowered",
+        "image": "assets/icons/core_vocab_places/flowered.png"
+      },
+      {
+        "word": "fog",
+        "image": "assets/icons/core_vocab_places/fog.png"
+      },
+      {
+        "word": "forest",
+        "image": "assets/icons/core_vocab_places/forest.png"
+      },
+      {
+        "word": "garden",
+        "image": "assets/icons/core_vocab_places/garden.png"
+      },
+      {
+        "word": "daisy",
+        "image": "assets/icons/core_vocab_places/daisy.png"
+      }
+    ]
+  },
+  {
+    "category": "adjectives/qualities",
+    "image": "assets/icons/core_vocab_places/empty.png",
+    "items": [
+      {
+        "word": "empty",
+        "image": "assets/icons/core_vocab_places/empty.png"
+      },
+      {
+        "word": "equal",
+        "image": "assets/icons/core_vocab_places/equal.png"
+      },
+      {
+        "word": "far",
+        "image": "assets/icons/core_vocab_places/far.png"
+      },
+      {
+        "word": "fat",
+        "image": "assets/icons/core_vocab_places/fat.png"
+      },
+      {
+        "word": "few",
+        "image": "assets/icons/core_vocab_places/few.png"
+      },
+      {
+        "word": "full",
+        "image": "assets/icons/core_vocab_places/full.png"
+      }
+    ]
+  },
+  {
+    "category": "social_phrases",
+    "image": "assets/icons/core_vocab_places/how_are_you.png",
+    "items": [
+      {
+        "word": "how_are_you",
+        "image": "assets/icons/core_vocab_places/how_are_you.png"
+      },
+      {
+        "word": "how_are_you_doing",
+        "image": "assets/icons/core_vocab_places/how_are_you_doing.png"
+      },
+      {
+        "word": "what_are_you_saying",
+        "image": "assets/icons/core_vocab_places/what_are_you_saying.png"
+      },
+      {
+        "word": "what_is_it",
+        "image": "assets/icons/core_vocab_places/what_is_it.png"
+      },
+      {
+        "word": "what_is_your_name",
+        "image": "assets/icons/core_vocab_places/what_is_your_name.png"
+      },
+      {
+        "word": "what_is_your_name(1)",
+        "image": "assets/icons/core_vocab_places/what_is_your_name(1).png"
+      },
+      {
+        "word": "what_s_the_weather_like",
+        "image": "assets/icons/core_vocab_places/what_s_the_weather_like.png"
+      },
+      {
+        "word": "what_time_is_it",
+        "image": "assets/icons/core_vocab_places/what_time_is_it.png"
+      },
+      {
+        "word": "what_time_is_it(1)",
+        "image": "assets/icons/core_vocab_places/what_time_is_it(1).png"
+      },
+      {
+        "word": "where_is_it",
+        "image": "assets/icons/core_vocab_places/where_is_it.png"
+      },
+      {
+        "word": "yes",
+        "image": "assets/icons/core_vocab_places/yes.png"
+      },
+      {
+        "word": "what",
+        "image": "assets/icons/core_vocab_places/what.png"
+      },
+      {
+        "word": "what_are_you_saying_11611",
+        "image": "assets/icons/core_vocab_places/what_are_you_saying_11611.png"
+      },
+      {
+        "word": "what_is_it_32771",
+        "image": "assets/icons/core_vocab_places/what_is_it_32771.png"
+      },
+      {
+        "word": "what_is_your_name_38570",
+        "image": "assets/icons/core_vocab_places/what_is_your_name_38570.png"
+      },
+      {
+        "word": "what_is_your_name_7061",
+        "image": "assets/icons/core_vocab_places/what_is_your_name_7061.png"
+      },
+      {
+        "word": "what_s_the_weather_like_7223",
+        "image": "assets/icons/core_vocab_places/what_s_the_weather_like_7223.png"
+      },
+      {
+        "word": "what_time_is_it_29175",
+        "image": "assets/icons/core_vocab_places/what_time_is_it_29175.png"
+      },
+      {
+        "word": "what_time_is_it_37370",
+        "image": "assets/icons/core_vocab_places/what_time_is_it_37370.png"
+      },
+      {
+        "word": "when",
+        "image": "assets/icons/core_vocab_places/when.png"
+      },
+      {
+        "word": "where",
+        "image": "assets/icons/core_vocab_places/where.png"
+      },
+      {
+        "word": "where_is_it_32872",
+        "image": "assets/icons/core_vocab_places/where_is_it_32872.png"
+      },
+      {
+        "word": "why",
+        "image": "assets/icons/core_vocab_places/why.png"
+      },
+      {
+        "word": "how",
+        "image": "assets/icons/core_vocab_places/how.png"
+      },
+      {
+        "word": "how_many_24731",
+        "image": "assets/icons/core_vocab_places/how_many_24731.png"
+      },
+      {
+        "word": "how_much_is_it_7071",
+        "image": "assets/icons/core_vocab_places/how_much_is_it_7071.png"
+      },
+      {
+        "word": "thanks",
+        "image": "assets/icons/core_vocab_places/thanks.png"
+      },
+      {
+        "word": "me_too_11591",
+        "image": "assets/icons/core_vocab_places/me_too_11591.png"
+      }
+    ]
+  },
+  {
+    "category": "medical/health",
+    "image": "assets/icons/core_vocab_places/medical.png",
+    "items": [
+      {
+        "word": "toilet_paper_2862",
+        "image": "assets/icons/core_vocab_places/toilet_paper_2862.png"
+      },
+      {
+        "word": "toiletries",
+        "image": "assets/icons/core_vocab_places/toiletries.png"
+      },
+      {
+        "word": "toiletry",
+        "image": "assets/icons/core_vocab_places/toiletry.png"
+      },
+      {
+        "word": "stretcher",
+        "image": "assets/icons/core_vocab_places/stretcher.png"
+      },
+      {
+        "word": "surgical",
+        "image": "assets/icons/core_vocab_places/surgical.png"
+      },
+      {
+        "word": "thermometer",
+        "image": "assets/icons/core_vocab_places/thermometer.png"
+      },
+      {
+        "word": "medical",
+        "image": "assets/icons/core_vocab_places/medical.png"
+      },
+      {
+        "word": "medicines",
+        "image": "assets/icons/core_vocab_places/medicines.png"
+      },
+      {
+        "word": "menstruation",
+        "image": "assets/icons/core_vocab_places/menstruation.png"
+      },
+      {
+        "word": "pharmacy",
+        "image": "assets/icons/core_vocab_places/pharmacy.png"
+      },
+      {
+        "word": "physiotherapist",
+        "image": "assets/icons/core_vocab_places/physiotherapist.png"
+      }
+    ]
+  },
+  {
+    "category": "misc_other",
+    "image": "assets/icons/core_vocab_places/file.png",
+    "items": [
+       {
+        "word": "below",
+        "image": "assets/icons/core_vocab_places/below.png"
+      },
+      {
+        "word": "between",
+        "image": "assets/icons/core_vocab_places/between.png"
+      },
+      {
+        "word": "blackboard",
+        "image": "assets/icons/core_vocab_places/blackboard.png"
+      },
+      {
+        "word": "blood",
+        "image": "assets/icons/core_vocab_places/blood.png"
+      },
+      {
+        "word": "bon",
+        "image": "assets/icons/core_vocab_places/bon.png"
+      },
+      {
+        "word": "curled",
+        "image": "assets/icons/core_vocab_places/curled.png"
+      },
+      {
+        "word": "deodorant",
+        "image": "assets/icons/core_vocab_places/deodorant.png"
+      },
+      {
+        "word": "diary",
+        "image": "assets/icons/core_vocab_places/diary.png"
+      },
+      {
+        "word": "dots",
+        "image": "assets/icons/core_vocab_places/dots.png"
+      },
+      {
+        "word": "drawing",
+        "image": "assets/icons/core_vocab_places/drawing.png"
+      },
+      {
+        "word": "expression",
+        "image": "assets/icons/core_vocab_places/expression.png"
+      },
+      {
+        "word": "farm",
+        "image": "assets/icons/core_vocab_places/farm.png"
+      },
+      {
+        "word": "file",
+        "image": "assets/icons/core_vocab_places/file.png"
+      },
+      {
+        "word": "good_morning_6944",
+        "image": "assets/icons/core_vocab_places/good_morning_6944.png"
+      },
+      {
+        "word": "hairdressing",
+        "image": "assets/icons/core_vocab_places/hairdressing.png"
+      },
+      {
+        "word": "homework",
+        "image": "assets/icons/core_vocab_places/homework.png"
+      },
+      {
+        "word": "inside",
+        "image": "assets/icons/core_vocab_places/inside.png"
+      },
+      {
+        "word": "kitchen_sink",
+        "image": "assets/icons/core_vocab_places/kitchen_sink.png"
+      },
+      {
+        "word": "left",
+        "image": "assets/icons/core_vocab_places/left.png"
+      },
+      {
+        "word": "lift",
+        "image": "assets/icons/core_vocab_places/lift.png"
+      },
+      {
+        "word": "living",
+        "image": "assets/icons/core_vocab_places/living.png"
+      },
+      {
+        "word": "marriage",
+        "image": "assets/icons/core_vocab_places/marriage.png"
+      },
+      {
+        "word": "marriage_34207",
+        "image": "assets/icons/core_vocab_places/marriage_34207.png"
+      },
+      {
+        "word": "marriage_37362",
+        "image": "assets/icons/core_vocab_places/marriage_37362.png"
+      },
+      {
+        "word": "maths",
+        "image": "assets/icons/core_vocab_places/maths.png"
+      },
+      {
+        "word": "not",
+        "image": "assets/icons/core_vocab_places/not.png"
+      },
+      {
+        "word": "outside",
+        "image": "assets/icons/core_vocab_places/outside.png"
+      },
+      {
+        "word": "ramp",
+        "image": "assets/icons/core_vocab_places/ramp.png"
+      },
+      {
+        "word": "ring",
+        "image": "assets/icons/core_vocab_places/ring.png"
+      },
+      {
+        "word": "russian",
+        "image": "assets/icons/core_vocab_places/russian.png"
+      },
+      {
+        "word": "saint",
+        "image": "assets/icons/core_vocab_places/saint.png"
+      },
+      {
+        "word": "scissors",
+        "image": "assets/icons/core_vocab_places/scissors.png"
+      },
+      {
+        "word": "shampoo",
+        "image": "assets/icons/core_vocab_places/shampoo.png"
+      },
+      {
+        "word": "trunk",
+        "image": "assets/icons/core_vocab_places/trunk.png"
+      },
+      {
+        "word": "under",
+        "image": "assets/icons/core_vocab_places/under.png"
+      },
+      {
+        "word": "vampire",
+        "image": "assets/icons/core_vocab_places/vampire.png"
+      },
+      {
+        "word": "with",
+        "image": "assets/icons/core_vocab_places/with.png"
+      },
+      {
+        "word": "tiger",
+        "image": "assets/icons/core_vocab_places/tiger.png"
+      },
+      {
+        "word": "towel",
+        "image": "assets/icons/core_vocab_places/towel.png"
+      },
+      {
+        "word": "hard",
+        "image": "assets/icons/core_vocab_places/hard.png"
+      },
+      {
+        "word": "high",
+        "image": "assets/icons/core_vocab_places/high.png"
+      },
+      {
+        "word": "large",
+        "image": "assets/icons/core_vocab_places/large.png"
+      },
+      {
+        "word": "less",
+        "image": "assets/icons/core_vocab_places/less.png"
+      },
+      {
+        "word": "long",
+        "image": "assets/icons/core_vocab_places/long.png"
+      },
+      {
+        "word": "many",
+        "image": "assets/icons/core_vocab_places/many.png"
+      },
+      {
+        "word": "medium",
+        "image": "assets/icons/core_vocab_places/medium.png"
+      },
+      {
+        "word": "more",
+        "image": "assets/icons/core_vocab_places/more.png"
+      },
+      {
+        "word": "next",
+        "image": "assets/icons/core_vocab_places/next.png"
+      },
+      {
+        "word": "odd",
+        "image": "assets/icons/core_vocab_places/odd.png"
+      },
+      {
+        "word": "old",
+        "image": "assets/icons/core_vocab_places/old.png"
+      },
+      {
+        "word": "pretty",
+        "image": "assets/icons/core_vocab_places/pretty.png"
+      },
+      {
+        "word": "slim",
+        "image": "assets/icons/core_vocab_places/slim.png"
+      },
+      {
+        "word": "slow",
+        "image": "assets/icons/core_vocab_places/slow.png"
+      },
+      {
+        "word": "small",
+        "image": "assets/icons/core_vocab_places/small.png"
+      },
+      {
+        "word": "tall",
+        "image": "assets/icons/core_vocab_places/tall.png"
+      },
+      {
+        "word": "uneven",
+        "image": "assets/icons/core_vocab_places/uneven.png"
+      },
+      {
+        "word": "younger_than",
+        "image": "assets/icons/core_vocab_places/younger_than.png"
+      }
+    ]
+  }
+]

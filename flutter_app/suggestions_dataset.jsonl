@@ -1,0 +1,942 @@
+{"input": "suggest next:My", "target": "name, friend, mom, dad, book, bag, phone, house, car, school, teacher, brother, sister, dog, cat, favorite, family, job, work, class, room"}
+{"input": "suggest next:Your", "target": "name, friend, mom, dad, book, bag, phone, house, car, school, teacher, brother, sister, dog, cat, favorite, family, job, work, class, room"}
+{"input": "suggest next:His", "target": "name, friend, mom, dad, book, bag, phone, house, car, school, teacher, brother, sister, dog, cat, favorite, family, job, work, class, room"}
+{"input": "suggest next:Her", "target": "name, friend, mom, dad, book, bag, phone, house, car, school, teacher, brother, sister, dog, cat, favorite, family, job, work, class, room"}
+{"input": "suggest next:Their", "target": "name, friend, mom, dad, book, bag, phone, house, car, school, teacher, brother, sister, dog, cat, favorite, family, job, work, class, room"}
+{"input": "suggest next:Our", "target": "name, friend, mom, dad, book, bag, phone, house, car, school, teacher, brother, sister, dog, cat, favorite, family, job, work, class, room"}
+{"input": "suggest next:This", "target": "is, was, will, can, should, could, book, bag, phone, house, car, school, teacher, dog, cat, story, idea, place, time, way, reason"}
+{"input": "suggest next:That", "target": "is, was, will, can, should, could, book, bag, phone, house, car, school, teacher, dog, cat, story, idea, place, time, way, reason"}
+{"input": "suggest next:These", "target": "are, were, will, can, should, could, books, bags, phones, houses, cars, schools, teachers, dogs, cats, stories, ideas, places, times, ways, reasons"}
+{"input": "suggest next:Those", "target": "are, were, will, can, should, could, books, bags, phones, houses, cars, schools, teachers, dogs, cats, stories, ideas, places, times, ways, reasons"}
+{"input": "suggest next:Yes", "target": "please, sure, of, course, definitely, absolutely, now, okay, go, ahead, ready, let's, do, this, we, can, move, forward, that's, right"}
+{"input": "suggest next:No", "target": "thanks, never, not, really, way, time, problem, need, want, help, sorry, maybe, don't, can't, won't, sure, go, come, talk, wait"}
+{"input": "suggest next:Hello", "target": "there, again, friend, to, all, how, are, you, today, good, morning, afternoon, evening, it's, nice, seeing, everyone, and, welcome"}
+{"input": "suggest next:Hi", "target": "again, buddy, how, are, you, friend, everyone, there, good, morning, to, all, nice, to, meet, you, greetings, hello, welcome"}
+{"input": "suggest next:Bye", "target": "now, take, care, see, you, soon, later, good, night, everyone, my, friend, for, now, all, until, next, time, stay, safe"}
+{"input": "suggest next:Thanks", "target": "a, lot, so, much, again, for, your, help, support, kindness, advice, message, visit, gift, care, time, call, answer, patience, love"}
+{"input": "suggest next:Thank", "target": "you, again, so, much, for, help, support, everything, coming, listening, advice, your, time, patience, kindness"}
+{"input": "suggest next:Please", "target": "help, come, wait, stop, sit, stand, listen, read, eat, play, call, answer, open, close, bring, take, give, show, tell, write, draw"}
+{"input": "suggest next:I", "target": "am, want, need, feel, like, can, will, should, have, love, hate, see, hear, go, eat, sleep, play, read, help, call, run"}
+{"input": "suggest next:Good", "target": "job, luck, idea, try, morning, afternoon, evening, night, work, one, to, you"}
+{"input": "suggest next:How", "target": "are, you, is, it, was, your, day, do, I, help, can, things"}
+{"input": "suggest next:It is", "target": "fine, great, cold, hot, raining, sunny, time, okay, early, late"}
+{"input": "suggest next:I think", "target": "so, it's, okay, wrong, you, can, we, should, this, will, help"}
+{"input": "suggest next:I need to", "target": "go, eat, read, write, rest, help, call, sleep, cook, clean, finish"}
+{"input": "suggest next:Please bring", "target": "water, snacks, the, keys, book, bag, shoes, pen, phone, food"}
+{"input": "suggest next:Let's clean", "target": "up, now, later, quickly, the, room, table, house, together, everything"}
+{"input": "suggest next:That's", "target": "fine, okay, great, wrong, true, right, funny, amazing, enough, good"}
+{"input": "suggest next:The weather is", "target": "hot, cold, sunny, rainy, windy, cloudy, nice, cool, perfect, foggy"}
+{"input": "suggest next:Take your", "target": "medicine, water, food, bag, break, rest, clothes, shoes, vitamins, phone"}
+{"input": "suggest next:It is", "target": "sunny, snowing, late, early, your, turn, a, good, day, okay, dark"}
+{"input": "suggest next:Turn on the", "target": "light, fan, heater, TV, music, AC, switch, phone, computer, lamp"}
+{"input": "suggest next:Turn off the", "target": "fan, light, music, TV, phone, AC, computer, heater, switch, alarm"}
+{"input": "suggest next:Open your", "target": "book, phone, email, eyes, app, hands, laptop, browser, bag, folder"}
+{"input": "suggest next:Could you", "target": "please, help, me, bring, that, open, close, say, again, wait, come"}
+{"input": "suggest next:Would you", "target": "like, help, come, join, say, wait, eat, drink, open, try, stop"}
+{"input": "suggest next:Excuse me", "target": "please, can, you, help, wait, sorry, I, have, a, question"}
+{"input": "suggest next:Charge the", "target": "phone, battery, laptop, tablet, device, watch, speaker, light"}
+{"input": "suggest next:You should", "target": "rest, sleep, drink, eat, stop, calm, down, help, talk, wait, try"}
+{"input": "suggest next:You", "target": "are, can, should, will, have, need, want, like, love, see, go, read"}
+{"input": "suggest next:We", "target": "play, eat, sleep, walk, read, talk, cook, rest, learn, enjoy, share, clean"}
+{"input": "suggest next:They", "target": "run, jump, play, read, dance, help, eat, sleep, sing, build, write, swim"}
+{"input": "suggest next:Yes", "target": "please, thanks, now, again, this, idea, way, turn, time, moment, choice, day"}
+{"input": "suggest next:Hello", "target": "friend, everyone, there, buddy, you, all, again, team, group, class, guest, child"}
+{"input": "suggest next:Thanks", "target": "again, friend, teacher, team, all, support, care, help, message, call, gift, visit"}
+{"input": "suggest next:Sorry", "target": "delay, mistake, trouble, wait, mess, noise, answer, problem, issue, confusion, rush"}
+{"input": "suggest next:Okay", "target": "then, sure, now, good, idea, plan, spot, place, one, deal, thing, moment"}
+{"input": "suggest next:Stop", "target": "noise, crying, talking, shouting, jumping, running, game, fight, music, mess, call"}
+{"input": "suggest next:Wait", "target": "minute, turn, time, signal, bus, moment, answer, help, food, here, outside, line"}
+{"input": "suggest next:Go", "target": "home, outside, upstairs, away, forward, ahead, today, inside, there, again, quickly"}
+{"input": "suggest next:Come", "target": "here, inside, back, again, quickly, closer, with, along, together, now, soon"}
+{"input": "suggest next:Eat", "target": "rice, fruits, lunch, dinner, snacks, cake, bread, vegetables, breakfast, soup"}
+{"input": "suggest next:Drink", "target": "water, juice, tea, coffee, smoothie, milk, soup, cola, shake, medicine"}
+{"input": "suggest next:Play", "target": "games, cards, cricket, ball, music, piano, puzzle, chess, song, story"}
+{"input": "suggest next:Read", "target": "book, story, note, magazine, label, page, message, sign, answer, question"}
+{"input": "suggest next:Help", "target": "friend, teacher, parent, team, yourself, others, child, neighbor, group, guest"}
+{"input": "suggest next:Call", "target": "doctor, mom, dad, friend, team, office, number, teacher, police, service"}
+{"input": "suggest next:Run", "target": "race, track, home, outside, school, field, stairs, road, fast, errand"}
+{"input": "suggest next:Sleep", "target": "early, late, well, now, again, alone, here, inside, upstairs, peacefully"}
+{"input": "suggest next:Sit", "target": "chair, mat, floor, here, beside, table, bench, quietly, comfortably"}
+{"input": "suggest next:Stand", "target": "line, side, outside, corner, tall, there, together, quietly, beside, front"}
+{"input": "suggest next:He", "target": "teacher, student, brother, boy, uncle, neighbor, player, artist, cook, friend"}
+{"input": "suggest next:She", "target": "teacher, girl, sister, friend, mom, singer, dancer, doctor, aunt, artist"}
+{"input": "suggest next:It", "target": "book, idea, toy, plan, bag, phone, gift, story, issue, thing"}
+{"input": "suggest next:Help", "target": "me, others, friend, teacher, team, child, neighbor, group, guest, yourself"}
+{"input": "suggest next:Call", "target": "mom, dad, friend, doctor, teacher, police, office, service, home, number"}
+{"input": "suggest next:Run", "target": "race, home, outside, inside, playground, track, stairs, quickly, road, alone"}
+{"input": "suggest next:Sleep", "target": "early, late, now, quietly, again, soundly, well, more, less, peacefully"}
+{"input": "suggest next:Sit", "target": "chair, mat, floor, table, here, corner, beside, quietly, comfortably, alone"}
+{"input": "suggest next:Stand", "target": "line, side, corner, front, back, tall, beside, quietly, proudly, carefully"}
+{"input": "suggest next:Where are you", "target": "going, hiding, working, staying, waiting, walking, standing, sitting, moving, looking"}
+{"input": "suggest next:How are you", "target": "doing, feeling, today, now, morning, evening, inside, outside, emotionally, better"}
+{"input": "suggest next:Why are you", "target": "here, late, sad, happy, angry, quiet, upset, worried, crying, laughing"}
+{"input": "suggest next:When will you", "target": "come, go, leave, call, return, arrive, finish, start, reply, write"}
+{"input": "suggest next:Can you help me", "target": "now, please, today, this, that, someone, quickly, quietly, here, there"}
+{"input": "suggest next:Do you know", "target": "answer, name, way, place, person, time, question, story, meaning, reason"}
+{"input": "suggest next:Will you", "target": "help, join, stay, wait, come, share, bring, talk, write, read"}
+{"input": "suggest next:Could you", "target": "help, wait, open, explain, repeat, show, write, carry, answer, bring"}
+{"input": "suggest next:Should I", "target": "go, stay, eat, sleep, help, write, call, wait, draw, play"}
+{"input": "suggest next:Would you like", "target": "tea, food, help, rest, fun, play, music, story, break, walk"}
+{"input": "suggest next:Please open", "target": "door, window, book, eyes, bag, hand, mouth, box, page, drawer"}
+{"input": "suggest next:Please close", "target": "door, window, book, eyes, bag, mouth, box, drawer, app, folder"}
+{"input": "suggest next:Tell me", "target": "truth, name, story, answer, reason, idea, plan, problem, secret, way"}
+{"input": "suggest next:Could you", "target": "repeat, explain, draw, write, wait, carry, read, show, hold, find"}
+{"input": "suggest next:Shall we", "target": "go, start, eat, read, rest, draw, walk, sing, play, dance"}
+{"input": "suggest next:Show me", "target": "way, answer, book, phone, picture, drawing, room, hand, photo, face"}
+{"input": "suggest next:Give me", "target": "book, pen, toy, bag, food, help, paper, phone, water, idea"}
+{"input": "suggest next:Bring the", "target": "book, pen, chair, toy, food, water, phone, paper, bag, light"}
+{"input": "suggest next:Look at the", "target": "sky, board, book, toy, dog, cat, screen, light, bird, tree"}
+{"input": "suggest next:Go to", "target": "school, bed, park, store, kitchen, meeting, bathroom, garden, doctor, library"}
+{"input": "suggest next:Come here", "target": "please, now, quickly, slowly, minute, help, food, water, talk, hug"}
+{"input": "suggest next:Sit down", "target": "here, now, please, chair, floor, beside, next, quietly, carefully, comfortably"}
+{"input": "suggest next:Stand up", "target": "now, please, quickly, slowly, straight, tall, proud, together, again, carefully"}
+{"input": "suggest next:Wait for", "target": "me, minute, turn, bus, train, answer, call, signal, food, doctor"}
+{"input": "suggest next:Answer", "target": "question, phone, door, call, email, message, bell, teacher, boss, child"}
+{"input": "suggest next:Call", "target": "doctor, police, family, friend, teacher, boss, taxi, store, office, school"}
+{"input": "suggest next:Ask for", "target": "help, water, food, time, money, permission, advice, directions, forgiveness, information"}
+{"input": "suggest next:Look at", "target": "me, board, book, sky, stars, answer, picture, clock, phone, teacher"}
+{"input": "suggest next:Listen to", "target": "me, teacher, music, story, answer, news, radio, birds, rain, wind"}
+{"input": "suggest next:Read", "target": "book, question, answer, story, instructions, sign, menu, message, letter, news"}
+{"input": "suggest next:Write your", "target": "name, answer, story, message, letter, email, number, address, opinion, idea"}
+{"input": "suggest next:Draw a", "target": "picture, line, circle, square, house, tree, car, face, animal, map"}
+{"input": "suggest next:Eat your", "target": "food, breakfast, lunch, dinner, snack, vegetables, fruit, meal, cake, soup"}
+{"input": "suggest next:Drink your", "target": "water, milk, juice, tea, coffee, soup, medicine, smoothie, shake, drink"}
+{"input": "suggest next:Open your", "target": "book, eyes, mind, heart, bag, hand, mouth, computer, phone, window"}
+{"input": "suggest next:Close your", "target": "book, eyes, mind, heart, bag, hand, mouth, computer, phone, window"}
+{"input": "suggest next:Turn on", "target": "light, TV, radio, computer, phone, fan, AC, heater, music, alarm"}
+{"input": "suggest next:Turn off", "target": "light, TV, radio, computer, phone, fan, AC, heater, music, alarm"}
+{"input": "suggest next:Start", "target": "car, computer, TV, work, meeting, game, music, engine, fire, conversation"}
+{"input": "suggest next:Stop", "target": "car, music, noise, rain, pain, bleeding, fire, fight, work, talking"}
+{"input": "suggest next:I will", "target": "go, come, help, wait, call, eat, sleep, try, read, play"}
+{"input": "suggest next:I should", "target": "go, stay, help, work, study, eat, sleep, call, buy, clean"}
+{"input": "suggest next:I would like", "target": "water, help, sit, rest, eat, read, go, sleep, talk, play"}
+{"input": "suggest next:I hope to", "target": "see, help, win, play, eat, sleep, read, go, learn, finish"}
+{"input": "suggest next:I plan to", "target": "go, eat, sleep, work, read, help, play, call, rest, study"}
+{"input": "suggest next:I forgot to", "target": "eat, call, help, read, play, sleep, go, bring, buy, tell"}
+{"input": "suggest next:I remember to", "target": "eat, call, help, read, play, sleep, go, bring, buy, tell"}
+{"input": "suggest next:I promise to", "target": "help, call, eat, read, play, sleep, go, bring, buy, tell"}
+{"input": "suggest next:Can we", "target": "go, play, eat, sleep, read, help, talk, run, walk, try"}
+{"input": "suggest next:Shall we", "target": "go, play, eat, sleep, read, help, talk, run, walk, try"}
+{"input": "suggest next:Let's try to", "target": "help, eat, sleep, read, play, go, call, rest, run, talk"}
+{"input": "suggest next:Do you want to", "target": "eat, sleep, play, go, read, help, call, rest, run, talk"}
+{"input": "suggest next:Please don't", "target": "run, shout, cry, fight, go, jump, leave, touch, take"}
+{"input": "suggest next:Try to", "target": "help, wait, read, eat, go, stop, listen, play, sit"}
+{"input": "suggest next:Start to", "target": "read, eat, go, help, talk, run, write, play, sleep"}
+{"input": "suggest next:Don’t forget to", "target": "call, eat, drink, sleep, read, go, help, bring, write"}
+{"input": "suggest next:Do not", "target": "go, shout, hit, touch, take, run, jump, fight, cry"}
+{"input": "suggest next:In the park", "target": "run, play, walk, sit, talk, eat, swing, rest, go"}
+{"input": "suggest next:On the road", "target": "car, bus, bike, walk, go, wait, stop, move, cross"}
+{"input": "suggest next:In the sky", "target": "sun, moon, stars, clouds, bird, plane, light, rain, rainbow"}
+{"input": "suggest next:Mine is", "target": "blue, big, small, here, good, old, new, better, gone"}
+{"input": "suggest next:Yours is", "target": "nice, red, here, better, small, big, fine, ready, cool"}
+{"input": "suggest next:Time to", "target": "study, learn, read, eat, play, go, help, rest, stop"}
+{"input": "suggest next:Let's do", "target": "math, reading, writing, drawing, homework, project, work, fun, cleaning"}
+{"input": "suggest next:Please write", "target": "name, answer, slowly, quickly, clearly, now, here, again, more"}
+{"input": "suggest next:Read the", "target": "book, question, answer, story, page, line, word, instruction, note"}
+{"input": "suggest next:Answer the", "target": "question, call, message, door, teacher, friend, test, bell, paper"}
+{"input": "suggest next:Hers is", "target": "good, ready, clean, new, here, fine, gone, blue, loud"}
+{"input": "suggest next:Theirs is", "target": "there, better, clean, messy, old, here, loud, nice, fun"}
+{"input": "suggest next:Ours is", "target": "big, new, done, fine, better, ready, messy, here, clean"}
+{"input": "suggest next:By the river", "target": "fish, water, rock, boat, walk, sit, run, swim, play"}
+{"input": "suggest next:On the tree", "target": "leaf, bird, branch, monkey, nest, fruit, squirrel, flower, swing"}
+{"input": "suggest next:Would you like to", "target": "eat, sleep, play, go, read, help, call, rest, run, speak"}
+{"input": "suggest next:Are you going to", "target": "eat, sleep, play, go, read, help, call, rest, run, speak"}
+{"input": "suggest next:He is", "target": "coming, going, eating, sleeping, reading, playing, helping, calling, running, speaking"}
+{"input": "suggest next:She is", "target": "coming, going, eating, sleeping, reading, playing, helping, calling, running, speaking"}
+{"input": "suggest next:They are", "target": "coming, going, eating, sleeping, reading, playing, helping, calling, running, speaking"}
+{"input": "suggest next:We are", "target": "coming, going, eating, sleeping, reading, playing, helping, calling, running, speaking"}
+{"input": "suggest next:You are", "target": "coming, going, eating, sleeping, reading, playing, helping, calling, running, speaking"}
+{"input": "suggest next:It is", "target": "raining, sunny, cold, hot, ready, time, late, early, possible, important"}
+{"input": "suggest next:This is", "target": "fun, important, good, bad, easy, hard, interesting, boring, helpful, true"}
+{"input": "suggest next:That is", "target": "funny, sad, scary, nice, true, false, important, good, bad, helpful"}
+{"input": "suggest next:There is", "target": "food, water, problem, solution, way, chance, reason, book, cat, dog"}
+{"input": "suggest next:Here is", "target": "book, food, water, friend, answer, phone, bag, key, pen, toy"}
+{"input": "suggest next:My favorite", "target": "food, color, book, game, song, movie, place, animal, friend, subject"}
+{"input": "suggest next:They seem", "target": "angry, tired, lost, happy, busy, ready, confused, fine, sad"}
+{"input": "suggest next:She feels", "target": "happy, cold, sick, better, tired, sad, fine, angry, sleepy"}
+{"input": "suggest next:The best", "target": "way, time, place, food, book, game, song, movie, friend, subject"}
+{"input": "suggest next:The worst", "target": "way, time, place, food, book, game, song, movie, friend, subject"}
+{"input": "suggest next:I wish to", "target": "go, eat, sleep, play, read, help, call, rest, run, speak"}
+{"input": "suggest next:I wish I could", "target": "go, eat, sleep, play, read, help, call, rest, run, speak"}
+{"input": "suggest next:I want", "target": "water, food, go, sleep, play, eat, read, rest, help, speak"}
+{"input": "suggest next:I feel", "target": "happy, sad, tired, sick, hungry, excited, scared, fine, okay, sleepy"}
+{"input": "suggest next:I need", "target": "help, water, food, sleep, go, eat, rest, speak, play, read"}
+{"input":"suggest next:I like","target":"games, food, music, books, draw, sing, dance"}
+{"input":"suggest next:I see","target":"you, cat, sun, book, dog, bird, car, friend, sky, tree"}
+{"input":"suggest next:I hear","target":"music, noise, someone, bell, phone, rain, wind, sound, voice"}
+{"input":"suggest next:I love","target":"you, dog, mom, dad, family, friend, play, read, eat"}
+{"input":"suggest next:I like","target":"pizza, books, music, dancing, reading, this, that, it, you, helping, going"}
+{"input":"suggest next:I don't like","target":"noise, waiting, late, cold, alone, vegetables, music, this, that"}
+{"input":"suggest next:That's so","target":"funny, cool, interesting, sad, true, weird, nice, wrong, good, important"}
+{"input":"suggest next:I hate","target":"this, sick, noise, waiting, go, eat, sleep, run"}
+{"input":"suggest next:I can","target":"help, go, try, play, read, eat, sleep, run, jump, speak"}
+{"input":"suggest next:I don't","target":"know, like, want, understand, remember, care, need, think, believe"}
+{"input":"suggest next:I don't want","target":"this, go, eat, sleep, play, wait, read, run, help"}
+{"input":"suggest next:I want to","target":"play, eat, sleep, go, read, draw, help, speak, run, rest"}
+{"input":"suggest next:I like to","target":"play, draw, read, eat, sing, dance, run, jump, help"}
+{"input":"suggest next:I have to","target":"go, eat, sleep, call, read, help, play, wait, run"}
+{"input":"suggest next:Who is","target":"that, he, she, this, here, running, helping"}
+{"input":"suggest next:Who are","target":"you, they, we, children, teachers, guests, players"}
+{"input":"suggest next:Where is","target":"mom, dad, toy, bathroom, book, bag, friend, cat, dog, phone"}
+{"input":"suggest next:Can you","target":"help, see, hear, come, open, close, bring, call"}
+{"input":"suggest next:Can I","target":"go, help, see, take, eat, play, read, sleep, try"}
+{"input":"suggest next:Let's","target":"go, play, eat, watch, run, read, draw, sing, dance, help"}
+{"input":"suggest next:Let's go","target":"out, play, now, together, home, eat, sleep, read"}
+{"input":"suggest next:Please","target":"help, come, wait, stop, sit, stand, listen, read, eat, play"}
+{"input":"suggest next:Help me","target":"please, now, up, find, do, read, open, close, carry"}
+{"input":"suggest next:I like to","target":"play, draw, read, eat"}
+{"input":"suggest next:I love","target":"you, dog, mom"}
+{"input":"suggest next:I hate","target":"this, sick, noise, waiting"}
+{"input":"suggest next:You should","target":"rest, eat, stop, listen"}
+{"input":"suggest next:We can","target":"go, play, help, win"}
+{"input":"suggest next:Time to","target":"eat, sleep, read, play, go, help, call, run, sit, stand"}
+{"input": "suggest next: Do not", "target": "touch, go, shout, worry"}
+{"input": "suggest next: Thank you", "target": "again, all, very"}
+{"input": "suggest next: I’m", "target": "okay, tired, happy, fine"}
+{"input": "suggest next: I’m not", "target": "okay, hungry, ready, feeling good"}
+{"input": "suggest next: Who is", "target": "she, he, that, calling"}
+{"input": "suggest next: Why are", "target": "you sad, we here, they gone, you mad"}
+{"input": "suggest next: May I", "target": "come, eat, try, go"}
+{"input": "suggest next: I cannot", "target": "do it, hear, see, go"}
+{"input": "suggest next: It’s time", "target": "to go, to eat, bed, now"}
+{"input": "suggest next: Just", "target": "do it, wait, relax, try"}
+{"input": "suggest next: Stop", "target": "now, please, talking, running"}
+{"input": "suggest next: I forgot", "target": "this, your name, to eat, to go"}
+{"input": "suggest next: I hear", "target": "you, music, a noise, someone"}
+{"input": "suggest next: I see", "target": "dog, sun, car, book"}
+{"input": "suggest next: I found", "target": "it, my book, a toy, something"}
+{"input": "suggest next: Are you", "target": "okay, ready, coming, there"}
+{"input": "suggest next: I think", "target": "it's fine, we can, it's okay"}
+{"input": "suggest next: Be", "target": "careful, nice, quiet, ready"}
+{"input": "suggest next: Why do", "target": "you cry, we care, they run, we try"}
+{"input": "suggest next: Who is", "target": "that, she, your friend, calling"}
+{"input": "suggest next: When will", "target": "you come, we leave, it start, I eat"}
+{"input": "suggest next: Where are", "target": "you, we going, they, my shoes"}
+{"input": "suggest next: How do", "target": "you feel, I look, we fix, they play"}
+{"input": "suggest next: Are you", "target": "okay, ready, tired, there"}
+{"input": "suggest next: Can I", "target": "go, help, eat, come with you"}
+{"input": "suggest next: Could you", "target": "help me, wait, open this, tell me"}
+{"input": "suggest next: Did you", "target": "see that, eat, go, hear it"}
+{"input": "suggest next: Please", "target": "stop, come, help, wait"}
+{"input": "suggest next: Help me", "target": "please, now, get up, find it"}
+{"input": "suggest next: Give me", "target": "that, water, book, space"}
+{"input": "suggest next: Bring me", "target": "food, my bag, that, water"}
+{"input": "suggest next: Take", "target": "this, it, your time, a break"}
+{"input": "suggest next: Go", "target": "ahead, away, now, play"}
+{"input": "suggest next: Stop", "target": "talking, that, now, moving"}
+{"input": "suggest next: Wait", "target": "a minute, outside"}
+{"input": "suggest next: Try to", "target": "relax, smile, sleep, focus"}
+{"input": "suggest next: Don’t", "target": "cry, move, touch"}
+{"input": "suggest next: You are", "target": "amazing, kind, annoying, fun"}
+{"input": "suggest next: That is", "target": "funny, sad, scary, nice"}
+{"input": "suggest next: I’m feeling", "target": "good, bad, sleepy, anxious"}
+{"input": "suggest next: It makes me", "target": "happy, cry, smile, laugh"}
+{"input": "suggest next: I don’t feel", "target": "well, good, safe, ready"}
+{"input": "suggest next: This feels", "target": "weird, great, wrong, okay"}
+{"input": "suggest next: I love", "target": "you, this, music, dog"}
+{"input": "suggest next: I hate", "target": "this, waiting, noise, being"}
+{"input": "suggest next: I need", "target": "help, water, food, rest"}
+{"input": "suggest next: I want", "target": "snack, sleep, go, read"}
+{"input": "suggest next: I have", "target": "go, eat, sleep, call"}
+{"input": "suggest next: Can you", "target": "get, help, come, open"}
+{"input": "suggest next: Please give me", "target": "food, water, toy, phone"}
+{"input": "suggest next: Open your", "target": "book, notebook, eyes, mind, ears, bag, folder, laptop, browser"}
+{"input": "suggest next: Write", "target": "name, answer, neatly, date, notebook, sentence, down, slowly, carefully"}
+{"input": "suggest next: Read", "target": "question, sentence, story, loud, quietly, together, now, this"}
+{"input": "suggest next: I need", "target": "go, stop, eat, lie"}
+{"input": "suggest next: I want", "target": "water, food, rest, play, sleep, help, talk, out, toy, break, hug"}
+{"input": "suggest next: I don't want", "target": "go, sleep, eat, talk, wait, work, this, that, help, more"}
+{"input": "suggest next: I prefer", "target": "this, that, tea, coffee, morning, night, alone, quiet, reading, staying"}
+{"input": "suggest next: I don’t want", "target": "eat, sleep, wait, talk"}
+{"input": "suggest next: May I have", "target": "this, water, break, food"}
+{"input": "suggest next: I would like", "target": "juice, play, sit, help"}
+{"input": "suggest next: Time", "target": "eat, go, sleep, study"}
+{"input": "suggest next: I wake up", "target": "early, late, happy, tired"}
+{"input": "suggest next: After breakfast", "target": "go, rest, play, read"}
+{"input": "suggest next: I brush my", "target": "teeth, hair, hands, shoes"}
+{"input": "suggest next: Let’s go", "target": "outside, home, bed, school"}
+{"input": "suggest next: I go", "target": "school, sleep, eat, play"}
+{"input": "suggest next: Before bed", "target": "brush, read, change, pray"}
+{"input": "suggest next: I take a", "target": "shower, nap, walk, break"}
+{"input": "suggest next: I get", "target": "ready, dressed, tired, early"}
+{"input": "suggest next: It is time to", "target": "eat, leave, sleep, start"}
+{"input": "suggest next:suggest next:I want", "target": "water, food, coffee, tea, rest, sleep, help, money, time, peace"}
+{"input": "suggest next:I need", "target": "water, food, help, money, time, rest, sleep, medicine, clothes, work"}
+{"input": "suggest next:Can you", "target": "help, come, go, stay, wait, call, text, drive, cook, clean"}
+{"input": "suggest next:Let's go", "target": "home, outside, shopping, eating, walking, running, swimming, dancing, playing, working"}
+{"input": "suggest next:I have", "target": "money, time, food, water, car, phone, work, family, friends, house"}
+{"input": "suggest next:Where is", "target": "home, work, school, hospital, store, restaurant, park, bank, library, station"}
+{"input": "suggest next:How much", "target": "money, time, water, food, sugar, salt, oil, rice, bread, milk"}
+{"input": "suggest next:How many", "target": "people, children, days, hours, minutes, books, cars, houses, phones, bottles"}
+{"input": "suggest next:I like", "target": "food, music, movies, books, sports, games, travel, nature, animals, art"}
+{"input": "suggest next:I don't", "target": "know, understand, have, want, like, need, care, remember, think, believe"}
+{"input": "suggest next:Please give", "target": "me, boy, girl, us, them, water, food, money, time, help"}
+{"input": "suggest next:I will", "target": "go, come, stay, wait, help, work, study, eat, sleep, call"}
+{"input": "suggest next:Can I", "target": "go, come, stay, help, have, get, buy, use, see, talk"}
+{"input": "suggest next:I feel", "target": "happy, sad, tired, sick, hungry, thirsty, cold, hot, good, bad"}
+{"input": "suggest next:Let me", "target": "go, come, stay, help, think, see, try, check, ask, tell"}
+{"input": "suggest next:I should", "target": "go, stay, help, work, study, eat, sleep, call, buy, clean"}
+{"input": "suggest next:We need", "target": "food, water, money, time, help, work, rest, medicine, clothes, house"}
+{"input": "suggest next:Give me", "target": "water, food, money, time, help, phone, book, pen, paper, key"}
+{"input": "suggest next:Let us", "target": "go, play, read, help, eat, sleep, run, start, wait, draw"}
+{"input": "suggest next:We need to", "target": "eat, sleep, help, go, stop, wait, call, read, try, rest"}
+{"input": "suggest next:I'm going", "target": "home, work, school, shopping, eating, walking, running, swimming, sleeping, studying"}
+{"input": "suggest next:Turn on", "target": "light, TV, radio, computer, phone, fan, AC, heater, music, alarm"}
+{"input": "suggest next:Turn off", "target": "light, TV, radio, computer, phone, fan, AC, heater, music, alarm"}
+{"input": "suggest next:Open", "target": "door, window, book, box, bottle, bag, computer, phone, TV, car"}
+{"input": "suggest next:Close", "target": "door, window, book, box, bottle, bag, computer, phone, TV, car"}
+{"input": "suggest next:I'm looking", "target": "for, at, forward, back, up, down, around, inside, outside, everywhere"}
+{"input": "suggest next:Time to", "target": "go, eat, sleep, work, study, play, rest, clean, cook, shower"}
+{"input": "suggest next:I want to", "target": "go, eat, sleep, work, study, play, rest, buy, see, talk"}
+{"input": "suggest next:I need to", "target": "go, eat, sleep, work, study, buy, clean, cook, call, check"}
+{"input": "suggest next:Put it", "target": "here, there, down, up, inside, outside, away, back, on, under"}
+{"input": "suggest next:Take", "target": "book, pen, phone, key, bag, bottle, medicine, food, money, bus"}
+{"input": "suggest next:Bring me", "target": "water, food, phone, book, pen, key, bag, medicine, clothes, money"}
+{"input": "suggest next:Show me", "target": "book, phone, picture, map, way, house, car, clothes, food, money"}
+{"input": "suggest next:Tell me", "target": "story, news, time, price, name, address, phone, age, truth, joke"}
+{"input": "suggest next:Buy some", "target": "food, water, milk, bread, rice, oil, sugar, salt, clothes, medicine"}
+{"input": "suggest next:Cook some", "target": "rice, food, chicken, fish, vegetables, soup, pasta, bread, eggs, meat"}
+{"input": "suggest next:Eat some", "target": "food, rice, bread, fruit, vegetables, meat, chicken, fish, soup, snacks"}
+{"input": "suggest next:Drink some", "target": "water, milk, tea, coffee, juice, soda, beer, wine, soup, medicine"}
+{"input": "suggest next:Clean", "target": "house, room, kitchen, bathroom, car, clothes, dishes, floor, table, windows"}
+{"input": "suggest next:Fix", "target": "car, phone, computer, TV, radio, light, fan, door, window, chair"}
+{"input": "suggest next:Check", "target": "time, weather, news, mail, phone, computer, car, house, work, money"}
+{"input": "suggest next:Call", "target": "doctor, police, family, friend, work, school, hospital, bank, store, taxi"}
+{"input": "suggest next:Go to", "target": "work, school, home, hospital, store, bank, park, restaurant, market, station"}
+{"input": "suggest next:Come to", "target": "home, work, school, hospital, store, park, restaurant, party, meeting, dinner"}
+{"input": "suggest next:Stay at", "target": "home, work, school, hospital, hotel, friend, family, house, office, room"}
+{"input": "suggest next:Wait for", "target": "me, boy, girl, us, them, bus, train, taxi, food, doctor"}
+{"input": "suggest next:Look for", "target": "work, house, car, phone, key, book, food, water, money, friend"}
+{"input": "suggest next:Ask for", "target": "help, money, time, food, water, work, medicine, clothes, direction, permission"}
+{"input": "suggest next:Pay for", "target": "food, water, clothes, medicine, house, car, phone, electricity, gas, rent"}
+{"input": "suggest next:Work at", "target": "home, office, shop, factory, hospital, school, restaurant, bank, market, farm"}
+{"input": "suggest next:Study at", "target": "home, school, library, office, room, table, computer, book, night, morning"}
+{"input": "suggest next:Sleep at", "target": "home, hotel, friend, family, house, room, bed, sofa, floor, night"}
+{"input": "suggest next:Play with", "target": "children, friends, family, toys, games, ball, cards, music, computer, phone"}
+{"input": "suggest next:Talk to", "target": "family, friend, doctor, teacher, children, neighbors, myself, God"}
+{"input": "suggest next:Listen to", "target": "music, news, radio, TV, teacher, doctor, family, friend, birds, rain"}
+{"input": "suggest next:Watch", "target": "TV, movie, news, game, children, time, weather, traffic, birds, sunset"}
+{"input": "suggest next:Read", "target": "book, news, letter, message, sign, menu, map, time, weather, story"}
+{"input": "suggest next:Write a", "target": "letter, message, book, story, note, list, report, email, diary, song"}
+{"input": "suggest next:Send a", "target": "message, letter, email, package, gift, photo, video, document, report, invitation"}
+{"input": "suggest next:Get some", "target": "food, water, money, rest, sleep, help, work, medicine, clothes, air"}
+{"input": "suggest next:Make some", "target": "food, tea, coffee, money, time, friend, noise, trouble, plans, changes"}
+{"input": "suggest next:Have some", "target": "food, water, tea, coffee, rest, fun, time, money, patience, peace"}
+{"input": "suggest next:Use", "target": "phone, computer, car, toilet, kitchen, bathroom, stairs, elevator, door, key"}
+{"input": "suggest next:Find", "target": "key, phone, book, house, car, way, answer, solution, problem, truth"}
+{"input": "suggest next:Keep", "target": "change, secret, door, window, light, phone, book, money, key, promise"}
+{"input": "suggest next:Leave", "target": "house, room, office, car, phone, book, key, money, food, door"}
+{"input": "suggest next:Start", "target": "car, computer, TV, work, meeting, game, music, engine, fire, conversation"}
+{"input": "suggest next:Stop", "target": "car, music, noise, rain, pain, bleeding, fire, fight, work, talking"}
+{"input": "suggest next:Move", "target": "car, chair, table, box, book, phone, house, body, hand, foot"}
+{"input": "suggest next:Hold", "target": "phone, book, baby, hand, bag, key, door, line, breath, position"}
+{"input": "suggest next:Pick up", "target": "phone, book, key, bag, child, garbage, pace, habit, skill, language"}
+{"input": "suggest next:Put down", "target": "phone, book, bag, child, pen, cup, glass, weapon, burden, foot"}
+{"input": "suggest next:Sit down", "target": "here, there, please, now, quietly, comfortably, slowly, carefully, properly, together"}
+{"input": "suggest next:Stand up", "target": "now, please, slowly, carefully, straight, tall, proud, together, again, quickly"}
+{"input": "suggest next:Lie down", "target": "here, there, bed, sofa, floor, grass, sand, quietly, comfortably, slowly"}
+{"input": "suggest next:Wake up", "target": "now, early, late, slowly, quickly, naturally, peacefully, refreshed, tired, happy"}
+{"input": "suggest next:Get up", "target": "now, early, late, slowly, quickly, carefully, please, again, soon, together"}
+{"input": "suggest next:Dress up", "target": "nicely, formally, warmly, properly, quickly, slowly, beautifully, simply, elegantly, casually"}
+{"input": "suggest next:Hurry up", "target": "now, please, quickly, slowly, carefully, together, again, soon, immediately, fast"}
+{"input": "suggest next:Slow down", "target": "please, now, car, eating, working, walking, talking, breathing, carefully, gradually"}
+{"input": "suggest next:Speed up", "target": "car, work, process, computer, internet, walking, running, talking, eating, learning"}
+{"input": "suggest next:Warm up", "target": "food, water, room, house, car, body, voice, engine, relationship, atmosphere"}
+{"input": "suggest next:Cool down", "target": "room, house, car, body, temper, situation, food, water, engine"}
+{"input": "suggest next:Light up", "target": "room, house, candle, cigarette, fire, face, eyes, sky, night, darkness"}
+{"input": "suggest next:Save some", "target": "money, time, food, water, energy, space, trouble, effort, breath, strength"}
+{"input": "suggest next:Spend some", "target": "money, time, effort, energy, vacation, holiday, weekend, evening, morning, afternoon"}
+{"input": "suggest next:Waste some", "target": "time, money, food, water, energy, effort, opportunity, talent, space, resources"}
+{"input": "suggest next:Share some", "target": "food, water, money, time, space, ideas, feelings, stories, experiences, knowledge"}
+{"input": "suggest next:Feed ", "target": "dog, cat, baby, birds, fish, animals, child, family, pet, guests"}
+{"input": "suggest next:After", "target": "school, lunch, work, dinner, that, while, you, me, class, game"}
+{"input": "suggest next:Before", "target": "school, lunch, work, dinner, bedtime, you go, I leave, bell, rain"}
+{"input": "suggest next:At", "target": "home, school, work, park, store, 5pm, night, noon, breakfast, moment"}
+{"input": "suggest next:Paint ", "target": "wall, house, picture, car, room, fence, door, chair, table, sky"}
+{"input": "suggest next:Lock", "target": "door, window, car, house, gate, box, safe, phone, computer, bike"}
+{"input": "suggest next:Answer", "target": "phone, door, question, email, call, message, bell, teacher, child"}
+{"input": "suggest next:Plan", "target": "trip, party, meeting, day, week, lesson, event, menu, project, journey"}
+{"input": "suggest next:Draw ", "target": "picture, line, circle, house, car, tree, face, map, plan, animal"}
+{"input": "suggest next:Build", "target": "house, car, bridge, tower, wall, computer, team, plan, model, robot"}
+{"input": "suggest next:Break", "target": "glass, rule, news, silence, record, habit, ice, door, window, lock"}
+{"input": "suggest next:Catch", "target": "bus, train, ball, thief, cold, fish, attention, eye, opportunity, moment"}
+{"input": "suggest next:Miss", "target": "bus, train, call, chance, opportunity, meeting, point, deadline, class, show"}
+{"input": "suggest next:Win", "target": "game, prize, race, match, award, lottery, contest, heart, trust, respect"}
+{"input": "suggest next:Lose", "target": "game, key, phone, money, chance, opportunity, match, job, way, trust"}
+{"input": "suggest next:Send ", "target": "message, letter, email, package, gift, photo, video, document, report, invitation"}
+{"input": "suggest next:Receive", "target": "message, letter, email, package, gift, call, news, report, invitation, answer"}
+{"input": "suggest next:Forget", "target": "name, date, time, way, key, phone, book, plan, answer, promise"}
+{"input": "suggest next:Remember", "target": "name, date, time, way, key, phone, book, plan, answer, promise"}
+{"input": "suggest next:Change ", "target": "plan, time, date, way, channel, subject, topic, password, clothes, mind"}
+{"input": "suggest next:Choose", "target": "answer, way, time, date, plan, color, book, movie, seat, option"}
+{"input": "suggest next:Join", "target": "team, group, meeting, class, party, club, game, project, event, discussion"}
+{"input": "suggest next:Enjoy some", "target": "food, music, time, peace, fun, rest, vacation, holiday, sunshine, fresh"}
+{"input": "suggest next:Feel some", "target": "pain, joy, sadness, anger, fear, love, hate, peace, stress, relief"}
+{"input": "suggest next:Touch", "target": "wall, door, table, chair, phone, book, hand, face, heart, ground"}
+{"input": "suggest next:Smell", "target": "flowers, food, coffee, perfume, smoke, gas, air, rain, ocean, bread"}
+{"input": "suggest next:Taste", "target": "food, water, wine, beer, medicine, salt, sugar, fruit, vegetables, soup"}
+{"input": "suggest next:Hear", "target": "music, news, sound, voice, phone, doorbell, alarm, rain, wind, birds"}
+{"input": "suggest next:See", "target": "doctor, movie, news, sun, moon, stars, ocean, mountains, trees, flowers"}
+{"input": "suggest next:Remember", "target": "time, date, name, address, phone, password, way, story, lesson, promise"}
+{"input": "suggest next:Forget", "target": "past, problem, pain, mistake, name, address, phone, password"}
+{"input": "suggest next:Learn", "target": "language, skill, lesson, truth, way, rules, facts, story, song, dance"}
+{"input": "suggest next:Teach", "target": "children, students, lesson, skill, language, truth, way, rules, facts, story"}
+{"input": "suggest next:Follow", "target": "rules, instructions, road, map, leader, example, signs, directions, plan, schedule"}
+{"input": "suggest next:Lead", "target": "way, team, group, meeting, project, discussion, dance, song, prayer, ceremony"}
+{"input": "suggest next:Join", "target": "team, group, meeting, party, club, family, community, conversation, dance, game"}
+{"input": "suggest next:Leave", "target": "team, group, meeting, party, club, family, community, conversation, dance, game"}
+{"input": "suggest next:Meet", "target": "family, friend, doctor, teacher, neighbors, requirements, deadline, expectations, challenge"}
+{"input": "suggest next:Avoid", "target": "problem, trouble, danger, risk, mistake, traffic, crowd, noise, heat, cold"}
+{"input": "suggest next:Face", "target": "problem, truth, reality, challenge, danger, fear, future, consequences, facts, music"}
+{"input": "suggest next:Solve", "target": "problem, puzzle, mystery, equation, conflict, issue, crisis, question, riddle, case"}
+{"input": "suggest next:Create", "target": "plan, solution, problem, opportunity, change, difference, impression, atmosphere, mood, environment"}
+{"input": "suggest next:Build", "target": "house, bridge, trust, confidence, strength, skill, business, team, future"}
+{"input": "suggest next:Destroy", "target": "building, bridge, trust, confidence, evidence, proof, barrier, wall, enemy"}
+{"input": "suggest next:Protect", "target": "family, children, house, environment, rights, freedom, peace, truth, innocent, weak"}
+{"input": "suggest next:Attack", "target": "problem, enemy, disease, infection, virus, bacteria, root, cause, source, target"}
+{"input": "suggest next:Who is", "target": "there, coming, calling, next"}
+{"input": "suggest next:Who are", "target": "you, they, we, people"}
+{"input": "suggest next:I want", "target": "water, food, go, sleep"}
+{"input": "suggest next:How", "target": "wonderful, amazing, beautiful, strange, sad, exciting, lucky, unlucky, funny, scary, nice, cool, hot, cold, big, small, fast, slow, sweet, kind"}
+{"input": "suggest next:So", "target": "cool, nice, sweet, kind, funny, sad, exciting, boring, interesting, strange, good, bad, hot, cold, big, small, fast, slow, amazing, beautiful, lucky"}
+{"input": "suggest next:Such a", "target": "shame, relief, joy, pity, disaster, performance, story, game, party, idea, coincidence, world, journey, change, difference, feeling, moment"}
+{"input": "suggest next:Wow", "target": "amazing, incredible, wonderful, cool, view, story, surprise, great, awesome, unbelievable, fantastic, crazy, funny, sad, nice, big, small, fast, slow"}
+{"input": "suggest next:Oh", "target": "no, yes, wow, dear, my, really, well, okay, right, bad, good, sad, funny, strange, amazing, interesting, cool, hot, cold, big, small"}
+{"input": "suggest next:How much", "target": "fun, trouble, work, time, money, energy, effort, pain, joy, love, hate, excitement, confusion, noise, silence, peace, stress, relief, difference, improvement"}
+{"input": "suggest next:How many", "target": "times, people, chances, mistakes, successes, failures, days, nights, hours, minutes, seconds, friends, stories, games, parties, ideas, changes, differences, improvements, opportunities"}
+{"input": "suggest next:Turn", "target": "left, right, around, light, fan, volume, music"}
+{"input": "suggest next:Open", "target": "door, window, book, bag, box, app, file"}
+{"input": "suggest next:Close", "target": "door, window, eyes, app, file, bag"}
+{"input": "suggest next:I don't want to go", "target": "home, there, outside, school, bed, sleep, eat, play, work, leave"}
+{"input": "suggest next:I can't believe how amazing", "target": "win, see, look, feel, know, become"}
+{"input": "suggest next:How could you possibly", "target": "do, say, forget, leave, know, believe, let, ignore, be kind, be rude"}
+{"input": "suggest next:I never thought I would", "target": "see, do, feel, meet, get, win, lose, try, like, say"}
+{"input": "suggest next:How wonderful it is to finally", "target": "see, win, meet, rest, celebrate, share, learn, do, finish"}
+{"input": "suggest next:I can't believe I actually", "target": "do, see, hear, win, lose, forget, remember, finish, start, survive"}
+{"input": "suggest next:How amazing it is to be able to", "target": "see, feel, know, win, learn, do, share, experience, have"}
+{"input": "suggest next:I never expected to find", "target": "win, see, know, meet, find, surprise, feel"}
+{"input": "suggest next:How sad it is to have to", "target": "leave, say, miss, hear, see, feel, know, remember, let go"}
+{"input": "suggest next:Could you please", "target": "help, pass, open, close, repeat, speak, wait, explain, call, write"}
+{"input": "suggest next:Would you mind", "target": "help, wait, repeat, close, open, explain, call, write, come, sit"}
+{"input": "suggest next:If you don't mind, could you", "target": "help, wait, repeat, close, open, explain, call, write, come, sit"}
+{"input": "suggest next:May I ask", "target": "ask, help, drink, know, tell, help, need"}
+{"input": "suggest next:Would it be possible to", "target": "help, leave, ask, drink, open, close, talk, meet, call, try"}
+{"input": "suggest next:Do you happen to know", "target": "know, find, call, help, ask, tell, arrive, start"}
+{"input": "suggest next:Can you tell me", "target": "know, go, do, get, ask, start, help, need"}
+{"input": "suggest next:Would you be able to", "target": "help, wait, repeat, close, open, explain, call, write, come, sit"}
+{"input": "suggest next:Do you know if", "target": "come, call, rain, open, go, ready, help, finish"}
+{"input": "suggest next:Can I ask", "target": "ask, help, drink, know, tell, help, need"}
+{"input": "suggest next:Would it be alright if", "target": "sit, ask, leave, call, try, open, close, talk, meet, help"}
+{"input": "suggest next:Can you", "target": "help, wait, come, call, explain, show, open, close, write, read"}
+{"input": "suggest next:Could you", "target": "help, wait, come, call, explain, show, open, close, write, read"}
+{"input": "suggest next:The weather", "target": "rain, snow, sun, wind, cloud, hot, cold, dark"}
+{"input": "suggest next:It is", "target": "rain, snow, sun, wind, cloud, hot, cold, dark, late, early"}
+{"input": "suggest next:Oh no", "target": "break, forget, fall, late, go, leave"}
+{"input": "suggest next:Be careful", "target": "go, fall, touch, move, carry, jump, run"}
+{"input": "suggest next:Happy", "target": "birthday, year, holiday, day, morning, festival, weekend"}
+{"input": "suggest next:I wish", "target": "win, go, see, meet, know, try, help"}
+{"input": "suggest next:Open the", "target": "door, window, book, bag, box, file, app, gate, jar, lid"}
+{"input": "suggest next:Close the", "target": "door, window, book, eye, file, bag, app"}
+{"input": "suggest next:Pick up the", "target": "pen, phone, bag, toy, book, paper, remote, cloth, key"}
+{"input": "suggest next:Every", "target": "day, night, morning, evening, week, weekend, time, moment, hour"}
+{"input": "suggest next:On", "target": "Monday, Tuesday, weekend, birthday, time, day, purpose, schedule"}
+{"input": "suggest next:If you", "target": "can, want, need, like, go, come, try, help, see, know"}
+{"input": "suggest next:When I", "target": "go, eat, sleep, run, cry, help, call, see, hear, play"}
+{"input": "suggest next:Because I", "target": "can, care, like, say, want, have, know, feel, think"}
+{"input": "suggest next:Go to the", "target": "store, park, doctor, bathroom, house, class, kitchen, market, bed, door"}
+{"input": "suggest next:Walk", "target": "here, there, slow, fast, come, away, outside, now, up"}
+{"input": "suggest next:He is", "target": "tall, short, happy, sad, tired, fast, slow, angry, kind, funny"}
+{"input": "suggest next:It looks", "target": "good, bad, beautiful, strange, new, broken, clean, dirty, perfect, fine"}
+{"input": "suggest next:Who is", "target": "he, she, there, call, teacher, friend, knock, outside, leader"}
+{"input": "suggest next:Where is", "target": "book, phone, he, she, it, bathroom, bag, everyone, class, bus"}
+{"input": "suggest next:I feel", "target": "happy, sad, tired, excited, bored, good, bad, sick, strong, weak"}
+{"input": "suggest next:That makes me", "target": "laugh, cry, angry, smile, think, nervous, happy, upset, proud, excited"}
+{"input": "suggest next:You make me", "target": "smile, happy, proud, angry, feel, laugh, sad, think, try, relax"}
+{"input": "suggest next:My mom", "target": "come, love, call, cook, tire, help, laugh"}
+{"input": "suggest next:My friend", "target": "come, help, leave, call, play, sing, laugh, like, talk"}
+{"input": "suggest next:My teacher", "target": "help, teach, give, call, talk, guide, explain"}
+{"input": "suggest next:Check your", "target": "phone, email, bag, message, homework, calendar, note, app, setting, list"}
+{"input": "suggest next:Use your", "target": "phone, hand, voice, brain, book, laptop, card, key, head"}
+{"input": "suggest next:Let’s make", "target": "cake, plan, call, list, draw, music, story, game, friend"}
+{"input": "suggest next:Tell me", "target": "more, story, truth, happen, think, name, idea, why, now, again"}
+{"input": "suggest next:Draw", "target": "cat, dog, house, tree, smile, sun, car, me, us, star"}
+{"input": "suggest next:That was", "target": "great, fun, hard, easy, loud, soft, amazing, boring, help, funny"}
+{"input": "suggest next:Turn", "target": "left, right, around, back, off, on, away, come, open, close"}
+{"input": "suggest next:May I", "target": "come, help, ask, call, sit, leave, try, open, close, write"}
+{"input": "suggest next:Will you", "target": "help, wait, come, call, explain, show, open, close, write, read"}
+{"input": "suggest next:Would you", "target": "help, wait, come, call, explain, show, open, close, write, read"}
+{"input": "suggest next:Nice to", "target": "meet, see, talk, hear, be, help, stay, come, try, join"}
+{"input": "suggest next:Do you know", "target": "time, way, name, place, where, when, how, why, what, who"}
+{"input": "suggest next:Can I", "target": "help, ask, call, sit, leave, try, open, close, write, read"}
+{"input": "suggest next:Let me", "target": "see, help, check, do, explain, try, know, think, go, finish"}
+{"input": "suggest next:Should I", "target": "wait, go, call, help, try, ask, open, close, write, read"}
+{"input": "suggest next:Could I", "target": "help, ask, call, sit, leave, try, open, close, write, read"}
+{"input": "suggest next:Can we", "target": "go, help, wait, try, talk, meet, start, stop, call, play"}
+{"input": "suggest next:Shall we", "target": "go, start, wait, try, talk, meet, call, play, begin, leave"}
+{"input": "suggest next:Could we", "target": "go, help, wait, try, talk, meet, start, stop, call, play"}
+{"input": "suggest next:Will you", "target": "come, help, wait, call, try, join, stay, start, stop, play"}
+{"input": "suggest next:Would you", "target": "come, help, wait, call, try, join, stay, start, stop, play"}
+{"input": "suggest next:Can they", "target": "come, help, wait, call, try, join, stay, start, stop, play"}
+{"input": "suggest next:Could they", "target": "come, help, wait, call, try, join, stay, start, stop, play"}
+{"input": "suggest next:Do you want to", "target": "go, help, wait, try, talk, meet, start, stop, call, play"}
+{"input": "suggest next:Would it help if", "target": "wait, help, call, try, join, stay, start, stop, play, ask"}
+{"input": "suggest next:Can someone", "target": "help, wait, call, try, join, stay, start, stop, play, ask"}
+{"input": "suggest next:Could someone", "target": "help, wait, call, try, join, stay, start, stop, play, ask"}
+{"input": "suggest next:I don't", "target": "know, want, like, need, care, remember, understand, believe, agree, think, have, see, hear, feel, mind, trust, wish, plan, expect"}
+{"input": "suggest next:You don't", "target": "know, want, like, need, care, remember, understand, believe, agree, think, have, see, hear, feel, mind, trust, wish, plan, expect"}
+{"input": "suggest next:We don't", "target": "know, want, like, need, care, remember, understand, believe, agree, think, have, see, hear, feel, mind, trust, wish, plan, expect"}
+{"input": "suggest next:They don't", "target": "know, want, like, need, care, remember, understand, believe, agree, think, have, see, hear, feel, mind, trust, wish, plan, expect"}
+{"input": "suggest next:He doesn't", "target": "know, want, like, need, care, remember, understand, believe, agree, think, have, see, hear, feel, mind, trust, wish, plan, expect"}
+{"input": "suggest next:She doesn't", "target": "know, want, like, need, care, remember, understand, believe, agree, think, have, see, hear, feel, mind, trust, wish, plan, expect"}
+{"input": "suggest next:It doesn't", "target": "work, matter, help, fit, belong, exist, make sense, change, move, open, close, start, stop, end, last, hurt, break, function, respond, apply, count"}
+{"input": "suggest next:I can't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:You can't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:We can't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:They can't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:He can't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:She can't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:It can't", "target": "work, help, fit, belong, exist, make sense, change, move, open, close, start, stop, end, last, hurt, break, function, respond, apply, count"}
+{"input": "suggest next:I won't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:You won't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:We won't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:They won't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:He won't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:She won't", "target": "go, come, help, wait, see, hear, eat, sleep, play, read, call, run, stay, remember, understand, believe, agree, find, do, say, answer"}
+{"input": "suggest next:It won't", "target": "work, help, fit, belong, exist, make sense, change, move, open, close, start, stop, end, last, hurt, break, function, respond, apply, count"}
+{"input": "suggest next:No one", "target": "knows, cares, remembers, understands, believes, agrees, thinks, has, sees, hears, feels, minds, trusts, wishes, plans, expects, comes, goes, helps, answers, calls"}
+{"input": "suggest next:Nothing", "target": "works, matters, helps, fits, belongs, exists, makes sense, changes, moves, opens, closes, starts, stops, ends, lasts, hurts, breaks, functions, responds, applies, counts"}
+{"input": "suggest next:eat apple", "target": "now, slowly, quickly, outside, again, alone, with me"}
+{"input": "suggest next:want toy", "target": "car, blocks, now, please, train, again, new, big"}
+{"input": "suggest next:go", "target": "outside, home, with, you, now, quickly, park, school"}
+{"input": "suggest next:drink juice", "target": "now, slowly, more, cup, again, carefully"}
+{"input": "suggest next:read book", "target": "together, now, story, aloud, bedtime, again"}
+{"input": "suggest next:open door", "target": "please, slowly, now, gently, again, outside"}
+{"input": "suggest next:close window", "target": "please, now, slowly, tight, again"}
+{"input": "suggest next:want help", "target": "now, this, mom, dad, please, again"}
+{"input": "suggest next:feed dog", "target": "now, again, outside, bowl, treat, slowly"}
+{"input": "suggest next:sit", "target": "down, here, now, beside, me, properly, slowly, chair"}
+{"input": "suggest next:look", "target": "here, outside, me, down, left, right, again"}
+{"input": "suggest next:play game", "target": "again, with, me, now, later, together, new, one"}
+{"input": "suggest next:touch ball", "target": "softly, now, again, carefully, gently"}
+{"input": "suggest next:sleep", "target": "now, later, again, teddy, bed, room"}
+{"input": "suggest next:brush teeth", "target": "now, after, food, help, gently, again"}
+{"input": "suggest next:wear shoes", "target": "now, again, socks, outside, quickly, left, foot"}
+{"input": "suggest next:jump high", "target": "again, now, fast, together, outside"}
+{"input": "suggest next:color picture", "target": "red, blue, green, again, outside, lines"}
+{"input": "suggest next:hold spoon", "target": "properly, now, again, tight, right, hand"}
+{"input": "suggest next:Clean the", "target": "room, table, floor, kitchen, dishes, clothes, window, toys, sink"}
+{"input": "suggest next:Close the", "target": "door, window, bag, book, box, fridge, lid, gate, eyes"}
+{"input": "suggest next:Turn off the", "target": "light, fan, stove, phone, alarm, computer, switch, TV, heater"}
+{"input": "suggest next:Turn on the", "target": "light, fan, stove, phone, TV, computer, heater, switch, alarm"}
+{"input": "suggest next:Fix the", "target": "table, chair, fan, light, door, toy, bed, button, handle"}
+{"input": "suggest next:Tell me", "target": "more, now, again, clearly, slowly, please, everything, why, how"}
+{"input": "suggest next:Ask them", "target": "now, later, again, nicely, gently, quickly, everything, too, first"}
+{"input": "suggest next:Say it", "target": "again, now, slowly, loudly, clearly, nicely, better, once, properly"}
+{"input": "suggest next:Talk to", "target": "me, boy, girl, teacher, friend, mom, dad, us"}
+{"input": "suggest next:Answer", "target": "me, now, call, question, door, everything, boy, girl, first"}
+{"input": "suggest next:Be", "target": "careful, quiet, nice, safe, ready, honest, kind, fast, still"}
+{"input": "suggest next:Don't", "target": "go, run, shout, cry, hit, fight, touch, take, move"}
+{"input": "suggest next:Stay", "target": "quiet, here, inside, safe, ready, back, calm, away, close"}
+{"input": "suggest next:Keep", "target": "quiet, calm, trying, going, helping, learning, moving, still, safe"}
+{"input": "suggest next:Watch", "target": "out, boy, girl, this, that, yourself, step, hands, bag"}
+{"input": "suggest next:throw ball", "target": "outside, again, gently, far, up"}
+{"input": "suggest next:Write the", "target": "answer, question, word, name, letter, date, number, story, sentence"}
+{"input": "suggest next:Draw a", "target": "circle, star, line, square, picture, dog, cat, face, tree"}
+{"input": "suggest next:Circle the", "target": "word, number, answer, picture, correct, yes, no, name, letter"}
+{"input": "suggest next:Color the", "target": "picture, shape, star, box, flower, circle, square, face, tree"}
+{"input": "suggest next:Underline the", "target": "word, name, letter, title, line, answer, question, date, idea"}
+{"input": "suggest next:Bring the", "target": "food, water, plate, spoon, cup, juice, napkin, bottle, bowl"}
+{"input": "suggest next:Paint with", "target": "brush, hands, colors, red, blue, green, yellow, fingers, sponge"}
+{"input": "suggest next:Go to the", "target": "park, school, doctor, store, bathroom, kitchen, market, zoo, library"}
+{"input": "suggest next:Come to the", "target": "table, door, room, front, center, kitchen, board, stage, bench"}
+{"input": "suggest next:Walk to the", "target": "door, bus, class, table, garden, shop, board, office, chair"}
+{"input": "suggest next:Run to the", "target": "gate, park, bench, friend, house, school, ball, parent, road"}
+{"input": "suggest next:Stay in the", "target": "room, bed, chair, line, group, center, class, corner, shade"}
+{"input": "suggest next:Sing a", "target": "song, rhyme, tune, melody, name, number, story, line, word"}
+{"input": "suggest next:Dance to", "target": "music, beat, song, rhythm, drum, melody, tune, clap, sound"}
+{"input": "suggest next:Make a", "target": "card, cake, drawing, toy, story, call, sound, plan, face"}
+{"input": "suggest next:Build with", "target": "blocks, bricks, sticks, hands, clay, paper, cups, cards, boxes"}
+{"input": "suggest next:Time to", "target": "eat, go, sleep, read, help, study, play, rest, call"}
+{"input": "suggest next:Wake up", "target": "now, early, quickly, slowly, again, please, friend, everyone, tomorrow"}
+{"input": "suggest next:Get your", "target": "bag, book, phone, clothes, shoes, pencil, lunch, keys, things"}
+{"input": "suggest next:Put on your", "target": "shoes, coat, hat, socks, uniform, gloves, clothes, bag, ID"}
+{"input": "suggest next:Take off your", "target": "shoes, coat, hat, bag, gloves, socks, ID, mask, jacket"}
+{"input": "suggest next:Cook the", "target": "rice, soup, vegetables, pasta, meat, eggs, curry, meal, food"}
+{"input": "suggest next:Cut the", "target": "apple, bread, cake, fruit, meat, vegetables, carrot, onion, pizza"}
+{"input": "suggest next:Open the", "target": "bottle, door, box, fridge, packet, can, window, bag, jar"}
+{"input": "suggest next:listen song", "target": "now, again, loudly, favorite, dance, quietly"}
+{"input": "suggest next:give toy", "target": "please, now, me, gently, again, new, one"}
+{"input": "suggest next:draw circle", "target": "again, big, slowly, pencil, red"}
+{"input": "suggest next:point", "target": "there, here, outside, toy, book, again"}
+{"input": "suggest next:run", "target": "fast, outside, now, me, again, home"}
+{"input": "suggest next:want banana", "target": "now, please, again, kitchen, eat"}
+{"input": "suggest next:carry bag", "target": "now, gently, again, care, together"}
+{"input": "suggest next: take book", "target": "now, shelf, again, please, storybook"}
+{"input": "suggest next: clean hands", "target": "now, with, soap, again, before, food"}
+{"input": "suggest next: catch", "target": "ball, now, again, with, hands, softly"}
+{"input": "suggest next: help me", "target": "now, again, with, this, please, together"}
+{"input": "suggest next: want drink", "target": "water, juice, milk, now, please, again"}
+{"input": "suggest next: see", "target": "mom, outside, you, bird, again, now, cat"}
+{"input": "suggest next: climb stairs", "target": "now, slowly, again, with, help, together"}
+{"input": "suggest next: move chair", "target": "now, slowly, aside, again, carefully"}
+{"input": "suggest next: bring ball", "target": "now, here, again, please, room"}
+{"input": "suggest next: take medicine", "target": "now, again, with, water, slowly, before, sleep"}
+{"input": "suggest next: want food", "target": "now, please, more, rice, again, snack"}
+{"input": "suggest next: pack bag", "target": "now, school, again, carefully, together"}
+{"input": "suggest next: draw", "target": "cat, house, tree, again, red, big"}
+{"input": "suggest next: go outside", "target": "now, with, me, again, garden, quickly"}
+{"input": "suggest next: stop", "target": "now, that, please, again, running"}
+{"input": "suggest next: make", "target": "sandwich, drawing, tower, again, together"}
+{"input": "suggest next: sing", "target": "loudly, softly, now, again, with, me"}
+{"input": "suggest next: dance", "target": "now, with, me, again, slowly, happily"}
+{"input": "suggest next: cut paper", "target": "carefully, again, now, small, with, help"}
+{"input": "suggest next: eat rice", "target": "now, with, spoon, again, hand"}
+{"input": "suggest next: hold hand", "target": "tight, now, again, together, gently"}
+{"input": "suggest next: throw toy", "target": "softly, again, bed, box"}
+{"input": "suggest next: see moon", "target": "tonight, now, outside, again, beautiful"}
+{"input": "suggest next: want hug", "target": "now, please, again, mom, dad"}
+{"input": "suggest next: play outside", "target": "now, again, friends, garden, happily"}
+{"input": "suggest next: find toy", "target": "now, please, room, again, under, bed"}
+{"input": "suggest next: open book", "target": "now, read, again, slowly, carefully"}
+{"input": "suggest next: close eyes", "target": "now, sleep, again, tightly, gently"}
+{"input": "suggest next: want snack", "target": "now, please, again, kitchen, fruit"}
+{"input": "suggest next: play with blocks", "target": "now, again, build, tower, together, carefully"}
+{"input": "suggest next: hold teddy", "target": "now, again, tightly, care, sleep"}
+{"input": "suggest next: jump rope", "target": "now, again, outside, together, happily"}
+{"input": "suggest next: want toy", "target": "car, doll, now, again, soft, blue, blocks"}
+{"input": "suggest next: eat food", "target": "now, rice, slowly, snack, again, spoon"}
+{"input": "suggest next: drink water", "target": "now, bottle, again, slowly, please"}
+{"input": "suggest next: play", "target": "game, now, blocks, together, music, outside"}
+{"input": "suggest next: sleep now", "target": "quietly, bed, teddy, again, please"}
+{"input": "suggest next: go home", "target": "now, quickly, together, again, safely"}
+{"input": "suggest next: hold spoon", "target": "right hand, properly, now, tightly, again"}
+{"input": "suggest next: sit down", "target": "here, now, quietly, chair, beside me"}
+{"input": "suggest next: wear shirt", "target": "blue, now, again, properly, help"}
+{"input": "suggest next: brush teeth", "target": "now, paste, again, properly, slowly"}
+{"input": "suggest next: want book", "target": "story, now, big, new, again, please"}
+{"input": "suggest next:Go to", "target": "school, home, bed, class, mom, dad, kitchen, outside, inside, teacher"}
+{"input": "suggest next: feed cat", "target": "now, gently, food, milk, again, outside"}
+{"input": "suggest next: bring toy", "target": "here, now, blue, car, again, blocks"}
+{"input": "suggest next: jump", "target": "high, again, now, outside, together"}
+{"input": "suggest next: give", "target": "book, toy, now, again, me, please"}
+{"input": "suggest next: see tree", "target": "outside, now, big, again, bird"}
+{"input": "suggest next: open bag", "target": "now, quickly, again, carefully, help"}
+{"input": "suggest next: pack lunch", "target": "now, box, quickly, rice, snack, fruit"}
+{"input": "suggest next: look at", "target": "mom, book, screen, toy, bird, again"}
+{"input": "suggest next: climb stairs", "target": "now, slowly, again, together, carefully"}
+{"input": "suggest next: run", "target": "fast, now, again, outside, me"}
+{"input": "suggest next: say", "target": "hello, thank you, sorry, good morning, bye"}
+{"input": "suggest next: want help", "target": "now, this, dad, again, mom"}
+{"input": "suggest next: paint", "target": "red, blue, again, carefully, big, house"}
+{"input": "suggest next: draw", "target": "cat, tree, again, house, big, car"}
+{"input": "suggest next: put toy", "target": "box, table, away, down, inside"}
+{"input": "suggest next:Play with the", "target": "ball, toy, blocks, puzzle, cards, spinner, game, friend, group"}
+{"input": "suggest next:Choose a", "target": "game, friend, color, word, number, toy, card, answer, shape"}
+{"input": "suggest next:Guess the", "target": "word, name, number, picture, object, sound, shape, feeling, letter"}
+{"input": "suggest next:Find the", "target": "answer, picture, object, word, number, person, toy, clue, card"}
+{"input": "suggest next:Match the", "target": "shape, letter, color, card, picture, number, face, sound, item"}
+{"input": "suggest next:Today is", "target": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"}
+{"input": "suggest next:Tomorrow is", "target": "Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday"}
+{"input": "suggest next:It is", "target": "morning, afternoon, evening, night, hot, cold, sunny, rainy, windy"}
+{"input": "suggest next:The time is", "target": "now, later, early, noon, night, morning, soon, late, exact"}
+{"input": "suggest next:Let’s do it", "target": "now, again, later, tomorrow, together, quickly, slowly, happily, nicely"}
+{"input": "suggest next:It feels", "target": "soft, hard, hot, cold, wet, dry, rough, smooth, sticky"}
+{"input": "suggest next:It looks", "target": "good, bad, new, big, small, colorful, broken, different, okay"}
+{"input": "suggest next:I need a", "target": "break, rest, hug, snack, friend, minute, drink, hand, pillow"}
+{"input": "suggest next:Can I get a", "target": "drink, snack, turn, chance, break, pencil, eraser, toys, hug"}
+{"input": "suggest next: touch", "target": "ball, gently, now, again, hand"}
+{"input": "suggest next:Use the", "target": "computer, phone, TV, tablet, pen, marker, board, speaker, light"}
+{"input": "suggest next:Watch the", "target": "TV, video, screen, board, show, movie, teacher, game, clip"}
+{"input": "suggest next:Touch the", "target": "screen, button, switch, book, card, pencil, number, shape, object"}
+{"input": "suggest next:Open the", "target": "app, file, folder, message, email, image, video, book, box"}
+{"input": "suggest next:Turn up the", "target": "volume, light, music, speed, fan, heat, brightness, sound, energy"}
+{"input": "suggest next: take", "target": "book, toys, bag, medicine, now, carefully"}
+{"input": "suggest next: throw", "target": "ball, toys, gently, up, again, outside"}
+{"input": "suggest next: get", "target": "book, food, bag, help, toys, drink"}
+{"input": "suggest next: eat snack", "target": "now, again, quickly, spoon, chips"}
+{"input": "suggest next: want drink", "target": "juice, water, milk, now, again, bottle"}
+{"input": "suggest next: sing song", "target": "loudly, now, again, softly, favorite"}
+{"input": "suggest next: dance", "target": "now, again, together, happily, slowly"}
+{"input": "suggest next: come", "target": "here, quickly, now, me, again"}
+{"input": "suggest next: fix toys", "target": "now, help, carefully, again, please"}
+{"input": "suggest next: break", "target": "toys, glass, cup, rule, again, accidentally"}
+{"input": "suggest next: call", "target": "mom, dad, now, again, teacher, friend"}
+{"input": "suggest next: want more", "target": "food, juice, toys, blocks, time, books"}
+{"input": "suggest next: talk", "target": "mom, me, again, now, slowly"}
+{"input": "suggest next: see movie", "target": "now, again, cartoon, together, loudly"}
+{"input": "suggest next: help me", "target": "now, again, toys, bag, food"}
+{"input": "suggest next: play music", "target": "loud, again, now, soft, dance"}
+{"input": "suggest next: start", "target": "game, now, again, slowly, timer, music"}
+{"input": "suggest next: stop", "target": "game, now, music, running, talking"}
+{"input": "suggest next: want to", "target": "eat, sleep, play, go, read, talk, see"}
+{"input": "suggest next: jump", "target": "high, now, again, outside, together"}
+{"input": "suggest next: sleep", "target": "now, quietly, again, bed, teddy"}
+{"input": "suggest next: eat", "target": "now, rice, snack, again, spoon"}
+{"input": "suggest next: drink", "target": "water, juice, milk, now, again"}
+{"input": "suggest next: run", "target": "fast, outside, now, again, me"}
+{"input": "suggest next: read", "target": "book, now, story, again, together"}
+{"input": "suggest next: throw", "target": "ball, toy, gently, up, again"}
+{"input": "suggest next: carry", "target": "bag, now, gently, again, carefully"}
+{"input": "suggest next: find", "target": "toy, now, room, bed, again"}
+{"input": "suggest next: speak", "target": "mom, dad, now, again, friend"}
+{"input": "suggest next: hold", "target": "hand, spoon, now, tightly, again"}
+{"input": "suggest next: go", "target": "outside, now, again, park, together"}
+{"input": "suggest next: climb", "target": "stairs, now, slowly, again, together"}
+{"input": "suggest next: fix", "target": "toy, now, carefully, again, help"}
+{"input": "suggest next: pack", "target": "bag, lunch, now, carefully, school"}
+{"input": "suggest next: see", "target": "moon, bird, now, again, outside"}
+{"input": "suggest next: open", "target": "book, bag, door, now, again"}
+{"input": "suggest next: close", "target": "eyes, book, now, gently, again"}
+{"input": "suggest next: dance", "target": "now, again, together, slowly, happily"}
+{"input": "suggest next: I may", "target": "go, help, try, wait, stay, eat, sleep, read, play, speak"}
+{"input": "suggest next: I must", "target": "go, eat, sleep, read, help, finish, speak, tell, try, wait"}
+{"input": "suggest next: I wish", "target": "you, well, go, help, win, try, rest, play, eat, read, sleep"}
+{"input": "suggest next: Why is", "target": "he, late, she, sad, it, raining, important, this, hard, that, funny, broken, sky, blue, door, open, cat, outside"}
+{"input": "suggest next: Can we", "target": "try, play, go, help, read, eat, sleep, wait, talk, win"}
+{"input": "suggest next: Where are", "target": "you, they, shoes, book, keys, children, friends, toys, parents, guests"}
+{"input": "suggest next: How can", "target": "I, help, we, win, you, try, eat, go, play, rest, read, sleep, learn"}
+{"input": "suggest next: Please do", "target": "this, that, help, wait, come, eat, read, play, stop, speak"}
+{"input": "suggest next: Don't forget to", "target": "eat, sleep, speak, help, read, bring, play, wait, finish, tell"}
+{"input": "suggest next: Try to", "target": "help, go, eat, sleep, read, play, win, rest, speak, wait"}
+{"input": "suggest next: Always remember to", "target": "help, eat, read, sleep, speak, try, wait, play, rest, be, kind"}
+{"input": "suggest next: It's better to", "target": "wait, help, try, rest, eat, sleep, read, go, play, speak"}
+{"input": "suggest next: You must", "target": "try, help, eat, sleep, read, play, go, rest, wait, speak"}
+{"input": "suggest next: He can", "target": "help, go, play, eat, sleep, read, speak, run, jump, wait"}
+{"input": "suggest next: She wants to", "target": "help, go, eat, sleep, read, play, rest, speak, wait, run"}
+{"input": "suggest next: They need to", "target": "help, eat, sleep, play, read, speak, rest, go, wait, run"}
+{"input": "suggest next: We should", "target": "help, go, play, eat, sleep, read, rest, speak, wait, talk"}
+{"input": "suggest next: Are you going to", "target": "help, eat, sleep, play, read, go, rest, wait, speak, run"}
+{"input": "suggest next: Can I", "target": "help, eat, go, play, sleep, read, rest, wait, speak, try"}
+{"input": "suggest next: I will", "target": "help, go, eat, sleep, play, read, rest, wait, speak, try"}
+{"input": "suggest next: She will", "target": "come, speak, help, read, go, play, eat, talk, run"}
+{"input": "suggest next: I want to", "target": "go, eat, sleep, play, read, help, speak, talk, run"}
+{"input": "suggest next: You should", "target": "rest, help, wait, stop, read, eat, sleep, try, go"}
+{"input": "suggest next: They might", "target": "come, go, eat, run, stay, wait, help, read, play"}
+{"input": "suggest next: I can", "target": "help, go, play, read, eat, sleep, run, jump, speak"}
+{"input": "suggest next: I may", "target": "help, go, try, play, read, eat, sleep, wait, rest, speak"}
+{"input": "suggest next: I must", "target": "help, go, eat, sleep, read, play, try, rest, speak, wait"}
+{"input": "suggest next: I have to", "target": "go, eat, sleep, speak, read, help, play, wait, rest, try"}
+{"input": "suggest next: I should", "target": "help, go, eat, sleep, read, play, rest, wait, speak, try"}
+{"input": "suggest next: I cannot", "target": "hear, see, go, play, eat, sleep, read, help, wait"}
+{"input": "suggest next: I don't want to", "target": "go, eat, sleep, play, read, help, rest, speak, wait, try"}
+{"input": "suggest next: I want to", "target": "play, eat, sleep, go, read, draw, help, talk, run, rest"}
+{"input": "suggest next: I like to", "target": "play, draw, read, eat, sing, dance, run, jump, help, talk"}
+{"input": "suggest next: I love to", "target": "play, read, eat, sleep, help, draw, talk, dance, sing, run"}
+{"input": "suggest next: I hate to", "target": "wait, go, eat, sleep, read, play, rest, speak, help, talk"}
+{"input": "suggest next: Can I", "target": "go, help, see, take, eat, play, read, sleep, come, try"}
+{"input": "suggest next: Let's", "target": "go, play, eat, read, help, start, run, sit, stand, try"}
+{"input": "suggest next: Can you", "target": "help, wait, come, go, read, play, answer, speak, run, stop"}
+{"input": "suggest next:Shall we", "target": "start, go, eat, read, run, stop, play, help, call, try"}
+{"input": "suggest next: Where", "target": "mom, dad, my toy, bathroom, my book, my bag, my friend, cat, dog, phone"}
+{"input": "suggest next: Who", "target": "there, coming, calling, next, here, outside, at door, my friend, your teacher, waiting"}
+{"input": "suggest next: Why", "target": "boy, late, girl, sad, raining, important, funny, broken, sky blue, door open, cat outside"}
+{"input": "suggest next: Let's", "target": "go, play, eat, watch, run, read, draw, sing, dance, help"}
+{"input": "suggest next: Please", "target": "help, come, wait, stop, sit, stand, listen, read, eat, play"}
+{"input": "suggest next: Try", "target": "help, go, eat, sleep, read, play, win, rest, call, wait"}
+{"input": "suggest next: Don't forget", "target": "eat, sleep, call, help, read, bring, play, wait, finish, tell"}
+{"input": "suggest next: You", "target": "rest, eat, stop, listen, wait, help, read, play, go, talk"}
+{"input": "suggest next: Stop", "target": "now, please, talking, running, shouting, crying, fighting, moving, playing, eating"}
+{"input": "suggest next: Time", "target": "go, eat, sleep, play, read, rest, call, help, wait, start"}
+{"input": "suggest next: Just", "target": "wait, relax, try, listen, come, go, stop, read, play"}
+{"input": "suggest next: First", "target": "eat, go, sit, listen, stop, help, wait, wash, draw"}
+{"input": "suggest next: Then", "target": "play, rest, eat, go, read, call, sleep, run, write"}
+{"input": "suggest next: After that", "target": "sleep, play, rest, eat, go, write, run, read, wash"}
+{"input": "suggest next: Before you", "target": "go, eat, sleep, play, call, sit, help, talk, read"}
+{"input": "suggest next: Now", "target": "eat, go, run, stop, sit, listen, help, sleep, try"}
+{"input": "suggest next: Finally", "target": "we rest, ends, go home, say goodbye, sleep, done, we eat"}
+{"input": "suggest next: Always remember", "target": "help, eat, read, sleep, call, try, wait, play, rest, be kind"}
+{"input": "suggest next: Once upon", "target": "time, night, dream, world, moment, land, place, wish"}
+{"input": "suggest next: Story", "target": "begins, continues, ends, true, funny, sad, long, short, old"}
+{"input": "suggest next: Suddenly", "target": "happened, boy, come, girl, left, they ran, I knew, changed, there was light, started"}
+{"input": "suggest next: I think", "target": "so, fine, we, okay, we must, I know, you, they will, let's go"}
+{"input": "suggest next: I see", "target": "you, dog, sun, book, cat, bird, car, friend, sky, tree"}
+{"input": "suggest next: I hear", "target": "music, you, noise, someone, bell, phone, rain, wind, sound, voice"}
+{"input": "suggest next: I need", "target": "help, water, food, sleep, go, eat, rest, talk, play, read"}
+{"input": "suggest next: Thank you", "target": "so, much, again, all, very, much, my, friend, for, coming, helping, waiting, playing, listening"}
+{"input": "suggest next: I wish I", "target": "go, eat, sleep, play, read, help, call, rest, run, talk"}
+{"input": "suggest next: Mine", "target": "book, bag, phone, house, car, school, toy, idea, friend, family"}
+{"input": "suggest next: Hers", "target": "book, bag, phone, house, car, school, teacher, brother, sister, dog"}
+{"input": "suggest next: Ours", "target": "home, school, project, idea, team, plan, house, dog, cat, family"}
+{"input": "suggest next: Excuse me", "target": "please, help, tell, where, know, pardon, sorry, may, I, need, thank, you"}
+{"input": "suggest next: May I", "target": "come, help, sit, here, ask, know, go, out, speak, join, try, leave"}
+{"input": "suggest next: Oh", "target": "no, yes, really, okay, well, I, see, why, forgot, my, god, dear"}
+{"input": "suggest next: Wow", "target": "amazing, great, really, cool, I, like, love, awesome, fantastic, wonderful, nice"}
+{"input": "suggest next: Hmm", "target": "okay, maybe, I, see, interesting, let, me, think, not, sure, perhaps, well, so, let's, see"}
+{"input": "suggest next: Tomorrow", "target": "we, will, I, will, day, morning, afternoon, evening, comes, brings, better, soon"}
+{"input": "suggest next: Yesterday", "target": "was, great, I, saw, did, went, we, met, played, ate, rained, fun, bad"}
+{"input": "suggest next: Over there", "target": "book, my, friend, door, park, house, we, go, let's, see, come, with, me, wait, look"}
+{"input": "suggest next: In", "target": "morning, evening, afternoon, bag, box, house, room, car, park, garden"}
+{"input": "suggest next: Weather", "target": "nice, bad, cold, hot, warm, cool, rainy, sunny, windy, perfect"}
+{"input": "suggest next: If you", "target": "go, come, help, wait, call, eat, sleep, run, read, listen"}
+{"input": "suggest next: If I", "target": "go, come, help, wait, call, eat, sleep, run, read, listen"}
+{"input": "suggest next: I need", "target": "go, eat, sleep, help, read, call, wait, try, play, rest"}
+{"input": "suggest next: You need", "target": "help, wait, go, eat, sleep, read, call, play, try, rest"}
+{"input": "suggest next: Come with", "target": "me, us, mom, dad, friend, sister, brother, teacher, them, you"}
+{"input": "suggest next: Run", "target": "mom, dad, door, bed, home, school, class, friend, me, teacher"}
+{"input": "suggest next: Sure", "target": "thing, I, let's, go, agree, please, here, you, no, problem, why, not"}
+{"input": "suggest next: Absolutely", "target": "yes, I, agree, correct, sure, right, let's, go, please, you, no, doubt"}
+{"input": "suggest next: Really", "target": "interesting, tell, me, more, wow, okay, I, see, cool, are, you, sure, why, how"}
+{"input": "suggest next: Open", "target": "door, window, book, your, eyes, bag, mind, heart, phone, file, box"}
+{"input": "suggest next: Close", "target": "door, window, book, your, eyes, bag, phone, mouth, mind, box, file"}
+{"input": "suggest next: They", "target": "go, help, play, eat, sleep, read, run, find, say, answer"}
+{"input": "suggest next: He", "target": "go, help, see, hear, wait, stay, say, answer"}
+{"input": "suggest next: She may", "target": "come, help, wait, see, eat, play, read, find, agree"}
+{"input": "suggest next: I", "target": "help, wait, see, eat, play, read, call, run, stay"}
+{"input": "suggest next: You", "target": "help, play, eat, read, call, find, say, answer"}
+{"input": "suggest next: We", "target": "go, come, help, play, read, stay, believe, agree, find, say"}
+{"input": "suggest next: They won't", "target": "agree, believe, understand, remember, stay, find, say, answer"}
+{"input": "suggest next: No one", "target": "help, remember, understand, believe, agree, come, go, answer"}
+{"input": "suggest next: Nothing", "target": "work, change, move, open, start, end, last, respond, apply"}
+{"input": "suggest next: want apple", "target": "now, please, again, from, kitchen, eat"}
+{"input": "suggest next: want ball", "target": "now, please, red, soft, from, shelf, again"}
+{"input": "suggest next: drink milk", "target": "now, slowly, more, from, cup, again"}
+{"input": "suggest next: open box", "target": "now, gently, carefully, again, slowly"}
+{"input": "suggest next: close door", "target": "now, gently, again, slowly, properly"}
+{"input": "suggest next: jump fast", "target": "again, outside, together, now"}
+{"input": "suggest next: read story", "target": "together, now, again, aloud, bedtime"}
+{"input": "suggest next: sit on chair", "target": "now, quietly, properly, again"}
+{"input": "suggest next: look outside", "target": "now, carefully, again, at, tree, sky"}
+{"input": "suggest next: throw ball", "target": "again, outside, gently, up, far"}
+{"input": "suggest next: eat snack", "target": "now, slowly, again, with, spoon, hand"}
+{"input": "suggest next: sleep later", "target": "again, quietly, on, bed, teddy"}
+{"input": "suggest next: wear socks", "target": "now, again, quickly, on, feet, properly"}
+{"input": "suggest next: After", "target": "go, eat, play, rest, read, call, run, stop, sleep"}
+{"input": "suggest next: At store", "target": "buy, go, look, find, wait, pay, take, ask, choose"}
+{"input": "suggest next: In kitchen", "target": "eat, cook, wash, clean, sit, stand, take, bring, help"}
+{"input": "suggest next: In classroom", "target": "read, write, listen, talk, sit, stand, wait, help, draw"}
+{"input": "suggest next: On table", "target": "book, pen, phone, paper, food, cup, glass, bag, toy"}
+{"input": "suggest next: Under bed", "target": "book, toy, shoes, bag, dust, clothes, box, cat, pillow"}
+{"input": "suggest next: In morning", "target": "eat, wake, go, read, run, help, wash, sit, play"}
+{"input": "suggest next: Before lunch", "target": "read, go, help, talk, wait, sit, wash, play, write"}
+{"input": "suggest next: At night", "target": "sleep, rest, read, eat, talk, call, help, stop, relax"}
+{"input": "suggest next: Later", "target": "go, play, read, call, come, help, talk, eat, rest"}
+{"input": "suggest next: paint picture", "target": "red, blue, green, carefully, again"}
+{"input": "suggest next: draw square", "target": "slowly, big, with, pencil, again"}
+{"input": "suggest next: carry box", "target": "now, carefully, gently, again, together"}
+{"input": "suggest next: take pencil", "target": "now, from, table, again, please"}
+{"input": "suggest next: help friend", "target": "now, gently, again, together, with, care"}
+{"input": "suggest next: hold cup", "target": "properly, now, again, tightly"}
+{"input": "suggest next: bring book", "target": "now, from, shelf, again, please"}
+{"input": "suggest next: feed cat", "target": "now, again, food, milk, outside"}
+{"input": "suggest next: see bird", "target": "outside, now, again, flying, beautiful"}
+{"input": "suggest next: play with car", "target": "again, now, together, carefully"}
+{"input": "suggest next: jump rope", "target": "again, now, together, outside"}
+{"input": "suggest next: climb up", "target": "now, carefully, slowly, again"}
+{"input": "suggest next: move table", "target": "now, gently, slowly, again"}
+{"input": "suggest next: give book", "target": "now, please, me, again"}
+{"input": "suggest next: find block", "target": "now, in, room, under, bed, again"}
+{"input": "suggest next: Clean", "target": "kitchen, bathroom, floor, windows, table, house, room, car, dishes, clothes"}
+{"input": "suggest next: Fix", "target": "fan, door, window, chair, light, computer, phone, TV, radio, clock"}
+{"input": "suggest next: Check your", "target": "email, messages, phone, schedule, wallet, keys, car, house, work, money"}
+{"input": "suggest next: Call your", "target": "friend, doctor, teacher, boss, mom, dad, sister, brother, office, neighbor"}
+{"input": "suggest next: Go into", "target": "room, house, school, park, store, office, bank, market, restaurant, station"}
+{"input": "suggest next: Come back", "target": "home, soon, now, later, again, quickly, slowly, carefully, quietly, safely"}
+{"input": "suggest next: Stay in", "target": "bed, house, room, office, hotel, car, home, kitchen, school, hospital"}
+{"input": "suggest next: Wait here", "target": "now, please, quietly, patiently, for, me, bus, train, until, noon, carefully"}
+{"input": "suggest next: Look at", "target": "sky, me, this, book, phone, map, screen, clock, outside, birds"}
+{"input": "suggest next: Ask him", "target": "for, help, time, permission, money, direction, food, water, work, advice, medicine"}
+{"input": "suggest next: Pay with", "target": "cash, card, phone, app, coins, money, credit, debit, voucher, points"}
+{"input": "suggest next: Work from", "target": "home, office, cafe, school, hotel, room, laptop, computer, phone, shop"}
+{"input": "suggest next: Study for", "target": "exam, test, school, class, lesson, degree, subject, knowledge, fun, tomorrow"}
+{"input": "suggest next: Sleep in", "target": "bed, room, hotel, sofa, house, night, afternoon, morning, silence, peace"}
+{"input": "suggest next: Play some", "target": "games, music, sports, cards, ball, songs, instruments, videos, chess, puzzles"}
+{"input": "suggest next: Talk with", "target": "family, friends, doctor, teacher, kids, parents, boss, neighbor, partner, stranger"}
+{"input": "suggest next: Listen carefully to", "target": "teacher, doctor, music, news, instructions, radio, lecture, speech, story, parents"}
+{"input": "suggest next: Watch a", "target": "movie, show, video, game, documentary, sunset, sunrise, performance, news, play"}
+{"input": "suggest next: Read about", "target": "history, science, news, technology, story, weather, instructions, art, sports, health"}
+{"input": "suggest next: Write down", "target": "notes, ideas, number, address, phone, plan, story, message, name, task"}
+{"input": "suggest next: Send the", "target": "email, message, letter, report, invitation, document, file, photo, gift, video"}
+{"input": "suggest next: Get ready", "target": "now, quickly, slowly, soon, for, school, work, meeting, trip, go, again"}
+{"input": "suggest next: Make a", "target": "plan, decision, sandwich, call, choice, promise, change, list, move, mistake"}
+{"input": "suggest next: Have a", "target": "seat, break, coffee, drink, rest, nap, snack, moment, laugh, look"}
+{"input": "suggest next: Use the", "target": "bathroom, kitchen, phone, computer, stairs, elevator, key, map, pen, door"}
+{"input": "suggest next: Find your", "target": "keys, phone, wallet, book, way, answer, friend, car, house, solution"}
+{"input": "suggest next: Keep your", "target": "promise, distance, calm, money, phone, book, secret, shoes, room, hands, clean"}
+{"input": "suggest next: Leave the", "target": "house, room, office, car, key, phone, book, money, food, door"}
+{"input": "suggest next: Start the", "target": "car, computer, meeting, game, engine, music, fire, work, conversation, day"}
+{"input": "suggest next: Stop the", "target": "car, music, noise, fight, rain, pain, work, talking, fire, bleeding"}
+{"input": "suggest next: Move the", "target": "chair, table, box, book, phone, car, house, body, hand, foot"}
+{"input": "suggest next: Hold my", "target": "hand, bag, phone, book, baby, key, breath, position, cup, chair"}
+{"input": "suggest next: Pick up the", "target": "phone, book, key, bag, child, garbage, skill, pace, pen, paper"}
+{"input": "suggest next: Put down the", "target": "bag, book, phone, cup, pen, child, glass, box, burden"}
+{"input": "suggest next: Sit near", "target": "me, window, door, table, chair, friend, wall, front, back, side"}
+{"input": "suggest next: Stand near", "target": "wall, door, window, me, chair, table, friend, bus, tree, line"}
+{"input": "suggest next: Lie on", "target": "bed, sofa, floor, grass, sand, mat, beach, carpet, ground, bench"}
+{"input": "suggest next: Wake him", "target": "up, early, now, slowly, quickly, gently, soon, late, happily, carefully"}
+{"input": "suggest next: Get back", "target": "home, work, me, soon, quickly, slowly, now, safely, again, later"}
+{"input": "suggest next: Dress the", "target": "baby, doll, kid, yourself, warmly, nicely, properly, quickly, slowly, carefully"}
+{"input": "suggest next: Hurry to", "target": "work, school, hospital, station, home, meeting, office, park, store, appointment"}
+{"input": "suggest next: Slow the", "target": "car, pace, speech, music, process, work, talking, walking, learning, breathing"}
+{"input": "suggest next: Speed the", "target": "car, internet, work, process, computer, walking, running, talking, delivery, service"}
+{"input": "suggest next: Warm your", "target": "food, body, hands, feet, room, house, heart, soup, tea, coffee"}
+{"input": "suggest next: Cool the", "target": "room, house, body, temper, food, drink, engine, soup, water, situation"}
+{"input": "suggest next: Light the", "target": "candle, fire, lamp, room, house, cigarette, stove, torch, sky, night"}
+{"input": "suggest next: Plan the", "target": "trip, meeting, party, project, lesson, event, week, journey, day, menu"}
+{"input": "suggest next: Break the", "target": "habit, glass, rule, record, silence, ice, door, window, lock, news"}
+{"input": "suggest next: Join the", "target": "team, club, meeting, group, discussion, project, family, community, game, party"}
+{"input": "suggest next: Follow the", "target": "instructions, rules, road, map, signs, leader, schedule, example, directions, path"}
+{"input": "suggest next: You look", "target": "happy, tired, sad, great, fine, upset, worried, sleepy, excited, calm, relaxed, surprised, confused, okay"}
+{"input": "suggest next: Today", "target": "is, we, go, play, eat, sleep, read, help, run, call"}
+{"input": "suggest next: Tomorrow", "target": "we, go, come, play, read, eat, sleep, help, start"}
+{"input": "suggest next: After lunch", "target": "we, go, read, play, sleep, walk, run, help, sit, rest"}
+{"input": "suggest next: Go to", "target": "park, school, store, doctor, hospital, market, room, kitchen, bathroom, bed, car, house, door, window"}
+{"input": "suggest next: Come to", "target": "party, kitchen, park, store, room, house, table, meeting, game, event"}
+{"input": "suggest next: Let's", "target": "study, read, write, play, eat, go, wait, try, help, sit, talk, begin, start, learn, share"}
+{"input": "suggest next: The teacher", "target": "is here, is coming, said, asked, told us, gave homework, is nice, is strict, is late, helps us"}
+{"input": "suggest next: I want to learn", "target": "math, science, English, reading, writing, drawing, dancing, singing, coding, painting, cooking"}
+{"input": "suggest next: This is", "target": "fun, boring, hard, easy, nice, new, old, mine, good, bad"}
+{"input": "suggest next: That was", "target": "fun, nice, loud, fast, great, scary, easy, quick, slow, amazing"}
+{"input": "suggest next: My friend is", "target": "nice, funny, kind, smart, happy, here, there, tall, strong, small"}
+{"input": "suggest next: Your teacher is", "target": "kind, strict, nice, helpful, here, talking, writing, teaching, reading, coming"}
+{"input": "suggest next: The doctor will", "target": "come, help, talk, check, give, call, wait, listen, write, explain"}
+{"input": "suggest next: wash", "target": "hands face clothes dishes car vegetables fruit floor windows"}
+{"input": "suggest next: wash hands", "target": "now soap again carefully"}
+{"input": "suggest next: wash face", "target": "now water again gently"}
+{"input": "suggest next: wash the", "target": "dishes hands fruits rice cup spoon table vegetables plate"}
+{"input": "suggest next: wash your", "target": "hands face hair clothes dishes feet car vegetables fruits windows"}
+{"input": "suggest next: I am", "target": "hungry tired happy sad fine okay ready busy sleepy sick"}
+{"input": "suggest next: I am not", "target": "okay ready hungry tired happy sad fine coming going sure"}
+{"input": "suggest next: I am feeling", "target": "tired happy fine better worse cold hot weak strong sick"}
+{"input": "suggest next: I am going to", "target": "school sleep eat play work read call help rest run"}
+{"input": "suggest next: I am not able to", "target": "go eat sleep play read help rest speak wait try"}
+{"input": "suggest next: I am unable to", "target": "go eat sleep play read help rest speak wait try"}
+{"input": "suggest next: I am ready to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am not ready to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am happy to", "target": "help go eat sleep play read speak rest run talk"}
+{"input": "suggest next: I am sad to", "target": "leave go say goodbye lose miss forget fail stop wait"}
+{"input": "suggest next: I am excited to", "target": "go eat sleep play read help speak rest run talk"}
+{"input": "suggest next: I am afraid to", "target": "go eat sleep play read help speak rest run talk"}
+{"input": "suggest next: I am sure to", "target": "win help go eat sleep play read call rest run"}
+{"input": "suggest next: I am likely to", "target": "win help go eat sleep play read call rest run"}
+{"input": "suggest next: I am unlikely to", "target": "win help go eat sleep play read call rest run"}
+{"input": "suggest next: I am supposed to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am allowed to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am not allowed to", "target": "go eat sleep play read help rest speak wait try"}
+{"input": "suggest next: I am trying to", "target": "help go eat sleep play read call rest run speak"}
+{"input": "suggest next: I am learning to", "target": "help go eat sleep play read call rest run speak"}
+{"input": "suggest next: I am teaching to", "target": "help go eat sleep play read call rest run speak"}
+{"input": "suggest next: I am waiting to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am hoping to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am planning to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am coming to", "target": "help go eat sleep play read call rest run speak"}
+{"input": "suggest next: I am leaving to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am looking for", "target": "food help bathroom phone book friend mom dad toy bag"}
+{"input": "suggest next: I feel",  "target": "happy sad tired sick hungry excited scared fine okay sleepy angry calm cold hot"}
+{"input": "suggest next: What time", "target": "eat,go,now"}
+{"input": "suggest next: What do", "target": "want,need,do"}
+{"input": "suggest next: What is", "target": "time,weather,date,price,address,phone,name,age,color,size"}
+{"input": "suggest next: What a", "target": "day,surprise,mess,view,shame,relief,joy,pity,disaster,performance,story,game,party,idea,coincidence,world,journey,change,difference,feeling,moment"}
+{"input": "suggest next: What an", "target": "adventure,experience,opportunity,achievement,honor,effort,idea,answer,event,accident,improvement,inspiration,example,explanation,excuse,error,attempt,offer,invitation,impression"}
+{"input": "suggest next: What surprise see", "target": "win,see,find,meet,know,gather"}
+{"input": "suggest next: What relief know", "target": "win,know,see,feel,get,answer,finish"}
+{"input": "suggest next: What joy finally", "target": "see,win,learn,share,do,experience,have,know,feel"}
+{"input": "suggest next: What mistake do", "target": "do,say,trust,forget,ignore,wait,believe,try,leave,miss"}
+{"input": "suggest next: Guess what", "target": "happen,see,find,do,hear,make,say"}
+{"input": "suggest next: What story", "target": "story,tell,hear,read,write,remember,share,believe,imagine,experience"}
+{"input": "suggest next: What disaster", "target": "disaster,see,hear,witness,experience,handle,solve,survive,remember"}
+{"input": "suggest next: What coincidence", "target": "coincidence,meet,see,hear,find,realize,witness,experience,know,discover"}
+{"input": "suggest next: How big", "target": "world,house,problem,opportunity,change,difference,challenge,surprise,event"}
+{"input": "suggest next: How small", "target": "world,house,problem,opportunity,change,difference,challenge,surprise,event"}
+{"input": "suggest next: What should", "target": "do,say,eat,read,bring,take,help,play,try"}
+{"input": "suggest next: What your", "target": "name,plan,idea,opinion,answer,question,problem,suggestion,hobby,favorite,color"}
+{"input": "suggest next: What", "target": "name,lunch,answer,problem,plan,reason,story,time"}

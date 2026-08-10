@@ -1,0 +1,24 @@
+{"input": "suggest next: wash", "target": "hands face clothes dishes car vegetables fruit floor windows"}
+{"input": "suggest next: wash hands", "target": "now soap again carefully"}
+{"input": "suggest next: wash face", "target": "now water again gently"}
+{"input": "suggest next: wash your", "target": "hands face hair clothes dishes feet car vegetables fruits windows"}
+{"input": "suggest next: I am", "target": "hungry tired happy sad fine okay ready busy sleepy sick"}
+{"input": "suggest next: I am not", "target": "okay ready hungry tired happy sad fine coming going sure"}
+{"input": "suggest next: I feel", "target": "happy sad tired sick hungry excited scared fine okay sleepy angry calm cold hot"}
+{"input": "suggest next: I am feeling", "target": "tired happy fine better worse cold hot weak strong sick"}
+{"input": "suggest next: I am going to", "target": "school sleep eat play work read call help rest run"}
+{"input": "suggest next: I am ready to", "target": "go eat sleep play read help call rest run speak"}
+{"input": "suggest next: I am sad to", "target": "leave go say goodbye lose miss forget fail stop wait"}
+{"input": "suggest next: I am happy to", "target": "help go eat sleep play read speak rest run talk"}
+{"input": "suggest next: I am looking for", "target": "food help bathroom phone book friend mom dad toy bag"}
+{"input": "suggest next: What do", "target": "want need do"}
+{"input": "suggest next: What time", "target": "eat go now"}
+{"input": "suggest next: What your", "target": "name plan idea opinion answer question problem suggestion hobby favorite color"}
+{"input": "suggest next: What a", "target": "day surprise mess view shame relief joy pity disaster performance story game party idea coincidence world journey change difference feeling moment"}
+{"input": "suggest next: What an", "target": "adventure experience opportunity achievement honor effort idea answer event accident improvement inspiration example explanation excuse error attempt offer invitation impression"}
+{"input": "suggest next: What surprise see", "target": "win see find meet know gather"}
+{"input": "suggest next: What joy finally", "target": "see win learn share do experience have know feel"}
+{"input": "suggest next: Guess what", "target": "happen see find do hear make say"}
+{"input": "suggest next: What disaster", "target": "disaster see hear witness experience handle solve survive remember"}
+{"input": "suggest next: How big", "target": "world house problem opportunity change difference challenge surprise event"}
+{"input": "suggest next: How small", "target": "world house problem opportunity change difference challenge surprise event"}

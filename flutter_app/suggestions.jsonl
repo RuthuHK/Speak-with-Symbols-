@@ -1,0 +1,455 @@
+{"bot": "The light is on.", "suggested": ["light", "on"]}
+{"bot": "I want to go to school.", "suggested": ["school", "want", "go", "i"]}
+{"bot": "My sister is tall.", "suggested": ["sister", "tall"]}
+{"bot": "I am tired.", "suggested": ["tired", "i"]}
+{"bot": "Please open the window.", "suggested": ["window", "please", "open"]}
+{"bot": "I am happy today.", "suggested": ["happy", "i", "today"]}
+{"bot": "I need my socks.", "suggested": ["i", "need", "socks"]}
+{"bot": "Where is my toothbrush?", "suggested": ["where", "toothbrush"]}
+{"bot": "Please pass the salt.", "suggested": ["pass", "please", "salt"]}
+{"bot": "Please turn off the television.", "suggested": ["television", "off", "please"]}
+{"bot": "I am brushing my teeth.", "suggested": ["my", "brush", "teeth", "i"]}
+{"bot": "Let's go to the park.", "suggested": ["go", "park", "the"]}
+{"bot": "I want to drink juice.", "suggested": ["i", "drink", "juice"]}
+{"bot": "She is cooking lunch.", "suggested": ["she", "cook", "lunch"]}
+{"bot": "He is eating a banana.", "suggested": ["he", "eat", "banana"]}
+{"bot": "The boy is jumping.", "suggested": ["boy", "jump"]}
+{"bot": "I am eating an apple.", "suggested": ["i", "eat", "apple"]}
+{"bot": "He is wearing a jacket.", "suggested": ["he", "wear", "jacket"]}
+{"bot": "I have a headache.", "suggested": ["i", "headache"]}
+{"bot": "She is playing with a doll.", "suggested": ["she", "doll", "playing", "with"]}
+{"bot": "I am reading a book.", "suggested": ["i", "book", "read"]}
+{"bot": "She is watching television.", "suggested": ["she", "watch", "television"]}
+{"bot": "It is raining outside.", "suggested": ["rain", "outside"]}
+{"bot": "I want to eat a sandwich.", "suggested": ["sandwich", "eat", "i"]}
+{"bot": "The bus is here.", "suggested": ["here", "bus"]}
+{"bot": "I want to ride a bike.", "suggested": ["bike", "ride", "want", "i"]}
+{"bot": "You need to ride the bus.", "suggested": ["bus", "ride", "need", "you"]}
+{"bot": "Can she drive a car?", "suggested": ["car", "drive", "can", "she"]}
+{"bot": "I want to wash my hands.", "suggested": ["hand", "wash", "want", "i"]}
+{"bot": "You need to wash your face.", "suggested": ["face", "wash", "need", "you"]}
+{"bot": "Can he brush his teeth?", "suggested": ["teeth", "brush", "can", "he"]}
+{"bot": "I want to use the phone.", "suggested": ["phone", "use", "want", "i"]}
+{"bot": "You need to read a book.", "suggested": ["book", "read", "need", "you"]}
+{"bot": "Can she sit on the chair?", "suggested": ["chair", "sit", "can", "she"]}
+{"bot": "I want to use the phone.", "suggested": ["phone", "use", "want", "i"]}
+{"bot": "I want to wear a shirt.", "suggested": ["shirt", "wear", "want", "i"]}
+{"bot": "You need to wear shoes.", "suggested": ["shoes", "wear", "need", "you"]}
+{"bot": "Can he wear a jacket?", "suggested": ["jacket", "wear", "can", "he"]}
+{"bot": "I want to eat an apple.", "suggested": ["apple", "eat", "want", "i"]}
+{"bot": "Can I eat a banana?", "suggested": ["banana", "eat", "can", "i"]}
+{"bot": "You need to eat bread.", "suggested": ["bread", "eat", "need", "you"]}
+{"bot": "She wants to eat rice.", "suggested": ["rice", "eat", "want", "she"]}
+{"bot": "I want to go to school.", "suggested": ["school", "go", "want", "i"]}
+{"bot": "You need to go to the park.", "suggested": ["park", "go", "need", "you"]}
+{"bot": "Can we go to the market?", "suggested": ["market", "go", "can", "we"]}
+{"bot": "They want to go home.", "suggested": ["home", "go", "want", "they"]}
+{"bot": "Good morning!", "suggested": ["good", "morning"]}
+{"bot": "How are you today?", "suggested": ["how", "you", "today"]}
+{"bot": "Nice to meet you.", "suggested": ["nice", "meet"]}
+{"bot": "What's your name?", "suggested": ["what", "name"]}
+{"bot": "My name is Sarah.", "suggested": ["my", "name", "Sarah"]}
+{"bot": "How was your day?", "suggested": ["how", "day"]}
+{"bot": "Good evening!", "suggested": ["good", "evening"]}
+{"bot": "See you later.", "suggested": ["see", "later"]}
+{"bot": "Have a good day.", "suggested": ["have", "good", "day"]}
+{"bot": "Take care.", "suggested": ["take", "care"]}
+{"bot": "I woke up early today.", "suggested": ["wake", "early"]}
+{"bot": "I need to brush my teeth.", "suggested": ["need", "brush", "teeth"]}
+{"bot": "What's for breakfast?", "suggested": ["what", "breakfast"]}
+{"bot": "I'm getting dressed.", "suggested": ["getting", "dressed"]}
+{"bot": "I'm running late.", "suggested": ["running", "late"]}
+{"bot": "I need to catch the bus.", "suggested": ["need", "catch", "bus"]}
+{"bot": "Traffic is heavy today.", "suggested": ["traffic", "heavy"]}
+{"bot": "I'm going to work.", "suggested": ["going", "work"]}
+{"bot": "What time is it?", "suggested": ["what", "time"]}
+{"bot": "I'm having lunch now.", "suggested": ["having", "lunch"]}
+{"bot": "I'm tired today.", "suggested": ["tired", "today"]}
+{"bot": "I need to go home.", "suggested": ["need", "go", "home"]}
+{"bot": "I'm cooking dinner.", "suggested": ["cooking", "dinner"]}
+{"bot": "Let's watch TV.", "suggested": ["watch", "TV"]}
+{"bot": "I'm going to bed.", "suggested": ["going", "bed"]}
+{"bot": "I'm hungry.", "suggested": ["I", "hungry"]}
+{"bot": "What would you like to eat?", "suggested": ["what", "like", "eat"]}
+{"bot": "Can I have the menu?", "suggested": ["can", "have", "menu"]}
+{"bot": "I'll have a coffee.", "suggested": ["have", "coffee"]}
+{"bot": "This tastes good.", "suggested": ["this", "taste", "good"]}
+{"bot": "I'm full.", "suggested": ["I", "full"]}
+{"bot": "Could I get the check?", "suggested": ["could", "get", "check"]}
+{"bot": "I'm thirsty.", "suggested": ["I", "thirsty"]}
+{"bot": "Pass the salt, please.", "suggested": ["pass", "salt", "please"]}
+{"bot": "This is delicious.", "suggested": ["this", "delicious"]}
+{"bot": "I don't eat meat.", "suggested": ["not", "eat", "meat"]}
+{"bot": "Is this spicy?", "suggested": ["this", "spicy"]}
+{"bot": "I'd like some water.", "suggested": ["like", "some", "water"]}
+{"bot": "What's your favorite food?", "suggested": ["what", "favorite", "food"]}
+{"bot": "Let's order pizza.", "suggested": ["order", "pizza"]}
+{"bot": "How much does this cost?", "suggested": ["how", "much", "cost"]}
+{"bot": "Do you have this in blue?", "suggested": ["have", "this", "blue"]}
+{"bot": "Where's the bathroom?", "suggested": ["where", "bathroom"]}
+{"bot": "I'm just looking.", "suggested": ["just", "looking"]}
+{"bot": "Can I try this on?", "suggested": ["can", "try", "on"]}
+{"bot": "Do you accept credit cards?", "suggested": ["accept", "credit", "cards"]}
+{"bot": "This is too expensive.", "suggested": ["too", "expensive"]}
+{"bot": "I'll take it.", "suggested": ["take", "it"]}
+{"bot": "Can I get a receipt?", "suggested": ["can", "get", "receipt"]}
+{"bot": "Is this on sale?", "suggested": ["this", "sale"]}
+{"bot": "Where can I find milk?", "suggested": ["where", "find", "milk"]}
+{"bot": "I need to buy groceries.", "suggested": ["need", "buy", "groceries"]}
+{"bot": "What size do you need?", "suggested": ["what", "size", "need"]}
+{"bot": "This doesn't fit.", "suggested": ["this", "fit"]}
+{"bot": "Can I return this?", "suggested": ["can", "return"]}
+{"bot": "I have a meeting today.", "suggested": ["have", "meeting", "today"]}
+{"bot": "What time do you start work?", "suggested": ["what", "time", "start", "work"]}
+{"bot": "I'm busy right now.", "suggested": ["busy", "right", "now"]}
+{"bot": "Can you help me?", "suggested": ["can", "help"]}
+{"bot": "I need to finish this.", "suggested": ["need", "finish"]}
+{"bot": "When is the deadline?", "suggested": ["when", "deadline"]}
+{"bot": "I have homework to do.", "suggested": ["have", "homework"]}
+{"bot": "The printer is broken.", "suggested": ["printer", "broken"]}
+{"bot": "I'm working late tonight.", "suggested": ["working", "late", "tonight"]}
+{"bot": "Can we reschedule?", "suggested": ["can", "reschedule"]}
+{"bot": "I need a vacation.", "suggested": ["need", "vacation"]}
+{"bot": "How was the meeting?", "suggested": ["how", "meeting"]}
+{"bot": "I passed the test.", "suggested": ["passed", "test"]}
+{"bot": "Class starts at nine.", "suggested": ["class", "starts", "nine"]}
+{"bot": "I forgot my laptop.", "suggested": ["forgot", "laptop"]}
+{"bot": "It's raining today.", "suggested": ["raining", "today"]}
+{"bot": "It's really hot outside.", "suggested": ["really", "hot", "outside"]}
+{"bot": "What's the weather like?", "suggested": ["what", "weather", "like"]}
+{"bot": "It's cold this morning.", "suggested": ["cold", "morning"]}
+{"bot": "The sun is shining.", "suggested": ["sun", "shining"]}
+{"bot": "It might snow tomorrow.", "suggested": ["might", "snow", "tomorrow"]}
+{"bot": "What time does it start?", "suggested": ["what", "time", "start"]}
+{"bot": "We're early.", "suggested": ["we", "early"]}
+{"bot": "You're late.", "suggested": ["you", "late"]}
+{"bot": "It's almost time.", "suggested": ["almost", "time"]}
+{"bot": "The weather is nice.", "suggested": ["weather", "nice"]}
+{"bot": "It's windy today.", "suggested": ["windy", "today"]}
+{"bot": "I love sunny days.", "suggested": ["love", "sunny", "days"]}
+{"bot": "Winter is coming.", "suggested": ["winter", "coming"]}
+{"bot": "Spring is my favorite season.", "suggested": ["spring", "favorite", "season"]}
+{"bot": "Where's the nearest bus stop?", "suggested": ["where", "nearest", "bus", "stop"]}
+{"bot": "I missed my train.", "suggested": ["missed", "train"]}
+{"bot": "How do I get there?", "suggested": ["how", "get", "there"]}
+{"bot": "Can you give me directions?", "suggested": ["can", "give", "directions"]}
+{"bot": "Turn left at the corner.", "suggested": ["turn", "left", "corner"]}
+{"bot": "It's straight ahead.", "suggested": ["straight", "ahead"]}
+{"bot": "I need to fill up gas.", "suggested": ["need", "fill", "gas"]}
+{"bot": "The car won't start.", "suggested": ["car", "start"]}
+{"bot": "I'll walk there.", "suggested": ["walk", "there"]}
+{"bot": "How far is it?", "suggested": ["how", "far"]}
+{"bot": "Traffic is terrible.", "suggested": ["traffic", "terrible"]}
+{"bot": "I need to call a taxi.", "suggested": ["need", "call", "taxi"]}
+{"bot": "The flight is delayed.", "suggested": ["flight", "delayed"]}
+{"bot": "Where did you park?", "suggested": ["where", "park"]}
+{"bot": "I lost my keys.", "suggested": ["lost", "keys"]}
+{"bot": "I don't feel well.", "suggested": ["not", "feel", "well"]}
+{"bot": "I have a headache.", "suggested": ["have", "headache"]}
+{"bot": "I'm feeling better.", "suggested": ["feeling", "better"]}
+{"bot": "I need to see a doctor.", "suggested": ["need", "see", "doctor"]}
+{"bot": "I'm happy today.", "suggested": ["happy", "today"]}
+{"bot": "I feel sad.", "suggested": ["feel", "sad"]}
+{"bot": "I'm excited about tomorrow.", "suggested": ["excited", "tomorrow"]}
+{"bot": "I'm worried about the test.", "suggested": ["worried", "test"]}
+{"bot": "I'm stressed out.", "suggested": ["stressed", "out"]}
+{"bot": "I feel great.", "suggested": ["feel", "great"]}
+{"bot": "I'm nervous.", "suggested": ["I", "nervous"]}
+{"bot": "I can't sleep.", "suggested": ["can", "sleep"]}
+{"bot": "I need to exercise.", "suggested": ["need", "exercise"]}
+{"bot": "I feel sick.", "suggested": ["feel", "sick"]}
+{"bot": "I'm getting better.", "suggested": ["getting", "better"]}
+{"bot": "This is my sister.", "suggested": ["this", "sister"]}
+{"bot": "I love you.", "suggested": ["love", "you"]}
+{"bot": "How's your family?", "suggested": ["how", "family"]}
+{"bot": "I miss you.", "suggested": ["miss", "you"]}
+{"bot": "My mom called today.", "suggested": ["mom", "called", "today"]}
+{"bot": "I have two brothers.", "suggested": ["have", "two", "brothers"]}
+{"bot": "Are you married?", "suggested": ["you", "married"]}
+{"bot": "I'm single.", "suggested": ["I", "single"]}
+{"bot": "This is my friend.", "suggested": ["this", "friend"]}
+{"bot": "We're dating.", "suggested": ["we", "dating"]}
+{"bot": "I have a baby.", "suggested": ["have", "baby"]}
+{"bot": "My dad works here.", "suggested": ["dad", "works", "here"]}
+{"bot": "She's my best friend.", "suggested": ["she", "best", "friend"]}
+{"bot": "We're getting married.", "suggested": ["getting", "married"]}
+{"bot": "I'm divorced.", "suggested": ["I", "divorced"]}
+{"bot": "My phone is dead.", "suggested": ["phone", "dead"]}
+{"bot": "Can I use your phone?", "suggested": ["can", "use", "phone"]}
+{"bot": "What's your number?", "suggested": ["what", "number"]}
+{"bot": "I'll call you later.", "suggested": ["call", "later"]}
+{"bot": "Send me a text.", "suggested": ["send", "text"]}
+{"bot": "Check your email.", "suggested": ["check", "email"]}
+{"bot": "The internet is slow.", "suggested": ["internet", "slow"]}
+{"bot": "I need to charge my phone.", "suggested": ["need", "charge", "phone"]}
+{"bot": "Can you take a picture?", "suggested": ["can", "take", "picture"]}
+{"bot": "I posted it online.", "suggested": ["posted", "online"]}
+{"bot": "I got a new phone.", "suggested": ["got", "new", "phone"]}
+{"bot": "The computer crashed.", "suggested": ["computer", "crashed"]}
+{"bot": "I forgot my password.", "suggested": ["forgot", "password"]}
+{"bot": "Can you help me with this app?", "suggested": ["can", "help", "app"]}
+{"bot": "I'll message you.", "suggested": ["message", "you"]}
+{"bot": "What's on TV tonight?", "suggested": ["what", "TV", "tonight"]}
+{"bot": "I love this song.", "suggested": ["love", "song"]}
+{"bot": "Let's go to the movies.", "suggested": ["go", "movies"]}
+{"bot": "Do you like sports?", "suggested": ["like", "sports"]}
+{"bot": "I play guitar.", "suggested": ["play", "guitar"]}
+{"bot": "What do you do for fun?", "suggested": ["what", "do", "fun"]}
+{"bot": "I like to read books.", "suggested": ["like", "read", "books"]}
+{"bot": "Let's play a game.", "suggested": ["play", "game"]}
+{"bot": "I enjoy cooking.", "suggested": ["enjoy", "cooking"]}
+{"bot": "What kind of music do you like?", "suggested": ["what", "music", "like"]}
+{"bot": "I went to a concert.", "suggested": ["went", "concert"]}
+{"bot": "I love dancing.", "suggested": ["love", "dancing"]}
+{"bot": "Let's go for a walk.", "suggested": ["go", "walk"]}
+{"bot": "I collect stamps.", "suggested": ["collect", "stamps"]}
+{"bot": "I like painting.", "suggested": ["like", "painting"]}
+{"bot": "Yes, please.", "suggested": ["yes", "please"]}
+{"bot": "No, thank you.", "suggested": ["no", "thank"]}
+{"bot": "I don't know.", "suggested": ["not", "know"]}
+{"bot": "Maybe later.", "suggested": ["maybe", "later"]}
+{"bot": "I think so.", "suggested": ["think", "so"]}
+{"bot": "I'm not sure.", "suggested": ["not", "sure"]}
+{"bot": "That's right.", "suggested": ["that", "right"]}
+{"bot": "I agree.", "suggested": ["I", "agree"]}
+{"bot": "I disagree.", "suggested": ["I", "disagree"]}
+{"bot": "That's interesting.", "suggested": ["that", "interesting"]}
+{"bot": "Really?", "suggested": ["really"]}
+{"bot": "No way!", "suggested": ["no", "way"]}
+{"bot": "That's funny.", "suggested": ["that", "funny"]}
+{"bot": "I understand.", "suggested": ["I", "understand"]}
+{"bot": "I don't understand.", "suggested": ["not", "understand"]}
+{"bot": "Can you help me?", "suggested": ["can", "help"]}
+{"bot": "Could you please repeat that?", "suggested": ["could", "repeat"]}
+{"bot": "Would you like some coffee?", "suggested": ["would", "like", "coffee"]}
+{"bot": "Can I borrow your pen?", "suggested": ["can", "borrow", "pen"]}
+{"bot": "Let me help you.", "suggested": ["let", "help"]}
+{"bot": "Do you need anything?", "suggested": ["need", "anything"]}
+{"bot": "Can I ask you something?", "suggested": ["can", "ask", "something"]}
+{"bot": "Would you mind closing the door?", "suggested": ["would", "mind", "closing", "door"]}
+{"bot": "Could I have some water?", "suggested": ["could", "have", "water"]}
+{"bot": "Can you speak louder?", "suggested": ["can", "speak", "louder"]}
+{"bot": "May I sit here?", "suggested": ["may", "sit", "here"]}
+{"bot": "Do you want to come?", "suggested": ["want", "come"]}
+{"bot": "Can you show me?", "suggested": ["can", "show"]}
+{"bot": "Would you like to join us?", "suggested": ["would", "like", "join"]}
+{"bot": "Let me know if you need help.", "suggested": ["let", "know", "need", "help"]}
+{"bot": "Where is the library?", "suggested": ["where", "library"]}
+{"bot": "It's next to the bank.", "suggested": ["next", "bank"]}
+{"bot": "Go straight and turn right.", "suggested": ["go", "straight", "turn", "right"]}
+{"bot": "It's on the second floor.", "suggested": ["second", "floor"]}
+{"bot": "The store is closed.", "suggested": ["store", "closed"]}
+{"bot": "I'm lost.", "suggested": ["I", "lost"]}
+{"bot": "Can you show me on the map?", "suggested": ["can", "show", "map"]}
+{"bot": "It's across the street.", "suggested": ["across", "street"]}
+{"bot": "Take the elevator.", "suggested": ["take", "elevator"]}
+{"bot": "It's behind the building.", "suggested": ["behind", "building"]}
+{"bot": "The exit is over there.", "suggested": ["exit", "over", "there"]}
+{"bot": "Where's the parking lot?", "suggested": ["where", "parking", "lot"]}
+{"bot": "It's upstairs.", "suggested": ["upstairs"]}
+{"bot": "Follow the signs.", "suggested": ["follow", "signs"]}
+{"bot": "You can't miss it.", "suggested": ["can", "miss"]}
+{"bot": "How much is this?", "suggested": ["how", "much", "this"]}
+{"bot": "That's too expensive.", "suggested": ["too", "expensive"]}
+{"bot": "Do you have change?", "suggested": ["have", "change"]}
+{"bot": "I need to go to the bank.", "suggested": ["need", "go", "bank"]}
+{"bot": "Can I pay by card?", "suggested": ["can", "pay", "card"]}
+{"bot": "Keep the change.", "suggested": ["keep", "change"]}
+{"bot": "I'm saving money.", "suggested": ["saving", "money"]}
+{"bot": "I need to pay bills.", "suggested": ["need", "pay", "bills"]}
+{"bot": "Business is good.", "suggested": ["business", "good"]}
+{"bot": "I got a raise.", "suggested": ["got", "raise"]}
+{"bot": "I'm looking for a job.", "suggested": ["looking", "job"]}
+{"bot": "The meeting is at three.", "suggested": ["meeting", "three"]}
+{"bot": "Send me the report.", "suggested": ["send", "report"]}
+{"bot": "I'll check my schedule.", "suggested": ["check", "schedule"]}
+{"bot": "Let's make a deal.", "suggested": ["make", "deal"]}
+{"bot": "I need help.", "suggested": ["need", "help"]}
+{"bot": "Call the police.", "suggested": ["call", "police"]}
+{"bot": "There's a problem.", "suggested": ["there", "problem"]}
+{"bot": "I lost my wallet.", "suggested": ["lost", "wallet"]}
+{"bot": "My car broke down.", "suggested": ["car", "broke", "down"]}
+{"bot": "I'm locked out.", "suggested": ["locked", "out"]}
+{"bot": "The power is out.", "suggested": ["power", "out"]}
+{"bot": "I cut my finger.", "suggested": ["cut", "finger"]}
+{"bot": "I can't find my keys.", "suggested": ["find", "keys"]}
+{"bot": "Something's wrong.", "suggested": ["something", "wrong"]}
+{"bot": "I need a doctor.", "suggested": ["need", "doctor"]}
+{"bot": "Call an ambulance.", "suggested": ["call", "ambulance"]}
+{"bot": "There's been an accident.", "suggested": ["been", "accident"]}
+{"bot": "I'm in trouble.", "suggested": ["in", "trouble"]}
+{"bot": "Can you fix this?", "suggested": ["can", "fix"]}
+{"bot": "I like this color.", "suggested": ["like", "color"]}
+{"bot": "I don't like vegetables.", "suggested": ["not", "like", "vegetables"]}
+{"bot": "This is my favorite.", "suggested": ["this", "favorite"]}
+{"bot": "I prefer tea over coffee.", "suggested": ["prefer", "tea", "coffee"]}
+{"bot": "I think it's good.", "suggested": ["think", "good"]}
+{"bot": "In my opinion, it's wrong.", "suggested": ["opinion", "wrong"]}
+{"bot": "I love chocolate.", "suggested": ["love", "chocolate"]}
+{"bot": "I hate waiting.", "suggested": ["hate", "waiting"]}
+{"bot": "I don't mind.", "suggested": ["not", "mind"]}
+{"bot": "It doesn't matter.", "suggested": ["not", "matter"]}
+{"bot": "I'm not interested.", "suggested": ["not", "interested"]}
+{"bot": "That sounds good.", "suggested": ["sounds", "good"]}
+{"bot": "I'd rather stay home.", "suggested": ["rather", "stay", "home"]}
+{"bot": "I enjoy sunny weather.", "suggested": ["enjoy", "sunny", "weather"]}
+{"bot": "I can't stand noise.", "suggested": ["stand", "noise"]}
+{"bot": "I went shopping yesterday.", "suggested": ["went", "shopping", "yesterday"]}
+{"bot": "Tomorrow is my birthday.", "suggested": ["tomorrow", "birthday"]}
+{"bot": "I used to live there.", "suggested": ["used", "live", "there"]}
+{"bot": "I will call you later.", "suggested": ["will", "call", "later"]}
+{"bot": "I'm going on vacation.", "suggested": ["going", "vacation"]}
+{"bot": "Last week was busy.", "suggested": ["last", "week", "busy"]}
+{"bot": "I plan to study tonight.", "suggested": ["plan", "study", "tonight"]}
+{"bot": "I've been there before.", "suggested": ["been", "there", "before"]}
+{"bot": "Next month I start work.", "suggested": ["next", "month", "start", "work"]}
+{"bot": "I finished the project.", "suggested": ["finished", "project"]}
+{"bot": "I'm going to be late.", "suggested": ["going", "be", "late"]}
+{"bot": "We visited Paris last year.", "suggested": ["visited", "Paris", "last", "year"]}
+{"bot": "I'll see you tomorrow.", "suggested": ["see", "tomorrow"]}
+{"bot": "I used to play soccer.", "suggested": ["used", "play", "soccer"]}
+{"bot": "The movie starts at eight.", "suggested": ["movie", "starts", "eight"]}
+{"bot": "She has long hair.", "suggested": ["she", "long", "hair"]}
+{"bot": "He's wearing a blue shirt.", "suggested": ["wearing", "blue", "shirt"]}
+{"bot": "The house is big.", "suggested": ["house", "big"]}
+{"bot": "It's a beautiful day.", "suggested": ["beautiful", "day"]}
+{"bot": "The food smells good.", "suggested": ["food", "smells", "good"]}
+{"bot": "The music is loud.", "suggested": ["music", "loud"]}
+{"bot": "This book is interesting.", "suggested": ["book", "interesting"]}
+{"bot": "The water is cold.", "suggested": ["water", "cold"]}
+{"bot": "That's a nice car.", "suggested": ["nice", "car"]}
+{"bot": "The room is clean.", "suggested": ["room", "clean"]}
+{"bot": "It's very quiet here.", "suggested": ["very", "quiet", "here"]}
+{"bot": "The dog is friendly.", "suggested": ["dog", "friendly"]}
+{"bot": "This coffee is strong.", "suggested": ["coffee", "strong"]}
+{"bot": "The movie was boring.", "suggested": ["movie", "boring"]}
+{"bot": "The flowers are pretty.", "suggested": ["flowers", "pretty"]}
+{"bot": "I'm sorry.", "suggested": ["I", "sorry"]}
+{"bot": "Excuse me.", "suggested": ["excuse", "me"]}
+{"bot": "My apologies.", "suggested": ["my", "apologies"]}
+{"bot": "Thank you very much.", "suggested": ["thank", "very", "much"]}
+{"bot": "Thanks for helping.", "suggested": ["thanks", "helping"]}
+{"bot": "I appreciate it.", "suggested": ["appreciate", "it"]}
+{"bot": "You're welcome.", "suggested": ["you", "welcome"]}
+{"bot": "Don't mention it.", "suggested": ["mention", "it"]}
+{"bot": "No problem.", "suggested": ["no", "problem"]}
+{"bot": "Sorry I'm late.", "suggested": ["sorry", "late"]}
+{"bot": "Thank you for waiting.", "suggested": ["thank", "waiting"]}
+{"bot": "I'm sorry to bother you.", "suggested": ["sorry", "bother"]}
+{"bot": "Thanks for calling.", "suggested": ["thanks", "calling"]}
+{"bot": "I owe you one.", "suggested": ["owe", "one"]}
+{"bot": "That's very kind of you.", "suggested": ["very", "kind"]}
+{"bot": "I'm learning English.", "suggested": ["learning", "English"]}
+{"bot": "Can you teach me?", "suggested": ["can", "teach"]}
+{"bot": "I don't understand this word.", "suggested": ["understand", "word"]}
+{"bot": "How do you spell that?", "suggested": ["how", "spell"]}
+{"bot": "What does this mean?", "suggested": ["what", "mean"]}
+{"bot": "I'm studying for exams.", "suggested": ["studying", "exams"]}
+{"bot": "I need to practice more.", "suggested": ["need", "practice", "more"]}
+{"bot": "The teacher is nice.", "suggested": ["teacher", "nice"]}
+{"bot": "I passed the course.", "suggested": ["passed", "course"]}
+{"bot": "School starts Monday.", "suggested": ["school", "starts", "Monday"]}
+{"bot": "I have a question.", "suggested": ["have", "question"]}
+{"bot": "Can you explain this?", "suggested": ["can", "explain"]}
+{"bot": "I'm taking notes.", "suggested": ["taking", "notes"]}
+{"bot": "The homework is difficult.", "suggested": ["homework", "difficult"]}
+{"bot": "I learned something new.", "suggested": ["learned", "something", "new"]}
+{"bot": "I need to do laundry.", "suggested": ["need", "do", "laundry"]}
+{"bot": "The dishes are dirty.", "suggested": ["dishes", "dirty"]}
+{"bot": "Can you vacuum the floor?", "suggested": ["can", "vacuum", "floor"]}
+{"bot": "I'm cleaning the house.", "suggested": ["cleaning", "house"]}
+{"bot": "Take out the trash.", "suggested": ["take", "out", "trash"]}
+{"bot": "The bathroom needs cleaning.", "suggested": ["bathroom", "needs", "cleaning"]}
+{"bot": "I'm washing the car.", "suggested": ["washing", "car"]}
+{"bot": "The bed is made.", "suggested": ["bed", "made"]}
+{"bot": "Turn off the lights.", "suggested": ["turn", "off", "lights"]}
+{"bot": "Lock the door.", "suggested": ["lock", "door"]}
+{"bot": "Water the plants.", "suggested": ["water", "plants"]}
+{"bot": "Feed the cat.", "suggested": ["feed", "cat"]}
+{"bot": "The washing machine is broken.", "suggested": ["washing", "machine", "broken"]}
+{"bot": "I ironed my shirt.", "suggested": ["ironed", "shirt"]}
+{"bot": "Clean up your room.", "suggested": ["clean", "room"]}
+{"bot": "I play tennis.", "suggested": ["play", "tennis"]}
+{"bot": "Let's go jogging.", "suggested": ["go", "jogging"]}
+{"bot": "I work out every day.", "suggested": ["work", "out", "every", "day"]}
+{"bot": "Who won the game?", "suggested": ["who", "won", "game"]}
+{"bot": "I'm joining a gym.", "suggested": ["joining", "gym"]}
+{"bot": "I love swimming.", "suggested": ["love", "swimming"]}
+{"bot": "The team played well.", "suggested": ["team", "played", "well"]}
+{"bot": "I hurt my knee.", "suggested": ["hurt", "knee"]}
+{"bot": "Let's play basketball.", "suggested": ["play", "basketball"]}
+{"bot": "I need new running shoes.", "suggested": ["need", "new", "running", "shoes"]}
+{"bot": "The match is tonight.", "suggested": ["match", "tonight"]}
+{"bot": "I'm training for a marathon.", "suggested": ["training", "marathon"]}
+{"bot": "Soccer is popular here.", "suggested": ["soccer", "popular", "here"]}
+{"bot": "I watch football on Sunday.", "suggested": ["watch", "football", "Sunday"]}
+{"bot": "Exercise is important.", "suggested": ["exercise", "important"]}
+{"bot": "I collect coins.", "suggested": ["collect", "coins"]}
+{"bot": "Photography is my hobby.", "suggested": ["photography", "hobby"]}
+{"bot": "I like gardening.", "suggested": ["like", "gardening"]}
+{"bot": "I'm learning to paint.", "suggested": ["learning", "paint"]}
+{"bot": "I enjoy hiking.", "suggested": ["enjoy", "hiking"]}
+{"bot": "I play chess.", "suggested": ["play", "chess"]}
+{"bot": "I love animals.", "suggested": ["love", "animals"]}
+{"bot": "I'm into computers.", "suggested": ["into", "computers"]}
+{"bot": "I play video games.", "suggested": ["play", "video", "games"]}
+{"bot": "I like to travel.", "suggested": ["like", "travel"]}
+{"bot": "Reading relaxes me.", "suggested": ["reading", "relaxes"]}
+{"bot": "I'm learning piano.", "suggested": ["learning", "piano"]}
+{"bot": "I enjoy nature.", "suggested": ["enjoy", "nature"]}
+{"bot": "I make jewelry.", "suggested": ["make", "jewelry"]}
+{"bot": "Cooking is fun.", "suggested": ["cooking", "fun"]}
+{"bot": "I'm going on a trip.", "suggested": ["going", "trip"]}
+{"bot": "Where should I visit?", "suggested": ["where", "should", "visit"]}
+{"bot": "I need a passport.", "suggested": ["need", "passport"]}
+{"bot": "The hotel is nice.", "suggested": ["hotel", "nice"]}
+{"bot": "I'm packing my bags.", "suggested": ["packing", "bags"]}
+{"bot": "The flight is tomorrow.", "suggested": ["flight", "tomorrow"]}
+{"bot": "I love this city.", "suggested": ["love", "city"]}
+{"bot": "Let's take a taxi.", "suggested": ["take", "taxi"]}
+{"bot": "Where's the tourist office?", "suggested": ["where", "tourist", "office"]}
+{"bot": "I need a map.", "suggested": ["need", "map"]}
+{"bot": "The beach is beautiful.", "suggested": ["beach", "beautiful"]}
+{"bot": "I'm homesick.", "suggested": ["I", "homesick"]}
+{"bot": "This place is amazing.", "suggested": ["place", "amazing"]}
+{"bot": "I'm jet-lagged.", "suggested": ["jet", "lagged"]}
+{"bot": "I bought souvenirs.", "suggested": ["bought", "souvenirs"]}
+{"bot": "Happy birthday!", "suggested": ["happy", "birthday"]}
+{"bot": "Congratulations!", "suggested": ["congratulations"]}
+{"bot": "Merry Christmas!", "suggested": ["merry", "Christmas"]}
+{"bot": "Happy New Year!", "suggested": ["happy", "new", "year"]}
+{"bot": "Let's celebrate.", "suggested": ["celebrate"]}
+{"bot": "I'm having a party.", "suggested": ["having", "party"]}
+{"bot": "What are you doing tonight?", "suggested": ["what", "doing", "tonight"]}
+{"bot": "The wedding is Saturday.", "suggested": ["wedding", "Saturday"]}
+{"bot": "I got invited.", "suggested": ["got", "invited"]}
+{"bot": "Let's go out.", "suggested": ["go", "out"]}
+{"bot": "I'm getting married.", "suggested": ["getting", "married"]}
+{"bot": "It's my anniversary.", "suggested": ["my", "anniversary"]}
+{"bot": "We're having guests.", "suggested": ["having", "guests"]}
+{"bot": "I love parties.", "suggested": ["love", "parties"]}
+{"bot": "The concert was great.", "suggested": ["concert", "great"]}
+{"bot": "I wake up at seven.", "suggested": ["wake", "seven"]}
+{"bot": "I take a shower.", "suggested": ["take", "shower"]}
+{"bot": "I have breakfast.", "suggested": ["have", "breakfast"]}
+{"bot": "I brush my hair.", "suggested": ["brush", "hair"]}
+{"bot": "I leave for work.", "suggested": ["leave", "work"]}
+{"bot": "I come home tired.", "suggested": ["come", "home", "tired"]}
+{"bot": "I make dinner.", "suggested": ["make", "dinner"]}
+{"bot": "I watch the news.", "suggested": ["watch", "news"]}
+{"bot": "I read before bed.", "suggested": ["read", "before", "bed"]}
+{"bot": "I set my alarm.", "suggested": ["set", "alarm"]}
+{"bot": "I take vitamins.", "suggested": ["take", "vitamins"]}
+{"bot": "I walk the dog.", "suggested": ["walk", "dog"]}
+{"bot": "I check my messages.", "suggested": ["check", "messages"]}
+{"bot": "I turn off my phone.", "suggested": ["turn", "off", "phone"]}
+{"bot": "I go to sleep.", "suggested": ["go", "sleep"]}
+{"bot": "What a day!", "suggested": ["what", "day"]}
+{"bot": "I'm exhausted.", "suggested": ["I", "exhausted"]}
+{"bot": "Time flies.", "suggested": ["time", "flies"]}
+{"bot": "Life is good.", "suggested": ["life", "good"]}
+{"bot": "Another day, another dollar.", "suggested": ["another", "day", "another", "dollar"]}
+{"bot": "I can't wait for the weekend.", "suggested": ["wait", "weekend"]}
+{"bot": "Monday blues.", "suggested": ["Monday", "blues"]}
+{"bot": "Thank God it's Friday.", "suggested": ["thank", "God", "Friday"]}
+{"bot": "i need more coffee", "suggested": ["need", "more", "coffee"]}
